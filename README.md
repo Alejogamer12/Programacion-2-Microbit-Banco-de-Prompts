@@ -1,8 +1,9 @@
 # Programación 2 - BBC micro:bit - Banco de Prompts
 
-**Estudiante:** Alejandro Bruges  
-**Grado:** 11  
+**Estudiante:** Alejandro Elías Bruges Blanco  
+**Grado:** 11-7  
 **Asignatura:** Programación 2  
+**Docente:** Ing. Leonardo Arias  
 **Modalidad:** Hardware y Software  
 **Institución:** I.E.D.T. INEM Simón Bolívar  
 **Año escolar:** 2026  
