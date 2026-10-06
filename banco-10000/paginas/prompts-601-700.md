@@ -1,402 +1,402 @@
 # Prompts 601–700
 
-## 601. Juego: señal con botón B 601
+## 601. sorteo especial de dados y azar — 601
 
-Crea un proyecto de **juego** para BBC micro:bit en MicroPython llamado **Juego: señal con botón B 601**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de dados y azar — 601** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 602. Ciencia: señal con botón B 602
+## 602. sorteo especial de semáforos — 602
 
-Crea un proyecto de **ciencia** para BBC micro:bit en MicroPython llamado **Ciencia: señal con botón B 602**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de semáforos — 602** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 603. Deporte: señal con botón B 603
+## 603. sorteo especial de temperatura — 603
 
-Crea un proyecto de **deporte** para BBC micro:bit en MicroPython llamado **Deporte: señal con botón B 603**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de temperatura — 603** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 604. Colegio: señal con botón B 604
+## 604. sorteo especial de brújula — 604
 
-Crea un proyecto de **colegio** para BBC micro:bit en MicroPython llamado **Colegio: señal con botón B 604**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de brújula — 604** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 605. Seguridad: señal con botón B 605
+## 605. sorteo especial de deportes — 605
 
-Crea un proyecto de **seguridad** para BBC micro:bit en MicroPython llamado **Seguridad: señal con botón B 605**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de deportes — 605** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 606. Música: señal con botón B 606
+## 606. sorteo especial de reflejos — 606
 
-Crea un proyecto de **música** para BBC micro:bit en MicroPython llamado **Música: señal con botón B 606**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de reflejos — 606** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 607. Matemáticas: señal con botón B 607
+## 607. sorteo especial de mascotas digitales — 607
 
-Crea un proyecto de **matemáticas** para BBC micro:bit en MicroPython llamado **Matemáticas: señal con botón B 607**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de mascotas digitales — 607** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 608. Clima: señal con botón B 608
+## 608. sorteo especial de alarmas — 608
 
-Crea un proyecto de **clima** para BBC micro:bit en MicroPython llamado **Clima: señal con botón B 608**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de alarmas — 608** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 609. Orientación: señal con botón B 609
+## 609. sorteo especial de relojes — 609
 
-Crea un proyecto de **orientación** para BBC micro:bit en MicroPython llamado **Orientación: señal con botón B 609**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de relojes — 609** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 610. Memoria: señal con botón B 610
+## 610. sorteo especial de retos — 610
 
-Crea un proyecto de **memoria** para BBC micro:bit en MicroPython llamado **Memoria: señal con botón B 610**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **sorteo especial de retos — 610** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 611. Salud escolar: señal con botón B 611
+## 611. control de paso de dados y azar — 611
 
-Crea un proyecto de **salud escolar** para BBC micro:bit en MicroPython llamado **Salud escolar: señal con botón B 611**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de dados y azar — 611** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 612. Transporte: señal con botón B 612
+## 612. control de paso de semáforos — 612
 
-Crea un proyecto de **transporte** para BBC micro:bit en MicroPython llamado **Transporte: señal con botón B 612**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de semáforos — 612** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 613. Naturaleza: señal con botón B 613
+## 613. control de paso de temperatura — 613
 
-Crea un proyecto de **naturaleza** para BBC micro:bit en MicroPython llamado **Naturaleza: señal con botón B 613**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de temperatura — 613** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 614. Astronomía: señal con botón B 614
+## 614. control de paso de brújula — 614
 
-Crea un proyecto de **astronomía** para BBC micro:bit en MicroPython llamado **Astronomía: señal con botón B 614**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de brújula — 614** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 615. Comunicación: señal con botón B 615
+## 615. control de paso de deportes — 615
 
-Crea un proyecto de **comunicación** para BBC micro:bit en MicroPython llamado **Comunicación: señal con botón B 615**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de deportes — 615** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 616. Tiempo: señal con botón B 616
+## 616. control de paso de reflejos — 616
 
-Crea un proyecto de **tiempo** para BBC micro:bit en MicroPython llamado **Tiempo: señal con botón B 616**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de reflejos — 616** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 617. Arte: señal con botón B 617
+## 617. control de paso de mascotas digitales — 617
 
-Crea un proyecto de **arte** para BBC micro:bit en MicroPython llamado **Arte: señal con botón B 617**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de mascotas digitales — 617** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 618. Idiomas: señal con botón B 618
+## 618. control de paso de alarmas — 618
 
-Crea un proyecto de **idiomas** para BBC micro:bit en MicroPython llamado **Idiomas: señal con botón B 618**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de alarmas — 618** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 619. Lógica: señal con botón B 619
+## 619. control de paso de relojes — 619
 
-Crea un proyecto de **lógica** para BBC micro:bit en MicroPython llamado **Lógica: señal con botón B 619**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de relojes — 619** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 620. Organización: señal con botón B 620
+## 620. control de paso de retos — 620
 
-Crea un proyecto de **organización** para BBC micro:bit en MicroPython llamado **Organización: señal con botón B 620**. Usa **botón B** como parte principal del control y construye un **señal** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **control de paso de retos — 620** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 621. Juego: calculadora con botón B 621
+## 621. comparador térmico de dados y azar — 621
 
-Crea un proyecto de **juego** para BBC micro:bit en MicroPython llamado **Juego: calculadora con botón B 621**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de dados y azar — 621** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 622. Ciencia: calculadora con botón B 622
+## 622. comparador térmico de semáforos — 622
 
-Crea un proyecto de **ciencia** para BBC micro:bit en MicroPython llamado **Ciencia: calculadora con botón B 622**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de semáforos — 622** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 623. Deporte: calculadora con botón B 623
+## 623. comparador térmico de temperatura — 623
 
-Crea un proyecto de **deporte** para BBC micro:bit en MicroPython llamado **Deporte: calculadora con botón B 623**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de temperatura — 623** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 624. Colegio: calculadora con botón B 624
+## 624. comparador térmico de brújula — 624
 
-Crea un proyecto de **colegio** para BBC micro:bit en MicroPython llamado **Colegio: calculadora con botón B 624**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de brújula — 624** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 625. Seguridad: calculadora con botón B 625
+## 625. comparador térmico de deportes — 625
 
-Crea un proyecto de **seguridad** para BBC micro:bit en MicroPython llamado **Seguridad: calculadora con botón B 625**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de deportes — 625** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 626. Música: calculadora con botón B 626
+## 626. comparador térmico de reflejos — 626
 
-Crea un proyecto de **música** para BBC micro:bit en MicroPython llamado **Música: calculadora con botón B 626**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de reflejos — 626** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 627. Matemáticas: calculadora con botón B 627
+## 627. comparador térmico de mascotas digitales — 627
 
-Crea un proyecto de **matemáticas** para BBC micro:bit en MicroPython llamado **Matemáticas: calculadora con botón B 627**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de mascotas digitales — 627** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 628. Clima: calculadora con botón B 628
+## 628. comparador térmico de alarmas — 628
 
-Crea un proyecto de **clima** para BBC micro:bit en MicroPython llamado **Clima: calculadora con botón B 628**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de alarmas — 628** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 629. Orientación: calculadora con botón B 629
+## 629. comparador térmico de relojes — 629
 
-Crea un proyecto de **orientación** para BBC micro:bit en MicroPython llamado **Orientación: calculadora con botón B 629**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de relojes — 629** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **estado de mascota** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 630. Memoria: calculadora con botón B 630
+## 630. comparador térmico de retos — 630
 
-Crea un proyecto de **memoria** para BBC micro:bit en MicroPython llamado **Memoria: calculadora con botón B 630**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **comparador térmico de retos — 630** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 631. Salud escolar: calculadora con botón B 631
+## 631. buscador de rumbo de dados y azar — 631
 
-Crea un proyecto de **salud escolar** para BBC micro:bit en MicroPython llamado **Salud escolar: calculadora con botón B 631**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de dados y azar — 631** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 632. Transporte: calculadora con botón B 632
+## 632. buscador de rumbo de semáforos — 632
 
-Crea un proyecto de **transporte** para BBC micro:bit en MicroPython llamado **Transporte: calculadora con botón B 632**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de semáforos — 632** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 633. Naturaleza: calculadora con botón B 633
+## 633. buscador de rumbo de temperatura — 633
 
-Crea un proyecto de **naturaleza** para BBC micro:bit en MicroPython llamado **Naturaleza: calculadora con botón B 633**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de temperatura — 633** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 634. Astronomía: calculadora con botón B 634
+## 634. buscador de rumbo de brújula — 634
 
-Crea un proyecto de **astronomía** para BBC micro:bit en MicroPython llamado **Astronomía: calculadora con botón B 634**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de brújula — 634** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 635. Comunicación: calculadora con botón B 635
+## 635. buscador de rumbo de deportes — 635
 
-Crea un proyecto de **comunicación** para BBC micro:bit en MicroPython llamado **Comunicación: calculadora con botón B 635**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de deportes — 635** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 636. Tiempo: calculadora con botón B 636
+## 636. buscador de rumbo de reflejos — 636
 
-Crea un proyecto de **tiempo** para BBC micro:bit en MicroPython llamado **Tiempo: calculadora con botón B 636**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de reflejos — 636** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 637. Arte: calculadora con botón B 637
+## 637. buscador de rumbo de mascotas digitales — 637
 
-Crea un proyecto de **arte** para BBC micro:bit en MicroPython llamado **Arte: calculadora con botón B 637**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de mascotas digitales — 637** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 638. Idiomas: calculadora con botón B 638
+## 638. buscador de rumbo de alarmas — 638
 
-Crea un proyecto de **idiomas** para BBC micro:bit en MicroPython llamado **Idiomas: calculadora con botón B 638**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de alarmas — 638** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 639. Lógica: calculadora con botón B 639
+## 639. buscador de rumbo de relojes — 639
 
-Crea un proyecto de **lógica** para BBC micro:bit en MicroPython llamado **Lógica: calculadora con botón B 639**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de relojes — 639** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 640. Organización: calculadora con botón B 640
+## 640. buscador de rumbo de retos — 640
 
-Crea un proyecto de **organización** para BBC micro:bit en MicroPython llamado **Organización: calculadora con botón B 640**. Usa **botón B** como parte principal del control y construye un **calculadora** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **buscador de rumbo de retos — 640** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 641. Juego: animación con botón B 641
+## 641. marcador de entrenamiento de dados y azar — 641
 
-Crea un proyecto de **juego** para BBC micro:bit en MicroPython llamado **Juego: animación con botón B 641**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de dados y azar — 641** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 642. Ciencia: animación con botón B 642
+## 642. marcador de entrenamiento de semáforos — 642
 
-Crea un proyecto de **ciencia** para BBC micro:bit en MicroPython llamado **Ciencia: animación con botón B 642**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de semáforos — 642** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 643. Deporte: animación con botón B 643
+## 643. marcador de entrenamiento de temperatura — 643
 
-Crea un proyecto de **deporte** para BBC micro:bit en MicroPython llamado **Deporte: animación con botón B 643**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de temperatura — 643** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 644. Colegio: animación con botón B 644
+## 644. marcador de entrenamiento de brújula — 644
 
-Crea un proyecto de **colegio** para BBC micro:bit en MicroPython llamado **Colegio: animación con botón B 644**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de brújula — 644** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 645. Seguridad: animación con botón B 645
+## 645. marcador de entrenamiento de deportes — 645
 
-Crea un proyecto de **seguridad** para BBC micro:bit en MicroPython llamado **Seguridad: animación con botón B 645**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de deportes — 645** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 646. Música: animación con botón B 646
+## 646. marcador de entrenamiento de reflejos — 646
 
-Crea un proyecto de **música** para BBC micro:bit en MicroPython llamado **Música: animación con botón B 646**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de reflejos — 646** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **alerta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 647. Matemáticas: animación con botón B 647
+## 647. marcador de entrenamiento de mascotas digitales — 647
 
-Crea un proyecto de **matemáticas** para BBC micro:bit en MicroPython llamado **Matemáticas: animación con botón B 647**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de mascotas digitales — 647** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 648. Clima: animación con botón B 648
+## 648. marcador de entrenamiento de alarmas — 648
 
-Crea un proyecto de **clima** para BBC micro:bit en MicroPython llamado **Clima: animación con botón B 648**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de alarmas — 648** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 649. Orientación: animación con botón B 649
+## 649. marcador de entrenamiento de relojes — 649
 
-Crea un proyecto de **orientación** para BBC micro:bit en MicroPython llamado **Orientación: animación con botón B 649**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de relojes — 649** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 650. Memoria: animación con botón B 650
+## 650. marcador de entrenamiento de retos — 650
 
-Crea un proyecto de **memoria** para BBC micro:bit en MicroPython llamado **Memoria: animación con botón B 650**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **marcador de entrenamiento de retos — 650** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 651. Salud escolar: animación con botón B 651
+## 651. prueba de reacción de dados y azar — 651
 
-Crea un proyecto de **salud escolar** para BBC micro:bit en MicroPython llamado **Salud escolar: animación con botón B 651**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de dados y azar — 651** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 652. Transporte: animación con botón B 652
+## 652. prueba de reacción de semáforos — 652
 
-Crea un proyecto de **transporte** para BBC micro:bit en MicroPython llamado **Transporte: animación con botón B 652**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de semáforos — 652** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 653. Naturaleza: animación con botón B 653
+## 653. prueba de reacción de temperatura — 653
 
-Crea un proyecto de **naturaleza** para BBC micro:bit en MicroPython llamado **Naturaleza: animación con botón B 653**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de temperatura — 653** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 654. Astronomía: animación con botón B 654
+## 654. prueba de reacción de brújula — 654
 
-Crea un proyecto de **astronomía** para BBC micro:bit en MicroPython llamado **Astronomía: animación con botón B 654**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de brújula — 654** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 655. Comunicación: animación con botón B 655
+## 655. prueba de reacción de deportes — 655
 
-Crea un proyecto de **comunicación** para BBC micro:bit en MicroPython llamado **Comunicación: animación con botón B 655**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de deportes — 655** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 656. Tiempo: animación con botón B 656
+## 656. prueba de reacción de reflejos — 656
 
-Crea un proyecto de **tiempo** para BBC micro:bit en MicroPython llamado **Tiempo: animación con botón B 656**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de reflejos — 656** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 657. Arte: animación con botón B 657
+## 657. prueba de reacción de mascotas digitales — 657
 
-Crea un proyecto de **arte** para BBC micro:bit en MicroPython llamado **Arte: animación con botón B 657**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de mascotas digitales — 657** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 658. Idiomas: animación con botón B 658
+## 658. prueba de reacción de alarmas — 658
 
-Crea un proyecto de **idiomas** para BBC micro:bit en MicroPython llamado **Idiomas: animación con botón B 658**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de alarmas — 658** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 659. Lógica: animación con botón B 659
+## 659. prueba de reacción de relojes — 659
 
-Crea un proyecto de **lógica** para BBC micro:bit en MicroPython llamado **Lógica: animación con botón B 659**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de relojes — 659** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 660. Organización: animación con botón B 660
+## 660. prueba de reacción de retos — 660
 
-Crea un proyecto de **organización** para BBC micro:bit en MicroPython llamado **Organización: animación con botón B 660**. Usa **botón B** como parte principal del control y construye un **animación** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **prueba de reacción de retos — 660** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 661. Juego: registro con botón B 661
+## 661. cuidador virtual de dados y azar — 661
 
-Crea un proyecto de **juego** para BBC micro:bit en MicroPython llamado **Juego: registro con botón B 661**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de dados y azar — 661** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 662. Ciencia: registro con botón B 662
+## 662. cuidador virtual de semáforos — 662
 
-Crea un proyecto de **ciencia** para BBC micro:bit en MicroPython llamado **Ciencia: registro con botón B 662**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de semáforos — 662** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 663. Deporte: registro con botón B 663
+## 663. cuidador virtual de temperatura — 663
 
-Crea un proyecto de **deporte** para BBC micro:bit en MicroPython llamado **Deporte: registro con botón B 663**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de temperatura — 663** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **cuenta** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 664. Colegio: registro con botón B 664
+## 664. cuidador virtual de brújula — 664
 
-Crea un proyecto de **colegio** para BBC micro:bit en MicroPython llamado **Colegio: registro con botón B 664**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de brújula — 664** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 665. Seguridad: registro con botón B 665
+## 665. cuidador virtual de deportes — 665
 
-Crea un proyecto de **seguridad** para BBC micro:bit en MicroPython llamado **Seguridad: registro con botón B 665**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de deportes — 665** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 666. Música: registro con botón B 666
+## 666. cuidador virtual de reflejos — 666
 
-Crea un proyecto de **música** para BBC micro:bit en MicroPython llamado **Música: registro con botón B 666**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de reflejos — 666** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 667. Matemáticas: registro con botón B 667
+## 667. cuidador virtual de mascotas digitales — 667
 
-Crea un proyecto de **matemáticas** para BBC micro:bit en MicroPython llamado **Matemáticas: registro con botón B 667**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de mascotas digitales — 667** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 668. Clima: registro con botón B 668
+## 668. cuidador virtual de alarmas — 668
 
-Crea un proyecto de **clima** para BBC micro:bit en MicroPython llamado **Clima: registro con botón B 668**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de alarmas — 668** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 669. Orientación: registro con botón B 669
+## 669. cuidador virtual de relojes — 669
 
-Crea un proyecto de **orientación** para BBC micro:bit en MicroPython llamado **Orientación: registro con botón B 669**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de relojes — 669** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 670. Memoria: registro con botón B 670
+## 670. cuidador virtual de retos — 670
 
-Crea un proyecto de **memoria** para BBC micro:bit en MicroPython llamado **Memoria: registro con botón B 670**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **cuidador virtual de retos — 670** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 671. Salud escolar: registro con botón B 671
+## 671. vigilante de movimiento de dados y azar — 671
 
-Crea un proyecto de **salud escolar** para BBC micro:bit en MicroPython llamado **Salud escolar: registro con botón B 671**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de dados y azar — 671** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 672. Transporte: registro con botón B 672
+## 672. vigilante de movimiento de semáforos — 672
 
-Crea un proyecto de **transporte** para BBC micro:bit en MicroPython llamado **Transporte: registro con botón B 672**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de semáforos — 672** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 673. Naturaleza: registro con botón B 673
+## 673. vigilante de movimiento de temperatura — 673
 
-Crea un proyecto de **naturaleza** para BBC micro:bit en MicroPython llamado **Naturaleza: registro con botón B 673**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de temperatura — 673** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 674. Astronomía: registro con botón B 674
+## 674. vigilante de movimiento de brújula — 674
 
-Crea un proyecto de **astronomía** para BBC micro:bit en MicroPython llamado **Astronomía: registro con botón B 674**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de brújula — 674** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 675. Comunicación: registro con botón B 675
+## 675. vigilante de movimiento de deportes — 675
 
-Crea un proyecto de **comunicación** para BBC micro:bit en MicroPython llamado **Comunicación: registro con botón B 675**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de deportes — 675** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 676. Tiempo: registro con botón B 676
+## 676. vigilante de movimiento de reflejos — 676
 
-Crea un proyecto de **tiempo** para BBC micro:bit en MicroPython llamado **Tiempo: registro con botón B 676**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de reflejos — 676** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 677. Arte: registro con botón B 677
+## 677. vigilante de movimiento de mascotas digitales — 677
 
-Crea un proyecto de **arte** para BBC micro:bit en MicroPython llamado **Arte: registro con botón B 677**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de mascotas digitales — 677** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 678. Idiomas: registro con botón B 678
+## 678. vigilante de movimiento de alarmas — 678
 
-Crea un proyecto de **idiomas** para BBC micro:bit en MicroPython llamado **Idiomas: registro con botón B 678**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de alarmas — 678** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 679. Lógica: registro con botón B 679
+## 679. vigilante de movimiento de relojes — 679
 
-Crea un proyecto de **lógica** para BBC micro:bit en MicroPython llamado **Lógica: registro con botón B 679**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de relojes — 679** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 680. Organización: registro con botón B 680
+## 680. vigilante de movimiento de retos — 680
 
-Crea un proyecto de **organización** para BBC micro:bit en MicroPython llamado **Organización: registro con botón B 680**. Usa **botón B** como parte principal del control y construye un **registro** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **vigilante de movimiento de retos — 680** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **reto** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 681. Juego: temporizador con botón B 681
+## 681. temporizador personal de dados y azar — 681
 
-Crea un proyecto de **juego** para BBC micro:bit en MicroPython llamado **Juego: temporizador con botón B 681**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de dados y azar — 681** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 682. Ciencia: temporizador con botón B 682
+## 682. temporizador personal de semáforos — 682
 
-Crea un proyecto de **ciencia** para BBC micro:bit en MicroPython llamado **Ciencia: temporizador con botón B 682**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de semáforos — 682** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 683. Deporte: temporizador con botón B 683
+## 683. temporizador personal de temperatura — 683
 
-Crea un proyecto de **deporte** para BBC micro:bit en MicroPython llamado **Deporte: temporizador con botón B 683**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de temperatura — 683** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 684. Colegio: temporizador con botón B 684
+## 684. temporizador personal de brújula — 684
 
-Crea un proyecto de **colegio** para BBC micro:bit en MicroPython llamado **Colegio: temporizador con botón B 684**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de brújula — 684** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 685. Seguridad: temporizador con botón B 685
+## 685. temporizador personal de deportes — 685
 
-Crea un proyecto de **seguridad** para BBC micro:bit en MicroPython llamado **Seguridad: temporizador con botón B 685**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de deportes — 685** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 686. Música: temporizador con botón B 686
+## 686. temporizador personal de reflejos — 686
 
-Crea un proyecto de **música** para BBC micro:bit en MicroPython llamado **Música: temporizador con botón B 686**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de reflejos — 686** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 687. Matemáticas: temporizador con botón B 687
+## 687. temporizador personal de mascotas digitales — 687
 
-Crea un proyecto de **matemáticas** para BBC micro:bit en MicroPython llamado **Matemáticas: temporizador con botón B 687**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de mascotas digitales — 687** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 688. Clima: temporizador con botón B 688
+## 688. temporizador personal de alarmas — 688
 
-Crea un proyecto de **clima** para BBC micro:bit en MicroPython llamado **Clima: temporizador con botón B 688**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de alarmas — 688** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 689. Orientación: temporizador con botón B 689
+## 689. temporizador personal de relojes — 689
 
-Crea un proyecto de **orientación** para BBC micro:bit en MicroPython llamado **Orientación: temporizador con botón B 689**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de relojes — 689** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 690. Memoria: temporizador con botón B 690
+## 690. temporizador personal de retos — 690
 
-Crea un proyecto de **memoria** para BBC micro:bit en MicroPython llamado **Memoria: temporizador con botón B 690**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **temporizador personal de retos — 690** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 691. Salud escolar: temporizador con botón B 691
+## 691. desafío interactivo de dados y azar — 691
 
-Crea un proyecto de **salud escolar** para BBC micro:bit en MicroPython llamado **Salud escolar: temporizador con botón B 691**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de dados y azar — 691** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 692. Transporte: temporizador con botón B 692
+## 692. desafío interactivo de semáforos — 692
 
-Crea un proyecto de **transporte** para BBC micro:bit en MicroPython llamado **Transporte: temporizador con botón B 692**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de semáforos — 692** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 693. Naturaleza: temporizador con botón B 693
+## 693. desafío interactivo de temperatura — 693
 
-Crea un proyecto de **naturaleza** para BBC micro:bit en MicroPython llamado **Naturaleza: temporizador con botón B 693**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de temperatura — 693** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 694. Astronomía: temporizador con botón B 694
+## 694. desafío interactivo de brújula — 694
 
-Crea un proyecto de **astronomía** para BBC micro:bit en MicroPython llamado **Astronomía: temporizador con botón B 694**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de brújula — 694** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 695. Comunicación: temporizador con botón B 695
+## 695. desafío interactivo de deportes — 695
 
-Crea un proyecto de **comunicación** para BBC micro:bit en MicroPython llamado **Comunicación: temporizador con botón B 695**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de deportes — 695** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 696. Tiempo: temporizador con botón B 696
+## 696. desafío interactivo de reflejos — 696
 
-Crea un proyecto de **tiempo** para BBC micro:bit en MicroPython llamado **Tiempo: temporizador con botón B 696**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de reflejos — 696** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 697. Arte: temporizador con botón B 697
+## 697. desafío interactivo de mascotas digitales — 697
 
-Crea un proyecto de **arte** para BBC micro:bit en MicroPython llamado **Arte: temporizador con botón B 697**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de mascotas digitales — 697** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 698. Idiomas: temporizador con botón B 698
+## 698. desafío interactivo de alarmas — 698
 
-Crea un proyecto de **idiomas** para BBC micro:bit en MicroPython llamado **Idiomas: temporizador con botón B 698**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de alarmas — 698** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 699. Lógica: temporizador con botón B 699
+## 699. desafío interactivo de relojes — 699
 
-Crea un proyecto de **lógica** para BBC micro:bit en MicroPython llamado **Lógica: temporizador con botón B 699**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de relojes — 699** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
-## 700. Organización: temporizador con botón B 700
+## 700. desafío interactivo de retos — 700
 
-Crea un proyecto de **organización** para BBC micro:bit en MicroPython llamado **Organización: temporizador con botón B 700**. Usa **botón B** como parte principal del control y construye un **temporizador** que tenga un objetivo concreto y distinto. Incluye al menos una función, una condición y un ciclo cuando sean necesarios. El código debe ser corto, entendible para grado 11 y sin librerías externas. Explica entrada, proceso, salida y una prueba física específica para comprobar este proyecto.
+Crea **desafío interactivo de retos — 700** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **B** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
 
