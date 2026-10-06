@@ -4,6 +4,8 @@
 
 Prueba física realizada por Alejandro Bruges. El programa funcionó correctamente en la BBC micro:bit.
 
+![Evidencia real de la prueba física](Mano%20sosteniendo%20micro_bit%20con%20LED%20cuatro%20%281%29.png)
+
 ## Registro de prueba
 
 | Qué probé | Resultado | Cambio realizado |
