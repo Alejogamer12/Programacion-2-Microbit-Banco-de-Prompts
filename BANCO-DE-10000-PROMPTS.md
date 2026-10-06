@@ -2,8 +2,6 @@
 
 Alejandro Bruges — Programación 2 — 2026
 
-El banco está dividido en páginas pequeñas para que abra correctamente desde el celular.
-
 - [Prompts 1–100](banco-10000/paginas/prompts-1-100.md)
 - [Prompts 101–200](banco-10000/paginas/prompts-101-200.md)
 - [Prompts 201–300](banco-10000/paginas/prompts-201-300.md)
