@@ -2,11 +2,7 @@
 
 ## Evidencia real de la prueba física
 
-**FALTA AQUÍ LA FOTO**
-
 ## Registro de prueba
-
-Este espacio se completa con los resultados obtenidos durante la prueba física real.
 
 | Qué probé | Resultado | Cambio realizado |
 |---|---|---|
