@@ -1,3004 +1,4004 @@
 # Prompts 1–1000
 
-[Volver al índice](../BANCO-DE-10000-PROMPTS.md)
+Banco de proyectos diferentes para practicar MicroPython con BBC micro:bit.
 
-## 1. Dado digital — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 1. Dado espacial: sortear un resultado con botón A
 
-## 2. Piedra papel o tijera — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: sortear un resultado con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botón A**, y el resultado debe verse como **un número en los LED**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 3. Moneda digital — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 2. Dado espacial: sortear un resultado con botón B
 
-## 4. Contador de puntos — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: sortear un resultado con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botón B**, y el resultado debe verse como **una figura distinta**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 5. Temporizador — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 3. Dado espacial: sortear un resultado con botones A+B
 
-## 6. Termómetro — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: sortear un resultado con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botones A+B**, y el resultado debe verse como **un mensaje corto**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 7. Medidor de luz — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 4. Dado espacial: sortear un resultado con agitar la placa
 
-## 8. Alarma de movimiento — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: sortear un resultado con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **agitar la placa**, y el resultado debe verse como **una flecha**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 9. Nivel de inclinación — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 5. Dado espacial: sortear un resultado con inclinar a la izquierda
 
-## 10. Brújula — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: sortear un resultado con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un puntaje**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 11. Animación LED — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 6. Dado espacial: sortear un resultado con inclinar a la derecha
 
-## 12. Mensaje desplazable — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: sortear un resultado con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una cuenta regresiva**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 13. Número secreto — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 7. Dado espacial: sortear un resultado con poner la placa boca arriba
 
-## 14. Sorteo de números — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: sortear un resultado con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una cara**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 15. Dado D20 — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 8. Dado espacial: sortear un resultado con ponerla boca abajo
 
-## 16. Tabla de multiplicar — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: sortear un resultado con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una letra**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 17. Juego de reflejos — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 9. Dado espacial: sortear un resultado con acelerómetro
 
-## 18. Semáforo — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: sortear un resultado con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **acelerómetro**, y el resultado debe verse como **un símbolo**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 19. Marcador deportivo — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 10. Dado espacial: sortear un resultado con sensor de temperatura
 
-## 20. Podómetro — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: sortear un resultado con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **sensor de temperatura**, y el resultado debe verse como **una animación**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 21. Selector aleatorio — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 11. Dado espacial: sortear un resultado con nivel de luz
 
-## 22. Ruleta digital — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: sortear un resultado con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **nivel de luz**, y el resultado debe verse como **un aviso**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 23. Cuenta regresiva — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 12. Dado espacial: sortear un resultado con brújula
 
-## 24. Juego de memoria — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: sortear un resultado con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **brújula**, y el resultado debe verse como **un valor medido**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 25. Votación con botones — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 13. Dado espacial: sortear un resultado con toque del logo
 
-## 26. Contador de clics — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: sortear un resultado con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **toque del logo**, y el resultado debe verse como **un resultado aleatorio**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 27. Cambio de imagen — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 14. Dado espacial: sortear un resultado con gesto de caída
 
-## 28. Emociones — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: sortear un resultado con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **gesto de caída**, y el resultado debe verse como **un turno**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 29. Aviso de calor — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 15. Dado espacial: sortear un resultado con movimiento fuerte
 
-## 30. Aviso de frío — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: sortear un resultado con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **movimiento fuerte**, y el resultado debe verse como **una señal de inicio**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 31. Número par o impar — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 16. Dado espacial: sortear un resultado con movimiento suave
 
-## 32. Calculadora básica — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: sortear un resultado con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **movimiento suave**, y el resultado debe verse como **una señal de fin**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 33. Práctica de sumas — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 17. Dado espacial: sortear un resultado con pulsación corta
 
-## 34. Juego de preguntas — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: sortear un resultado con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **pulsación corta**, y el resultado debe verse como **un patrón de luces**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 35. Reto de botones — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 18. Dado espacial: sortear un resultado con pulsación repetida
 
-## 36. Mini juego de suerte — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: sortear un resultado con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **pulsación repetida**, y el resultado debe verse como **una respuesta**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 37. Turnos de jugadores — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 19. Dado espacial: sortear un resultado con inicio del programa
 
-## 38. Asistencia sencilla — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: sortear un resultado con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inicio del programa**, y el resultado debe verse como **un contador**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 39. Selector de grupo — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 20. Dado espacial: sortear un resultado con combinación de botones
 
-## 40. Proyecto libre microbit — variante 1
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: sortear un resultado con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **combinación de botones**, y el resultado debe verse como **un estado**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 41. Dado digital — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 21. Dado espacial: contar eventos con botón A
 
-## 42. Piedra papel o tijera — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: contar eventos con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botón A**, y el resultado debe verse como **una flecha**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 43. Moneda digital — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 22. Dado espacial: contar eventos con botón B
 
-## 44. Contador de puntos — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: contar eventos con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botón B**, y el resultado debe verse como **un puntaje**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 45. Temporizador — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 23. Dado espacial: contar eventos con botones A+B
 
-## 46. Termómetro — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: contar eventos con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botones A+B**, y el resultado debe verse como **una cuenta regresiva**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 47. Medidor de luz — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 24. Dado espacial: contar eventos con agitar la placa
 
-## 48. Alarma de movimiento — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: contar eventos con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **agitar la placa**, y el resultado debe verse como **una cara**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 49. Nivel de inclinación — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 25. Dado espacial: contar eventos con inclinar a la izquierda
 
-## 50. Brújula — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: contar eventos con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una letra**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 51. Animación LED — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 26. Dado espacial: contar eventos con inclinar a la derecha
 
-## 52. Mensaje desplazable — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: contar eventos con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un símbolo**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 53. Número secreto — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 27. Dado espacial: contar eventos con poner la placa boca arriba
 
-## 54. Sorteo de números — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: contar eventos con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una animación**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 55. Dado D20 — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 28. Dado espacial: contar eventos con ponerla boca abajo
 
-## 56. Tabla de multiplicar — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: contar eventos con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un aviso**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 57. Juego de reflejos — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 29. Dado espacial: contar eventos con acelerómetro
 
-## 58. Semáforo — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: contar eventos con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **acelerómetro**, y el resultado debe verse como **un valor medido**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 59. Marcador deportivo — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 30. Dado espacial: contar eventos con sensor de temperatura
 
-## 60. Podómetro — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: contar eventos con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **sensor de temperatura**, y el resultado debe verse como **un resultado aleatorio**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 61. Selector aleatorio — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 31. Dado espacial: contar eventos con nivel de luz
 
-## 62. Ruleta digital — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: contar eventos con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **nivel de luz**, y el resultado debe verse como **un turno**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 63. Cuenta regresiva — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 32. Dado espacial: contar eventos con brújula
 
-## 64. Juego de memoria — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: contar eventos con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **brújula**, y el resultado debe verse como **una señal de inicio**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 65. Votación con botones — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 33. Dado espacial: contar eventos con toque del logo
 
-## 66. Contador de clics — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: contar eventos con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **toque del logo**, y el resultado debe verse como **una señal de fin**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 67. Cambio de imagen — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 34. Dado espacial: contar eventos con gesto de caída
 
-## 68. Emociones — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: contar eventos con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **gesto de caída**, y el resultado debe verse como **un patrón de luces**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 69. Aviso de calor — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 35. Dado espacial: contar eventos con movimiento fuerte
 
-## 70. Aviso de frío — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: contar eventos con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **movimiento fuerte**, y el resultado debe verse como **una respuesta**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 71. Número par o impar — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 36. Dado espacial: contar eventos con movimiento suave
 
-## 72. Calculadora básica — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: contar eventos con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **movimiento suave**, y el resultado debe verse como **un contador**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 73. Práctica de sumas — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 37. Dado espacial: contar eventos con pulsación corta
 
-## 74. Juego de preguntas — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: contar eventos con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **pulsación corta**, y el resultado debe verse como **un estado**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 75. Reto de botones — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 38. Dado espacial: contar eventos con pulsación repetida
 
-## 76. Mini juego de suerte — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: contar eventos con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **pulsación repetida**, y el resultado debe verse como **un número en los LED**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 77. Turnos de jugadores — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 39. Dado espacial: contar eventos con inicio del programa
 
-## 78. Asistencia sencilla — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: contar eventos con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inicio del programa**, y el resultado debe verse como **una figura distinta**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 79. Selector de grupo — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 40. Dado espacial: contar eventos con combinación de botones
 
-## 80. Proyecto libre microbit — variante 2
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: contar eventos con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **combinación de botones**, y el resultado debe verse como **un mensaje corto**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 81. Dado digital — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 41. Dado espacial: medir una condición con botón A
 
-## 82. Piedra papel o tijera — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: medir una condición con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botón A**, y el resultado debe verse como **una cara**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 83. Moneda digital — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 42. Dado espacial: medir una condición con botón B
 
-## 84. Contador de puntos — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: medir una condición con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botón B**, y el resultado debe verse como **una letra**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 85. Temporizador — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 43. Dado espacial: medir una condición con botones A+B
 
-## 86. Termómetro — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: medir una condición con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botones A+B**, y el resultado debe verse como **un símbolo**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 87. Medidor de luz — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 44. Dado espacial: medir una condición con agitar la placa
 
-## 88. Alarma de movimiento — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: medir una condición con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **agitar la placa**, y el resultado debe verse como **una animación**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 89. Nivel de inclinación — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 45. Dado espacial: medir una condición con inclinar a la izquierda
 
-## 90. Brújula — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: medir una condición con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un aviso**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 91. Animación LED — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 46. Dado espacial: medir una condición con inclinar a la derecha
 
-## 92. Mensaje desplazable — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: medir una condición con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un valor medido**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 93. Número secreto — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 47. Dado espacial: medir una condición con poner la placa boca arriba
 
-## 94. Sorteo de números — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: medir una condición con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un resultado aleatorio**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 95. Dado D20 — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 48. Dado espacial: medir una condición con ponerla boca abajo
 
-## 96. Tabla de multiplicar — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: medir una condición con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un turno**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 97. Juego de reflejos — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 49. Dado espacial: medir una condición con acelerómetro
 
-## 98. Semáforo — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: medir una condición con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **acelerómetro**, y el resultado debe verse como **una señal de inicio**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 99. Marcador deportivo — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 50. Dado espacial: medir una condición con sensor de temperatura
 
-## 100. Podómetro — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: medir una condición con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **sensor de temperatura**, y el resultado debe verse como **una señal de fin**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 101. Selector aleatorio — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 51. Dado espacial: medir una condición con nivel de luz
 
-## 102. Ruleta digital — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: medir una condición con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **nivel de luz**, y el resultado debe verse como **un patrón de luces**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 103. Cuenta regresiva — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 52. Dado espacial: medir una condición con brújula
 
-## 104. Juego de memoria — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: medir una condición con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **brújula**, y el resultado debe verse como **una respuesta**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 105. Votación con botones — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 53. Dado espacial: medir una condición con toque del logo
 
-## 106. Contador de clics — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: medir una condición con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **toque del logo**, y el resultado debe verse como **un contador**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 107. Cambio de imagen — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 54. Dado espacial: medir una condición con gesto de caída
 
-## 108. Emociones — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: medir una condición con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **gesto de caída**, y el resultado debe verse como **un estado**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 109. Aviso de calor — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 55. Dado espacial: medir una condición con movimiento fuerte
 
-## 110. Aviso de frío — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: medir una condición con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **movimiento fuerte**, y el resultado debe verse como **un número en los LED**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 111. Número par o impar — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 56. Dado espacial: medir una condición con movimiento suave
 
-## 112. Calculadora básica — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: medir una condición con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **movimiento suave**, y el resultado debe verse como **una figura distinta**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 113. Práctica de sumas — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 57. Dado espacial: medir una condición con pulsación corta
 
-## 114. Juego de preguntas — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: medir una condición con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **pulsación corta**, y el resultado debe verse como **un mensaje corto**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 115. Reto de botones — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 58. Dado espacial: medir una condición con pulsación repetida
 
-## 116. Mini juego de suerte — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: medir una condición con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **pulsación repetida**, y el resultado debe verse como **una flecha**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 117. Turnos de jugadores — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 59. Dado espacial: medir una condición con inicio del programa
 
-## 118. Asistencia sencilla — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: medir una condición con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inicio del programa**, y el resultado debe verse como **un puntaje**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 119. Selector de grupo — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 60. Dado espacial: medir una condición con combinación de botones
 
-## 120. Proyecto libre microbit — variante 3
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: medir una condición con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **combinación de botones**, y el resultado debe verse como **una cuenta regresiva**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 121. Dado digital — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 61. Dado espacial: mostrar una señal con botón A
 
-## 122. Piedra papel o tijera — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: mostrar una señal con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botón A**, y el resultado debe verse como **una animación**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 123. Moneda digital — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 62. Dado espacial: mostrar una señal con botón B
 
-## 124. Contador de puntos — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: mostrar una señal con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botón B**, y el resultado debe verse como **un aviso**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 125. Temporizador — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 63. Dado espacial: mostrar una señal con botones A+B
 
-## 126. Termómetro — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: mostrar una señal con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botones A+B**, y el resultado debe verse como **un valor medido**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 127. Medidor de luz — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 64. Dado espacial: mostrar una señal con agitar la placa
 
-## 128. Alarma de movimiento — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: mostrar una señal con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **agitar la placa**, y el resultado debe verse como **un resultado aleatorio**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 129. Nivel de inclinación — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 65. Dado espacial: mostrar una señal con inclinar a la izquierda
 
-## 130. Brújula — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: mostrar una señal con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un turno**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 131. Animación LED — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 66. Dado espacial: mostrar una señal con inclinar a la derecha
 
-## 132. Mensaje desplazable — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: mostrar una señal con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una señal de inicio**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 133. Número secreto — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 67. Dado espacial: mostrar una señal con poner la placa boca arriba
 
-## 134. Sorteo de números — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: mostrar una señal con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una señal de fin**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 135. Dado D20 — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 68. Dado espacial: mostrar una señal con ponerla boca abajo
 
-## 136. Tabla de multiplicar — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: mostrar una señal con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un patrón de luces**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 137. Juego de reflejos — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 69. Dado espacial: mostrar una señal con acelerómetro
 
-## 138. Semáforo — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: mostrar una señal con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **acelerómetro**, y el resultado debe verse como **una respuesta**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 139. Marcador deportivo — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 70. Dado espacial: mostrar una señal con sensor de temperatura
 
-## 140. Podómetro — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: mostrar una señal con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **sensor de temperatura**, y el resultado debe verse como **un contador**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 141. Selector aleatorio — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 71. Dado espacial: mostrar una señal con nivel de luz
 
-## 142. Ruleta digital — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: mostrar una señal con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **nivel de luz**, y el resultado debe verse como **un estado**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 143. Cuenta regresiva — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 72. Dado espacial: mostrar una señal con brújula
 
-## 144. Juego de memoria — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: mostrar una señal con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **brújula**, y el resultado debe verse como **un número en los LED**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 145. Votación con botones — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 73. Dado espacial: mostrar una señal con toque del logo
 
-## 146. Contador de clics — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: mostrar una señal con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **toque del logo**, y el resultado debe verse como **una figura distinta**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 147. Cambio de imagen — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 74. Dado espacial: mostrar una señal con gesto de caída
 
-## 148. Emociones — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: mostrar una señal con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **gesto de caída**, y el resultado debe verse como **un mensaje corto**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 149. Aviso de calor — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 75. Dado espacial: mostrar una señal con movimiento fuerte
 
-## 150. Aviso de frío — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: mostrar una señal con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **movimiento fuerte**, y el resultado debe verse como **una flecha**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 151. Número par o impar — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 76. Dado espacial: mostrar una señal con movimiento suave
 
-## 152. Calculadora básica — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: mostrar una señal con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **movimiento suave**, y el resultado debe verse como **un puntaje**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 153. Práctica de sumas — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 77. Dado espacial: mostrar una señal con pulsación corta
 
-## 154. Juego de preguntas — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: mostrar una señal con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **pulsación corta**, y el resultado debe verse como **una cuenta regresiva**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 155. Reto de botones — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 78. Dado espacial: mostrar una señal con pulsación repetida
 
-## 156. Mini juego de suerte — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: mostrar una señal con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **pulsación repetida**, y el resultado debe verse como **una cara**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 157. Turnos de jugadores — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 79. Dado espacial: mostrar una señal con inicio del programa
 
-## 158. Asistencia sencilla — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: mostrar una señal con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inicio del programa**, y el resultado debe verse como **una letra**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 159. Selector de grupo — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 80. Dado espacial: mostrar una señal con combinación de botones
 
-## 160. Proyecto libre microbit — variante 4
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: mostrar una señal con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **combinación de botones**, y el resultado debe verse como **un símbolo**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 161. Dado digital — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 81. Dado espacial: comparar dos valores con botón A
 
-## 162. Piedra papel o tijera — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: comparar dos valores con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botón A**, y el resultado debe verse como **un resultado aleatorio**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 163. Moneda digital — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 82. Dado espacial: comparar dos valores con botón B
 
-## 164. Contador de puntos — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: comparar dos valores con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botón B**, y el resultado debe verse como **un turno**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 165. Temporizador — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 83. Dado espacial: comparar dos valores con botones A+B
 
-## 166. Termómetro — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: comparar dos valores con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botones A+B**, y el resultado debe verse como **una señal de inicio**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 167. Medidor de luz — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 84. Dado espacial: comparar dos valores con agitar la placa
 
-## 168. Alarma de movimiento — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: comparar dos valores con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **agitar la placa**, y el resultado debe verse como **una señal de fin**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 169. Nivel de inclinación — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 85. Dado espacial: comparar dos valores con inclinar a la izquierda
 
-## 170. Brújula — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: comparar dos valores con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un patrón de luces**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 171. Animación LED — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 86. Dado espacial: comparar dos valores con inclinar a la derecha
 
-## 172. Mensaje desplazable — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: comparar dos valores con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una respuesta**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 173. Número secreto — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 87. Dado espacial: comparar dos valores con poner la placa boca arriba
 
-## 174. Sorteo de números — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: comparar dos valores con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un contador**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 175. Dado D20 — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 88. Dado espacial: comparar dos valores con ponerla boca abajo
 
-## 176. Tabla de multiplicar — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: comparar dos valores con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un estado**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 177. Juego de reflejos — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 89. Dado espacial: comparar dos valores con acelerómetro
 
-## 178. Semáforo — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: comparar dos valores con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **acelerómetro**, y el resultado debe verse como **un número en los LED**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 179. Marcador deportivo — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 90. Dado espacial: comparar dos valores con sensor de temperatura
 
-## 180. Podómetro — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: comparar dos valores con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **sensor de temperatura**, y el resultado debe verse como **una figura distinta**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 181. Selector aleatorio — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 91. Dado espacial: comparar dos valores con nivel de luz
 
-## 182. Ruleta digital — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: comparar dos valores con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **nivel de luz**, y el resultado debe verse como **un mensaje corto**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 183. Cuenta regresiva — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 92. Dado espacial: comparar dos valores con brújula
 
-## 184. Juego de memoria — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: comparar dos valores con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **brújula**, y el resultado debe verse como **una flecha**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 185. Votación con botones — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 93. Dado espacial: comparar dos valores con toque del logo
 
-## 186. Contador de clics — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: comparar dos valores con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **toque del logo**, y el resultado debe verse como **un puntaje**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 187. Cambio de imagen — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 94. Dado espacial: comparar dos valores con gesto de caída
 
-## 188. Emociones — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: comparar dos valores con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **gesto de caída**, y el resultado debe verse como **una cuenta regresiva**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 189. Aviso de calor — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 95. Dado espacial: comparar dos valores con movimiento fuerte
 
-## 190. Aviso de frío — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: comparar dos valores con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **movimiento fuerte**, y el resultado debe verse como **una cara**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 191. Número par o impar — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 96. Dado espacial: comparar dos valores con movimiento suave
 
-## 192. Calculadora básica — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: comparar dos valores con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **movimiento suave**, y el resultado debe verse como **una letra**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 193. Práctica de sumas — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 97. Dado espacial: comparar dos valores con pulsación corta
 
-## 194. Juego de preguntas — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: comparar dos valores con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **pulsación corta**, y el resultado debe verse como **un símbolo**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 195. Reto de botones — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 98. Dado espacial: comparar dos valores con pulsación repetida
 
-## 196. Mini juego de suerte — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: comparar dos valores con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **pulsación repetida**, y el resultado debe verse como **una animación**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 197. Turnos de jugadores — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 99. Dado espacial: comparar dos valores con inicio del programa
 
-## 198. Asistencia sencilla — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: comparar dos valores con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inicio del programa**, y el resultado debe verse como **un aviso**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 199. Selector de grupo — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 100. Dado espacial: comparar dos valores con combinación de botones
 
-## 200. Proyecto libre microbit — variante 5
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: comparar dos valores con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **combinación de botones**, y el resultado debe verse como **un valor medido**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 201. Dado digital — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 101. Dado espacial: guardar un puntaje con botón A
 
-## 202. Piedra papel o tijera — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: guardar un puntaje con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botón A**, y el resultado debe verse como **una señal de fin**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 203. Moneda digital — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 102. Dado espacial: guardar un puntaje con botón B
 
-## 204. Contador de puntos — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: guardar un puntaje con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botón B**, y el resultado debe verse como **un patrón de luces**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 205. Temporizador — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 103. Dado espacial: guardar un puntaje con botones A+B
 
-## 206. Termómetro — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: guardar un puntaje con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botones A+B**, y el resultado debe verse como **una respuesta**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 207. Medidor de luz — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 104. Dado espacial: guardar un puntaje con agitar la placa
 
-## 208. Alarma de movimiento — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: guardar un puntaje con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **agitar la placa**, y el resultado debe verse como **un contador**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 209. Nivel de inclinación — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 105. Dado espacial: guardar un puntaje con inclinar a la izquierda
 
-## 210. Brújula — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: guardar un puntaje con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un estado**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 211. Animación LED — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 106. Dado espacial: guardar un puntaje con inclinar a la derecha
 
-## 212. Mensaje desplazable — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: guardar un puntaje con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un número en los LED**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 213. Número secreto — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 107. Dado espacial: guardar un puntaje con poner la placa boca arriba
 
-## 214. Sorteo de números — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: guardar un puntaje con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una figura distinta**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 215. Dado D20 — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 108. Dado espacial: guardar un puntaje con ponerla boca abajo
 
-## 216. Tabla de multiplicar — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: guardar un puntaje con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un mensaje corto**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 217. Juego de reflejos — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 109. Dado espacial: guardar un puntaje con acelerómetro
 
-## 218. Semáforo — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: guardar un puntaje con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **acelerómetro**, y el resultado debe verse como **una flecha**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 219. Marcador deportivo — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 110. Dado espacial: guardar un puntaje con sensor de temperatura
 
-## 220. Podómetro — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: guardar un puntaje con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **sensor de temperatura**, y el resultado debe verse como **un puntaje**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 221. Selector aleatorio — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 111. Dado espacial: guardar un puntaje con nivel de luz
 
-## 222. Ruleta digital — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: guardar un puntaje con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **nivel de luz**, y el resultado debe verse como **una cuenta regresiva**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 223. Cuenta regresiva — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 112. Dado espacial: guardar un puntaje con brújula
 
-## 224. Juego de memoria — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: guardar un puntaje con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **brújula**, y el resultado debe verse como **una cara**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 225. Votación con botones — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 113. Dado espacial: guardar un puntaje con toque del logo
 
-## 226. Contador de clics — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: guardar un puntaje con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **toque del logo**, y el resultado debe verse como **una letra**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 227. Cambio de imagen — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 114. Dado espacial: guardar un puntaje con gesto de caída
 
-## 228. Emociones — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: guardar un puntaje con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **gesto de caída**, y el resultado debe verse como **un símbolo**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 229. Aviso de calor — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 115. Dado espacial: guardar un puntaje con movimiento fuerte
 
-## 230. Aviso de frío — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: guardar un puntaje con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **movimiento fuerte**, y el resultado debe verse como **una animación**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 231. Número par o impar — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 116. Dado espacial: guardar un puntaje con movimiento suave
 
-## 232. Calculadora básica — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: guardar un puntaje con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **movimiento suave**, y el resultado debe verse como **un aviso**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 233. Práctica de sumas — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 117. Dado espacial: guardar un puntaje con pulsación corta
 
-## 234. Juego de preguntas — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: guardar un puntaje con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **pulsación corta**, y el resultado debe verse como **un valor medido**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 235. Reto de botones — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 118. Dado espacial: guardar un puntaje con pulsación repetida
 
-## 236. Mini juego de suerte — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: guardar un puntaje con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **pulsación repetida**, y el resultado debe verse como **un resultado aleatorio**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 237. Turnos de jugadores — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 119. Dado espacial: guardar un puntaje con inicio del programa
 
-## 238. Asistencia sencilla — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: guardar un puntaje con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inicio del programa**, y el resultado debe verse como **un turno**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 239. Selector de grupo — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 120. Dado espacial: guardar un puntaje con combinación de botones
 
-## 240. Proyecto libre microbit — variante 6
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: guardar un puntaje con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **combinación de botones**, y el resultado debe verse como **una señal de inicio**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 241. Dado digital — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 121. Dado espacial: iniciar una cuenta regresiva con botón A
 
-## 242. Piedra papel o tijera — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botón A**, y el resultado debe verse como **un contador**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 243. Moneda digital — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 122. Dado espacial: iniciar una cuenta regresiva con botón B
 
-## 244. Contador de puntos — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botón B**, y el resultado debe verse como **un estado**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 245. Temporizador — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 123. Dado espacial: iniciar una cuenta regresiva con botones A+B
 
-## 246. Termómetro — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botones A+B**, y el resultado debe verse como **un número en los LED**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 247. Medidor de luz — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 124. Dado espacial: iniciar una cuenta regresiva con agitar la placa
 
-## 248. Alarma de movimiento — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **agitar la placa**, y el resultado debe verse como **una figura distinta**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 249. Nivel de inclinación — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 125. Dado espacial: iniciar una cuenta regresiva con inclinar a la izquierda
 
-## 250. Brújula — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un mensaje corto**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 251. Animación LED — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 126. Dado espacial: iniciar una cuenta regresiva con inclinar a la derecha
 
-## 252. Mensaje desplazable — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una flecha**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 253. Número secreto — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 127. Dado espacial: iniciar una cuenta regresiva con poner la placa boca arriba
 
-## 254. Sorteo de números — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un puntaje**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 255. Dado D20 — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 128. Dado espacial: iniciar una cuenta regresiva con ponerla boca abajo
 
-## 256. Tabla de multiplicar — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una cuenta regresiva**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 257. Juego de reflejos — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 129. Dado espacial: iniciar una cuenta regresiva con acelerómetro
 
-## 258. Semáforo — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **acelerómetro**, y el resultado debe verse como **una cara**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 259. Marcador deportivo — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 130. Dado espacial: iniciar una cuenta regresiva con sensor de temperatura
 
-## 260. Podómetro — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **sensor de temperatura**, y el resultado debe verse como **una letra**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 261. Selector aleatorio — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 131. Dado espacial: iniciar una cuenta regresiva con nivel de luz
 
-## 262. Ruleta digital — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **nivel de luz**, y el resultado debe verse como **un símbolo**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 263. Cuenta regresiva — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 132. Dado espacial: iniciar una cuenta regresiva con brújula
 
-## 264. Juego de memoria — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **brújula**, y el resultado debe verse como **una animación**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 265. Votación con botones — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 133. Dado espacial: iniciar una cuenta regresiva con toque del logo
 
-## 266. Contador de clics — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **toque del logo**, y el resultado debe verse como **un aviso**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 267. Cambio de imagen — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 134. Dado espacial: iniciar una cuenta regresiva con gesto de caída
 
-## 268. Emociones — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **gesto de caída**, y el resultado debe verse como **un valor medido**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 269. Aviso de calor — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 135. Dado espacial: iniciar una cuenta regresiva con movimiento fuerte
 
-## 270. Aviso de frío — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **movimiento fuerte**, y el resultado debe verse como **un resultado aleatorio**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 271. Número par o impar — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 136. Dado espacial: iniciar una cuenta regresiva con movimiento suave
 
-## 272. Calculadora básica — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **movimiento suave**, y el resultado debe verse como **un turno**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 273. Práctica de sumas — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 137. Dado espacial: iniciar una cuenta regresiva con pulsación corta
 
-## 274. Juego de preguntas — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **pulsación corta**, y el resultado debe verse como **una señal de inicio**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 275. Reto de botones — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 138. Dado espacial: iniciar una cuenta regresiva con pulsación repetida
 
-## 276. Mini juego de suerte — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **pulsación repetida**, y el resultado debe verse como **una señal de fin**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 277. Turnos de jugadores — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 139. Dado espacial: iniciar una cuenta regresiva con inicio del programa
 
-## 278. Asistencia sencilla — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inicio del programa**, y el resultado debe verse como **un patrón de luces**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 279. Selector de grupo — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 140. Dado espacial: iniciar una cuenta regresiva con combinación de botones
 
-## 280. Proyecto libre microbit — variante 7
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: iniciar una cuenta regresiva con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **combinación de botones**, y el resultado debe verse como **una respuesta**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 281. Dado digital — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 141. Dado espacial: cambiar una animación con botón A
 
-## 282. Piedra papel o tijera — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: cambiar una animación con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botón A**, y el resultado debe verse como **una figura distinta**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 283. Moneda digital — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 142. Dado espacial: cambiar una animación con botón B
 
-## 284. Contador de puntos — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: cambiar una animación con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botón B**, y el resultado debe verse como **un mensaje corto**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 285. Temporizador — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 143. Dado espacial: cambiar una animación con botones A+B
 
-## 286. Termómetro — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: cambiar una animación con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botones A+B**, y el resultado debe verse como **una flecha**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 287. Medidor de luz — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 144. Dado espacial: cambiar una animación con agitar la placa
 
-## 288. Alarma de movimiento — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: cambiar una animación con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **agitar la placa**, y el resultado debe verse como **un puntaje**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 289. Nivel de inclinación — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 145. Dado espacial: cambiar una animación con inclinar a la izquierda
 
-## 290. Brújula — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: cambiar una animación con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una cuenta regresiva**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 291. Animación LED — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 146. Dado espacial: cambiar una animación con inclinar a la derecha
 
-## 292. Mensaje desplazable — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: cambiar una animación con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una cara**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 293. Número secreto — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 147. Dado espacial: cambiar una animación con poner la placa boca arriba
 
-## 294. Sorteo de números — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: cambiar una animación con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una letra**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 295. Dado D20 — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 148. Dado espacial: cambiar una animación con ponerla boca abajo
 
-## 296. Tabla de multiplicar — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: cambiar una animación con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un símbolo**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 297. Juego de reflejos — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 149. Dado espacial: cambiar una animación con acelerómetro
 
-## 298. Semáforo — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: cambiar una animación con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **acelerómetro**, y el resultado debe verse como **una animación**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 299. Marcador deportivo — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 150. Dado espacial: cambiar una animación con sensor de temperatura
 
-## 300. Podómetro — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: cambiar una animación con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **sensor de temperatura**, y el resultado debe verse como **un aviso**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 301. Selector aleatorio — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 151. Dado espacial: cambiar una animación con nivel de luz
 
-## 302. Ruleta digital — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: cambiar una animación con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **nivel de luz**, y el resultado debe verse como **un valor medido**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 303. Cuenta regresiva — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 152. Dado espacial: cambiar una animación con brújula
 
-## 304. Juego de memoria — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: cambiar una animación con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **brújula**, y el resultado debe verse como **un resultado aleatorio**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 305. Votación con botones — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 153. Dado espacial: cambiar una animación con toque del logo
 
-## 306. Contador de clics — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: cambiar una animación con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **toque del logo**, y el resultado debe verse como **un turno**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 307. Cambio de imagen — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 154. Dado espacial: cambiar una animación con gesto de caída
 
-## 308. Emociones — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: cambiar una animación con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **gesto de caída**, y el resultado debe verse como **una señal de inicio**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 309. Aviso de calor — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 155. Dado espacial: cambiar una animación con movimiento fuerte
 
-## 310. Aviso de frío — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: cambiar una animación con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **movimiento fuerte**, y el resultado debe verse como **una señal de fin**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 311. Número par o impar — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 156. Dado espacial: cambiar una animación con movimiento suave
 
-## 312. Calculadora básica — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: cambiar una animación con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **movimiento suave**, y el resultado debe verse como **un patrón de luces**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 313. Práctica de sumas — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 157. Dado espacial: cambiar una animación con pulsación corta
 
-## 314. Juego de preguntas — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: cambiar una animación con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **pulsación corta**, y el resultado debe verse como **una respuesta**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 315. Reto de botones — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 158. Dado espacial: cambiar una animación con pulsación repetida
 
-## 316. Mini juego de suerte — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: cambiar una animación con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **pulsación repetida**, y el resultado debe verse como **un contador**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 317. Turnos de jugadores — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 159. Dado espacial: cambiar una animación con inicio del programa
 
-## 318. Asistencia sencilla — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: cambiar una animación con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inicio del programa**, y el resultado debe verse como **un estado**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 319. Selector de grupo — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 160. Dado espacial: cambiar una animación con combinación de botones
 
-## 320. Proyecto libre microbit — variante 8
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: cambiar una animación con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **combinación de botones**, y el resultado debe verse como **un número en los LED**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 321. Dado digital — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 161. Dado espacial: elegir una opción con botón A
 
-## 322. Piedra papel o tijera — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: elegir una opción con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botón A**, y el resultado debe verse como **un puntaje**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 323. Moneda digital — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 162. Dado espacial: elegir una opción con botón B
 
-## 324. Contador de puntos — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: elegir una opción con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botón B**, y el resultado debe verse como **una cuenta regresiva**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 325. Temporizador — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 163. Dado espacial: elegir una opción con botones A+B
 
-## 326. Termómetro — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: elegir una opción con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botones A+B**, y el resultado debe verse como **una cara**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 327. Medidor de luz — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 164. Dado espacial: elegir una opción con agitar la placa
 
-## 328. Alarma de movimiento — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: elegir una opción con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **agitar la placa**, y el resultado debe verse como **una letra**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 329. Nivel de inclinación — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 165. Dado espacial: elegir una opción con inclinar a la izquierda
 
-## 330. Brújula — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: elegir una opción con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un símbolo**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 331. Animación LED — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 166. Dado espacial: elegir una opción con inclinar a la derecha
 
-## 332. Mensaje desplazable — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: elegir una opción con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una animación**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 333. Número secreto — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 167. Dado espacial: elegir una opción con poner la placa boca arriba
 
-## 334. Sorteo de números — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: elegir una opción con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un aviso**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 335. Dado D20 — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 168. Dado espacial: elegir una opción con ponerla boca abajo
 
-## 336. Tabla de multiplicar — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: elegir una opción con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un valor medido**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 337. Juego de reflejos — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 169. Dado espacial: elegir una opción con acelerómetro
 
-## 338. Semáforo — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: elegir una opción con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **acelerómetro**, y el resultado debe verse como **un resultado aleatorio**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 339. Marcador deportivo — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 170. Dado espacial: elegir una opción con sensor de temperatura
 
-## 340. Podómetro — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: elegir una opción con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **sensor de temperatura**, y el resultado debe verse como **un turno**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 341. Selector aleatorio — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 171. Dado espacial: elegir una opción con nivel de luz
 
-## 342. Ruleta digital — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: elegir una opción con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **nivel de luz**, y el resultado debe verse como **una señal de inicio**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 343. Cuenta regresiva — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 172. Dado espacial: elegir una opción con brújula
 
-## 344. Juego de memoria — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: elegir una opción con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **brújula**, y el resultado debe verse como **una señal de fin**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 345. Votación con botones — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 173. Dado espacial: elegir una opción con toque del logo
 
-## 346. Contador de clics — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: elegir una opción con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **toque del logo**, y el resultado debe verse como **un patrón de luces**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 347. Cambio de imagen — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 174. Dado espacial: elegir una opción con gesto de caída
 
-## 348. Emociones — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: elegir una opción con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **gesto de caída**, y el resultado debe verse como **una respuesta**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 349. Aviso de calor — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 175. Dado espacial: elegir una opción con movimiento fuerte
 
-## 350. Aviso de frío — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: elegir una opción con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **movimiento fuerte**, y el resultado debe verse como **un contador**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 351. Número par o impar — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 176. Dado espacial: elegir una opción con movimiento suave
 
-## 352. Calculadora básica — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: elegir una opción con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **movimiento suave**, y el resultado debe verse como **un estado**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 353. Práctica de sumas — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 177. Dado espacial: elegir una opción con pulsación corta
 
-## 354. Juego de preguntas — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: elegir una opción con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **pulsación corta**, y el resultado debe verse como **un número en los LED**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 355. Reto de botones — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 178. Dado espacial: elegir una opción con pulsación repetida
 
-## 356. Mini juego de suerte — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: elegir una opción con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **pulsación repetida**, y el resultado debe verse como **una figura distinta**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 357. Turnos de jugadores — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 179. Dado espacial: elegir una opción con inicio del programa
 
-## 358. Asistencia sencilla — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: elegir una opción con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inicio del programa**, y el resultado debe verse como **un mensaje corto**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 359. Selector de grupo — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 180. Dado espacial: elegir una opción con combinación de botones
 
-## 360. Proyecto libre microbit — variante 9
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: elegir una opción con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **combinación de botones**, y el resultado debe verse como **una flecha**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 361. Dado digital — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 181. Dado espacial: detectar un movimiento con botón A
 
-## 362. Piedra papel o tijera — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: detectar un movimiento con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botón A**, y el resultado debe verse como **una letra**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 363. Moneda digital — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 182. Dado espacial: detectar un movimiento con botón B
 
-## 364. Contador de puntos — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: detectar un movimiento con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botón B**, y el resultado debe verse como **un símbolo**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 365. Temporizador — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 183. Dado espacial: detectar un movimiento con botones A+B
 
-## 366. Termómetro — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: detectar un movimiento con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botones A+B**, y el resultado debe verse como **una animación**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 367. Medidor de luz — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 184. Dado espacial: detectar un movimiento con agitar la placa
 
-## 368. Alarma de movimiento — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: detectar un movimiento con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **agitar la placa**, y el resultado debe verse como **un aviso**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 369. Nivel de inclinación — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 185. Dado espacial: detectar un movimiento con inclinar a la izquierda
 
-## 370. Brújula — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: detectar un movimiento con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un valor medido**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 371. Animación LED — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 186. Dado espacial: detectar un movimiento con inclinar a la derecha
 
-## 372. Mensaje desplazable — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: detectar un movimiento con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un resultado aleatorio**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 373. Número secreto — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 187. Dado espacial: detectar un movimiento con poner la placa boca arriba
 
-## 374. Sorteo de números — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: detectar un movimiento con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un turno**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 375. Dado D20 — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 188. Dado espacial: detectar un movimiento con ponerla boca abajo
 
-## 376. Tabla de multiplicar — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: detectar un movimiento con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una señal de inicio**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 377. Juego de reflejos — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 189. Dado espacial: detectar un movimiento con acelerómetro
 
-## 378. Semáforo — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: detectar un movimiento con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **acelerómetro**, y el resultado debe verse como **una señal de fin**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 379. Marcador deportivo — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 190. Dado espacial: detectar un movimiento con sensor de temperatura
 
-## 380. Podómetro — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: detectar un movimiento con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **sensor de temperatura**, y el resultado debe verse como **un patrón de luces**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 381. Selector aleatorio — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 191. Dado espacial: detectar un movimiento con nivel de luz
 
-## 382. Ruleta digital — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: detectar un movimiento con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **nivel de luz**, y el resultado debe verse como **una respuesta**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 383. Cuenta regresiva — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 192. Dado espacial: detectar un movimiento con brújula
 
-## 384. Juego de memoria — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: detectar un movimiento con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **brújula**, y el resultado debe verse como **un contador**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 385. Votación con botones — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 193. Dado espacial: detectar un movimiento con toque del logo
 
-## 386. Contador de clics — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: detectar un movimiento con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **toque del logo**, y el resultado debe verse como **un estado**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 387. Cambio de imagen — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 194. Dado espacial: detectar un movimiento con gesto de caída
 
-## 388. Emociones — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: detectar un movimiento con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **gesto de caída**, y el resultado debe verse como **un número en los LED**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 389. Aviso de calor — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 195. Dado espacial: detectar un movimiento con movimiento fuerte
 
-## 390. Aviso de frío — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: detectar un movimiento con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **movimiento fuerte**, y el resultado debe verse como **una figura distinta**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 391. Número par o impar — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 196. Dado espacial: detectar un movimiento con movimiento suave
 
-## 392. Calculadora básica — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: detectar un movimiento con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **movimiento suave**, y el resultado debe verse como **un mensaje corto**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 393. Práctica de sumas — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 197. Dado espacial: detectar un movimiento con pulsación corta
 
-## 394. Juego de preguntas — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: detectar un movimiento con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **pulsación corta**, y el resultado debe verse como **una flecha**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 395. Reto de botones — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 198. Dado espacial: detectar un movimiento con pulsación repetida
 
-## 396. Mini juego de suerte — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: detectar un movimiento con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **pulsación repetida**, y el resultado debe verse como **un puntaje**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 397. Turnos de jugadores — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 199. Dado espacial: detectar un movimiento con inicio del programa
 
-## 398. Asistencia sencilla — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: detectar un movimiento con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inicio del programa**, y el resultado debe verse como **una cuenta regresiva**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 399. Selector de grupo — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 200. Dado espacial: detectar un movimiento con combinación de botones
 
-## 400. Proyecto libre microbit — variante 10
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: detectar un movimiento con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **combinación de botones**, y el resultado debe verse como **una cara**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 401. Dado digital — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 201. Dado espacial: responder una pregunta con botón A
 
-## 402. Piedra papel o tijera — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: responder una pregunta con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **botón A**, y el resultado debe verse como **un aviso**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 403. Moneda digital — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 202. Dado espacial: responder una pregunta con botón B
 
-## 404. Contador de puntos — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: responder una pregunta con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **botón B**, y el resultado debe verse como **un valor medido**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 405. Temporizador — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 203. Dado espacial: responder una pregunta con botones A+B
 
-## 406. Termómetro — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: responder una pregunta con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **botones A+B**, y el resultado debe verse como **un resultado aleatorio**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 407. Medidor de luz — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 204. Dado espacial: responder una pregunta con agitar la placa
 
-## 408. Alarma de movimiento — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: responder una pregunta con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **agitar la placa**, y el resultado debe verse como **un turno**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 409. Nivel de inclinación — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 205. Dado espacial: responder una pregunta con inclinar a la izquierda
 
-## 410. Brújula — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: responder una pregunta con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una señal de inicio**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 411. Animación LED — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 206. Dado espacial: responder una pregunta con inclinar a la derecha
 
-## 412. Mensaje desplazable — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: responder una pregunta con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una señal de fin**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 413. Número secreto — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 207. Dado espacial: responder una pregunta con poner la placa boca arriba
 
-## 414. Sorteo de números — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: responder una pregunta con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un patrón de luces**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 415. Dado D20 — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 208. Dado espacial: responder una pregunta con ponerla boca abajo
 
-## 416. Tabla de multiplicar — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: responder una pregunta con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una respuesta**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 417. Juego de reflejos — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 209. Dado espacial: responder una pregunta con acelerómetro
 
-## 418. Semáforo — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: responder una pregunta con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **acelerómetro**, y el resultado debe verse como **un contador**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 419. Marcador deportivo — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 210. Dado espacial: responder una pregunta con sensor de temperatura
 
-## 420. Podómetro — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: responder una pregunta con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **sensor de temperatura**, y el resultado debe verse como **un estado**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 421. Selector aleatorio — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 211. Dado espacial: responder una pregunta con nivel de luz
 
-## 422. Ruleta digital — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: responder una pregunta con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **nivel de luz**, y el resultado debe verse como **un número en los LED**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 423. Cuenta regresiva — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 212. Dado espacial: responder una pregunta con brújula
 
-## 424. Juego de memoria — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: responder una pregunta con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **brújula**, y el resultado debe verse como **una figura distinta**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 425. Votación con botones — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 213. Dado espacial: responder una pregunta con toque del logo
 
-## 426. Contador de clics — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: responder una pregunta con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **toque del logo**, y el resultado debe verse como **un mensaje corto**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 427. Cambio de imagen — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 214. Dado espacial: responder una pregunta con gesto de caída
 
-## 428. Emociones — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: responder una pregunta con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **gesto de caída**, y el resultado debe verse como **una flecha**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 429. Aviso de calor — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 215. Dado espacial: responder una pregunta con movimiento fuerte
 
-## 430. Aviso de frío — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: responder una pregunta con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **movimiento fuerte**, y el resultado debe verse como **un puntaje**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 431. Número par o impar — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 216. Dado espacial: responder una pregunta con movimiento suave
 
-## 432. Calculadora básica — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: responder una pregunta con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **movimiento suave**, y el resultado debe verse como **una cuenta regresiva**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 433. Práctica de sumas — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 217. Dado espacial: responder una pregunta con pulsación corta
 
-## 434. Juego de preguntas — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: responder una pregunta con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **pulsación corta**, y el resultado debe verse como **una cara**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 435. Reto de botones — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 218. Dado espacial: responder una pregunta con pulsación repetida
 
-## 436. Mini juego de suerte — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: responder una pregunta con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **pulsación repetida**, y el resultado debe verse como **una letra**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 437. Turnos de jugadores — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 219. Dado espacial: responder una pregunta con inicio del programa
 
-## 438. Asistencia sencilla — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: responder una pregunta con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **inicio del programa**, y el resultado debe verse como **un símbolo**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 439. Selector de grupo — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 220. Dado espacial: responder una pregunta con combinación de botones
 
-## 440. Proyecto libre microbit — variante 11
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: responder una pregunta con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **combinación de botones**, y el resultado debe verse como **una animación**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 441. Dado digital — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 221. Dado espacial: controlar un turno con botón A
 
-## 442. Piedra papel o tijera — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: controlar un turno con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **botón A**, y el resultado debe verse como **un turno**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 443. Moneda digital — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 222. Dado espacial: controlar un turno con botón B
 
-## 444. Contador de puntos — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: controlar un turno con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **botón B**, y el resultado debe verse como **una señal de inicio**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 445. Temporizador — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 223. Dado espacial: controlar un turno con botones A+B
 
-## 446. Termómetro — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: controlar un turno con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **botones A+B**, y el resultado debe verse como **una señal de fin**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 447. Medidor de luz — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 224. Dado espacial: controlar un turno con agitar la placa
 
-## 448. Alarma de movimiento — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: controlar un turno con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **agitar la placa**, y el resultado debe verse como **un patrón de luces**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 449. Nivel de inclinación — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 225. Dado espacial: controlar un turno con inclinar a la izquierda
 
-## 450. Brújula — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: controlar un turno con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una respuesta**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 451. Animación LED — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 226. Dado espacial: controlar un turno con inclinar a la derecha
 
-## 452. Mensaje desplazable — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: controlar un turno con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un contador**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 453. Número secreto — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 227. Dado espacial: controlar un turno con poner la placa boca arriba
 
-## 454. Sorteo de números — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: controlar un turno con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un estado**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 455. Dado D20 — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 228. Dado espacial: controlar un turno con ponerla boca abajo
 
-## 456. Tabla de multiplicar — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: controlar un turno con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un número en los LED**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 457. Juego de reflejos — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 229. Dado espacial: controlar un turno con acelerómetro
 
-## 458. Semáforo — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: controlar un turno con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **acelerómetro**, y el resultado debe verse como **una figura distinta**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 459. Marcador deportivo — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 230. Dado espacial: controlar un turno con sensor de temperatura
 
-## 460. Podómetro — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: controlar un turno con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **sensor de temperatura**, y el resultado debe verse como **un mensaje corto**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 461. Selector aleatorio — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 231. Dado espacial: controlar un turno con nivel de luz
 
-## 462. Ruleta digital — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: controlar un turno con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **nivel de luz**, y el resultado debe verse como **una flecha**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 463. Cuenta regresiva — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 232. Dado espacial: controlar un turno con brújula
 
-## 464. Juego de memoria — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: controlar un turno con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **brújula**, y el resultado debe verse como **un puntaje**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 465. Votación con botones — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 233. Dado espacial: controlar un turno con toque del logo
 
-## 466. Contador de clics — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: controlar un turno con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **toque del logo**, y el resultado debe verse como **una cuenta regresiva**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 467. Cambio de imagen — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 234. Dado espacial: controlar un turno con gesto de caída
 
-## 468. Emociones — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: controlar un turno con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **gesto de caída**, y el resultado debe verse como **una cara**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 469. Aviso de calor — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 235. Dado espacial: controlar un turno con movimiento fuerte
 
-## 470. Aviso de frío — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: controlar un turno con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **movimiento fuerte**, y el resultado debe verse como **una letra**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 471. Número par o impar — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 236. Dado espacial: controlar un turno con movimiento suave
 
-## 472. Calculadora básica — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: controlar un turno con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **movimiento suave**, y el resultado debe verse como **un símbolo**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 473. Práctica de sumas — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 237. Dado espacial: controlar un turno con pulsación corta
 
-## 474. Juego de preguntas — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: controlar un turno con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **pulsación corta**, y el resultado debe verse como **una animación**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 475. Reto de botones — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 238. Dado espacial: controlar un turno con pulsación repetida
 
-## 476. Mini juego de suerte — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: controlar un turno con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **pulsación repetida**, y el resultado debe verse como **un aviso**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 477. Turnos de jugadores — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 239. Dado espacial: controlar un turno con inicio del programa
 
-## 478. Asistencia sencilla — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: controlar un turno con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **inicio del programa**, y el resultado debe verse como **un valor medido**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 479. Selector de grupo — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 240. Dado espacial: controlar un turno con combinación de botones
 
-## 480. Proyecto libre microbit — variante 12
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: controlar un turno con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **combinación de botones**, y el resultado debe verse como **un resultado aleatorio**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 481. Dado digital — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 241. Dado espacial: mostrar una dirección con botón A
 
-## 482. Piedra papel o tijera — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: mostrar una dirección con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **botón A**, y el resultado debe verse como **un patrón de luces**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 483. Moneda digital — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 242. Dado espacial: mostrar una dirección con botón B
 
-## 484. Contador de puntos — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: mostrar una dirección con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **botón B**, y el resultado debe verse como **una respuesta**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 485. Temporizador — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 243. Dado espacial: mostrar una dirección con botones A+B
 
-## 486. Termómetro — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: mostrar una dirección con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **botones A+B**, y el resultado debe verse como **un contador**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 487. Medidor de luz — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 244. Dado espacial: mostrar una dirección con agitar la placa
 
-## 488. Alarma de movimiento — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: mostrar una dirección con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **agitar la placa**, y el resultado debe verse como **un estado**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 489. Nivel de inclinación — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 245. Dado espacial: mostrar una dirección con inclinar a la izquierda
 
-## 490. Brújula — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: mostrar una dirección con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un número en los LED**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 491. Animación LED — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 246. Dado espacial: mostrar una dirección con inclinar a la derecha
 
-## 492. Mensaje desplazable — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: mostrar una dirección con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una figura distinta**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 493. Número secreto — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 247. Dado espacial: mostrar una dirección con poner la placa boca arriba
 
-## 494. Sorteo de números — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: mostrar una dirección con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un mensaje corto**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 495. Dado D20 — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 248. Dado espacial: mostrar una dirección con ponerla boca abajo
 
-## 496. Tabla de multiplicar — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: mostrar una dirección con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una flecha**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 497. Juego de reflejos — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 249. Dado espacial: mostrar una dirección con acelerómetro
 
-## 498. Semáforo — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: mostrar una dirección con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **acelerómetro**, y el resultado debe verse como **un puntaje**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 499. Marcador deportivo — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 250. Dado espacial: mostrar una dirección con sensor de temperatura
 
-## 500. Podómetro — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: mostrar una dirección con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **sensor de temperatura**, y el resultado debe verse como **una cuenta regresiva**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 501. Selector aleatorio — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 251. Dado espacial: mostrar una dirección con nivel de luz
 
-## 502. Ruleta digital — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: mostrar una dirección con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **nivel de luz**, y el resultado debe verse como **una cara**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 503. Cuenta regresiva — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 252. Dado espacial: mostrar una dirección con brújula
 
-## 504. Juego de memoria — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: mostrar una dirección con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **brújula**, y el resultado debe verse como **una letra**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 505. Votación con botones — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 253. Dado espacial: mostrar una dirección con toque del logo
 
-## 506. Contador de clics — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: mostrar una dirección con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **toque del logo**, y el resultado debe verse como **un símbolo**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 507. Cambio de imagen — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 254. Dado espacial: mostrar una dirección con gesto de caída
 
-## 508. Emociones — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: mostrar una dirección con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **gesto de caída**, y el resultado debe verse como **una animación**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 509. Aviso de calor — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 255. Dado espacial: mostrar una dirección con movimiento fuerte
 
-## 510. Aviso de frío — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: mostrar una dirección con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **movimiento fuerte**, y el resultado debe verse como **un aviso**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 511. Número par o impar — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 256. Dado espacial: mostrar una dirección con movimiento suave
 
-## 512. Calculadora básica — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: mostrar una dirección con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **movimiento suave**, y el resultado debe verse como **un valor medido**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 513. Práctica de sumas — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 257. Dado espacial: mostrar una dirección con pulsación corta
 
-## 514. Juego de preguntas — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: mostrar una dirección con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **pulsación corta**, y el resultado debe verse como **un resultado aleatorio**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 515. Reto de botones — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 258. Dado espacial: mostrar una dirección con pulsación repetida
 
-## 516. Mini juego de suerte — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: mostrar una dirección con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **pulsación repetida**, y el resultado debe verse como **un turno**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 517. Turnos de jugadores — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 259. Dado espacial: mostrar una dirección con inicio del programa
 
-## 518. Asistencia sencilla — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: mostrar una dirección con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **inicio del programa**, y el resultado debe verse como **una señal de inicio**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 519. Selector de grupo — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 260. Dado espacial: mostrar una dirección con combinación de botones
 
-## 520. Proyecto libre microbit — variante 13
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: mostrar una dirección con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **combinación de botones**, y el resultado debe verse como **una señal de fin**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 521. Dado digital — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 261. Dado espacial: registrar repeticiones con botón A
 
-## 522. Piedra papel o tijera — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: registrar repeticiones con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **botón A**, y el resultado debe verse como **un estado**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 523. Moneda digital — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 262. Dado espacial: registrar repeticiones con botón B
 
-## 524. Contador de puntos — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: registrar repeticiones con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **botón B**, y el resultado debe verse como **un número en los LED**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 525. Temporizador — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 263. Dado espacial: registrar repeticiones con botones A+B
 
-## 526. Termómetro — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: registrar repeticiones con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **botones A+B**, y el resultado debe verse como **una figura distinta**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 527. Medidor de luz — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 264. Dado espacial: registrar repeticiones con agitar la placa
 
-## 528. Alarma de movimiento — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: registrar repeticiones con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **agitar la placa**, y el resultado debe verse como **un mensaje corto**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 529. Nivel de inclinación — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 265. Dado espacial: registrar repeticiones con inclinar a la izquierda
 
-## 530. Brújula — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: registrar repeticiones con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una flecha**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 531. Animación LED — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 266. Dado espacial: registrar repeticiones con inclinar a la derecha
 
-## 532. Mensaje desplazable — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: registrar repeticiones con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un puntaje**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 533. Número secreto — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 267. Dado espacial: registrar repeticiones con poner la placa boca arriba
 
-## 534. Sorteo de números — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: registrar repeticiones con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una cuenta regresiva**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 535. Dado D20 — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 268. Dado espacial: registrar repeticiones con ponerla boca abajo
 
-## 536. Tabla de multiplicar — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: registrar repeticiones con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una cara**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 537. Juego de reflejos — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 269. Dado espacial: registrar repeticiones con acelerómetro
 
-## 538. Semáforo — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: registrar repeticiones con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **acelerómetro**, y el resultado debe verse como **una letra**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 539. Marcador deportivo — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 270. Dado espacial: registrar repeticiones con sensor de temperatura
 
-## 540. Podómetro — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: registrar repeticiones con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **sensor de temperatura**, y el resultado debe verse como **un símbolo**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 541. Selector aleatorio — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 271. Dado espacial: registrar repeticiones con nivel de luz
 
-## 542. Ruleta digital — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: registrar repeticiones con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **nivel de luz**, y el resultado debe verse como **una animación**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 543. Cuenta regresiva — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 272. Dado espacial: registrar repeticiones con brújula
 
-## 544. Juego de memoria — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: registrar repeticiones con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **brújula**, y el resultado debe verse como **un aviso**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 545. Votación con botones — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 273. Dado espacial: registrar repeticiones con toque del logo
 
-## 546. Contador de clics — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: registrar repeticiones con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **toque del logo**, y el resultado debe verse como **un valor medido**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 547. Cambio de imagen — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 274. Dado espacial: registrar repeticiones con gesto de caída
 
-## 548. Emociones — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: registrar repeticiones con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **gesto de caída**, y el resultado debe verse como **un resultado aleatorio**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 549. Aviso de calor — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 275. Dado espacial: registrar repeticiones con movimiento fuerte
 
-## 550. Aviso de frío — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: registrar repeticiones con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **movimiento fuerte**, y el resultado debe verse como **un turno**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 551. Número par o impar — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 276. Dado espacial: registrar repeticiones con movimiento suave
 
-## 552. Calculadora básica — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: registrar repeticiones con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **movimiento suave**, y el resultado debe verse como **una señal de inicio**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 553. Práctica de sumas — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 277. Dado espacial: registrar repeticiones con pulsación corta
 
-## 554. Juego de preguntas — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: registrar repeticiones con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **pulsación corta**, y el resultado debe verse como **una señal de fin**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 555. Reto de botones — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 278. Dado espacial: registrar repeticiones con pulsación repetida
 
-## 556. Mini juego de suerte — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: registrar repeticiones con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **pulsación repetida**, y el resultado debe verse como **un patrón de luces**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 557. Turnos de jugadores — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 279. Dado espacial: registrar repeticiones con inicio del programa
 
-## 558. Asistencia sencilla — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: registrar repeticiones con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **inicio del programa**, y el resultado debe verse como **una respuesta**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 559. Selector de grupo — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 280. Dado espacial: registrar repeticiones con combinación de botones
 
-## 560. Proyecto libre microbit — variante 14
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: registrar repeticiones con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **combinación de botones**, y el resultado debe verse como **un contador**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 561. Dado digital — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 281. Dado espacial: activar una alerta con botón A
 
-## 562. Piedra papel o tijera — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: activar una alerta con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **botón A**, y el resultado debe verse como **un mensaje corto**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 563. Moneda digital — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 282. Dado espacial: activar una alerta con botón B
 
-## 564. Contador de puntos — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: activar una alerta con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **botón B**, y el resultado debe verse como **una flecha**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 565. Temporizador — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 283. Dado espacial: activar una alerta con botones A+B
 
-## 566. Termómetro — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: activar una alerta con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **botones A+B**, y el resultado debe verse como **un puntaje**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 567. Medidor de luz — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 284. Dado espacial: activar una alerta con agitar la placa
 
-## 568. Alarma de movimiento — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: activar una alerta con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **agitar la placa**, y el resultado debe verse como **una cuenta regresiva**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 569. Nivel de inclinación — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 285. Dado espacial: activar una alerta con inclinar a la izquierda
 
-## 570. Brújula — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: activar una alerta con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una cara**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 571. Animación LED — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 286. Dado espacial: activar una alerta con inclinar a la derecha
 
-## 572. Mensaje desplazable — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: activar una alerta con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una letra**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 573. Número secreto — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 287. Dado espacial: activar una alerta con poner la placa boca arriba
 
-## 574. Sorteo de números — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: activar una alerta con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un símbolo**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 575. Dado D20 — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 288. Dado espacial: activar una alerta con ponerla boca abajo
 
-## 576. Tabla de multiplicar — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: activar una alerta con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una animación**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 577. Juego de reflejos — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 289. Dado espacial: activar una alerta con acelerómetro
 
-## 578. Semáforo — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: activar una alerta con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **acelerómetro**, y el resultado debe verse como **un aviso**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 579. Marcador deportivo — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 290. Dado espacial: activar una alerta con sensor de temperatura
 
-## 580. Podómetro — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: activar una alerta con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **sensor de temperatura**, y el resultado debe verse como **un valor medido**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 581. Selector aleatorio — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 291. Dado espacial: activar una alerta con nivel de luz
 
-## 582. Ruleta digital — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: activar una alerta con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **nivel de luz**, y el resultado debe verse como **un resultado aleatorio**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 583. Cuenta regresiva — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 292. Dado espacial: activar una alerta con brújula
 
-## 584. Juego de memoria — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: activar una alerta con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **brújula**, y el resultado debe verse como **un turno**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 585. Votación con botones — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 293. Dado espacial: activar una alerta con toque del logo
 
-## 586. Contador de clics — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: activar una alerta con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **toque del logo**, y el resultado debe verse como **una señal de inicio**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 587. Cambio de imagen — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 294. Dado espacial: activar una alerta con gesto de caída
 
-## 588. Emociones — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: activar una alerta con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **gesto de caída**, y el resultado debe verse como **una señal de fin**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 589. Aviso de calor — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 295. Dado espacial: activar una alerta con movimiento fuerte
 
-## 590. Aviso de frío — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: activar una alerta con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **movimiento fuerte**, y el resultado debe verse como **un patrón de luces**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 591. Número par o impar — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 296. Dado espacial: activar una alerta con movimiento suave
 
-## 592. Calculadora básica — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: activar una alerta con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **movimiento suave**, y el resultado debe verse como **una respuesta**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 593. Práctica de sumas — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 297. Dado espacial: activar una alerta con pulsación corta
 
-## 594. Juego de preguntas — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: activar una alerta con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **pulsación corta**, y el resultado debe verse como **un contador**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 595. Reto de botones — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 298. Dado espacial: activar una alerta con pulsación repetida
 
-## 596. Mini juego de suerte — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: activar una alerta con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **pulsación repetida**, y el resultado debe verse como **un estado**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 597. Turnos de jugadores — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 299. Dado espacial: activar una alerta con inicio del programa
 
-## 598. Asistencia sencilla — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: activar una alerta con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **inicio del programa**, y el resultado debe verse como **un número en los LED**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 599. Selector de grupo — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 300. Dado espacial: activar una alerta con combinación de botones
 
-## 600. Proyecto libre microbit — variante 15
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: activar una alerta con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **combinación de botones**, y el resultado debe verse como **una figura distinta**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 601. Dado digital — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 301. Dado espacial: crear una secuencia con botón A
 
-## 602. Piedra papel o tijera — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: crear una secuencia con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **botón A**, y el resultado debe verse como **una cuenta regresiva**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 603. Moneda digital — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 302. Dado espacial: crear una secuencia con botón B
 
-## 604. Contador de puntos — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: crear una secuencia con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **botón B**, y el resultado debe verse como **una cara**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 605. Temporizador — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 303. Dado espacial: crear una secuencia con botones A+B
 
-## 606. Termómetro — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: crear una secuencia con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **botones A+B**, y el resultado debe verse como **una letra**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 607. Medidor de luz — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 304. Dado espacial: crear una secuencia con agitar la placa
 
-## 608. Alarma de movimiento — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: crear una secuencia con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **agitar la placa**, y el resultado debe verse como **un símbolo**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 609. Nivel de inclinación — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 305. Dado espacial: crear una secuencia con inclinar a la izquierda
 
-## 610. Brújula — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: crear una secuencia con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una animación**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 611. Animación LED — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 306. Dado espacial: crear una secuencia con inclinar a la derecha
 
-## 612. Mensaje desplazable — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: crear una secuencia con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un aviso**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 613. Número secreto — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 307. Dado espacial: crear una secuencia con poner la placa boca arriba
 
-## 614. Sorteo de números — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: crear una secuencia con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un valor medido**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 615. Dado D20 — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 308. Dado espacial: crear una secuencia con ponerla boca abajo
 
-## 616. Tabla de multiplicar — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: crear una secuencia con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un resultado aleatorio**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 617. Juego de reflejos — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 309. Dado espacial: crear una secuencia con acelerómetro
 
-## 618. Semáforo — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: crear una secuencia con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **acelerómetro**, y el resultado debe verse como **un turno**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 619. Marcador deportivo — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 310. Dado espacial: crear una secuencia con sensor de temperatura
 
-## 620. Podómetro — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: crear una secuencia con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **sensor de temperatura**, y el resultado debe verse como **una señal de inicio**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 621. Selector aleatorio — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 311. Dado espacial: crear una secuencia con nivel de luz
 
-## 622. Ruleta digital — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: crear una secuencia con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **nivel de luz**, y el resultado debe verse como **una señal de fin**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 623. Cuenta regresiva — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 312. Dado espacial: crear una secuencia con brújula
 
-## 624. Juego de memoria — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: crear una secuencia con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **brújula**, y el resultado debe verse como **un patrón de luces**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 625. Votación con botones — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 313. Dado espacial: crear una secuencia con toque del logo
 
-## 626. Contador de clics — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: crear una secuencia con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **toque del logo**, y el resultado debe verse como **una respuesta**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 627. Cambio de imagen — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 314. Dado espacial: crear una secuencia con gesto de caída
 
-## 628. Emociones — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: crear una secuencia con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **gesto de caída**, y el resultado debe verse como **un contador**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 629. Aviso de calor — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 315. Dado espacial: crear una secuencia con movimiento fuerte
 
-## 630. Aviso de frío — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: crear una secuencia con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **movimiento fuerte**, y el resultado debe verse como **un estado**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 631. Número par o impar — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 316. Dado espacial: crear una secuencia con movimiento suave
 
-## 632. Calculadora básica — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: crear una secuencia con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **movimiento suave**, y el resultado debe verse como **un número en los LED**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 633. Práctica de sumas — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 317. Dado espacial: crear una secuencia con pulsación corta
 
-## 634. Juego de preguntas — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: crear una secuencia con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **pulsación corta**, y el resultado debe verse como **una figura distinta**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 635. Reto de botones — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 318. Dado espacial: crear una secuencia con pulsación repetida
 
-## 636. Mini juego de suerte — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: crear una secuencia con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **pulsación repetida**, y el resultado debe verse como **un mensaje corto**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 637. Turnos de jugadores — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 319. Dado espacial: crear una secuencia con inicio del programa
 
-## 638. Asistencia sencilla — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: crear una secuencia con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **inicio del programa**, y el resultado debe verse como **una flecha**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 639. Selector de grupo — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 320. Dado espacial: crear una secuencia con combinación de botones
 
-## 640. Proyecto libre microbit — variante 16
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: crear una secuencia con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **combinación de botones**, y el resultado debe verse como **un puntaje**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 641. Dado digital — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 321. Dado espacial: calcular un resultado con botón A
 
-## 642. Piedra papel o tijera — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: calcular un resultado con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **botón A**, y el resultado debe verse como **un símbolo**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 643. Moneda digital — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 322. Dado espacial: calcular un resultado con botón B
 
-## 644. Contador de puntos — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: calcular un resultado con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **botón B**, y el resultado debe verse como **una animación**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 645. Temporizador — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 323. Dado espacial: calcular un resultado con botones A+B
 
-## 646. Termómetro — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: calcular un resultado con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **botones A+B**, y el resultado debe verse como **un aviso**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 647. Medidor de luz — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 324. Dado espacial: calcular un resultado con agitar la placa
 
-## 648. Alarma de movimiento — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: calcular un resultado con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **agitar la placa**, y el resultado debe verse como **un valor medido**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 649. Nivel de inclinación — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 325. Dado espacial: calcular un resultado con inclinar a la izquierda
 
-## 650. Brújula — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: calcular un resultado con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un resultado aleatorio**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 651. Animación LED — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 326. Dado espacial: calcular un resultado con inclinar a la derecha
 
-## 652. Mensaje desplazable — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: calcular un resultado con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un turno**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 653. Número secreto — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 327. Dado espacial: calcular un resultado con poner la placa boca arriba
 
-## 654. Sorteo de números — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: calcular un resultado con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una señal de inicio**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 655. Dado D20 — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 328. Dado espacial: calcular un resultado con ponerla boca abajo
 
-## 656. Tabla de multiplicar — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: calcular un resultado con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una señal de fin**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 657. Juego de reflejos — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 329. Dado espacial: calcular un resultado con acelerómetro
 
-## 658. Semáforo — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: calcular un resultado con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **acelerómetro**, y el resultado debe verse como **un patrón de luces**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 659. Marcador deportivo — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 330. Dado espacial: calcular un resultado con sensor de temperatura
 
-## 660. Podómetro — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: calcular un resultado con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **sensor de temperatura**, y el resultado debe verse como **una respuesta**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 661. Selector aleatorio — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 331. Dado espacial: calcular un resultado con nivel de luz
 
-## 662. Ruleta digital — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: calcular un resultado con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **nivel de luz**, y el resultado debe verse como **un contador**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 663. Cuenta regresiva — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 332. Dado espacial: calcular un resultado con brújula
 
-## 664. Juego de memoria — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: calcular un resultado con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **brújula**, y el resultado debe verse como **un estado**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 665. Votación con botones — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 333. Dado espacial: calcular un resultado con toque del logo
 
-## 666. Contador de clics — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: calcular un resultado con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **toque del logo**, y el resultado debe verse como **un número en los LED**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 667. Cambio de imagen — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 334. Dado espacial: calcular un resultado con gesto de caída
 
-## 668. Emociones — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: calcular un resultado con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **gesto de caída**, y el resultado debe verse como **una figura distinta**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 669. Aviso de calor — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 335. Dado espacial: calcular un resultado con movimiento fuerte
 
-## 670. Aviso de frío — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: calcular un resultado con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **movimiento fuerte**, y el resultado debe verse como **un mensaje corto**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 671. Número par o impar — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 336. Dado espacial: calcular un resultado con movimiento suave
 
-## 672. Calculadora básica — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: calcular un resultado con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **movimiento suave**, y el resultado debe verse como **una flecha**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 673. Práctica de sumas — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 337. Dado espacial: calcular un resultado con pulsación corta
 
-## 674. Juego de preguntas — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: calcular un resultado con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **pulsación corta**, y el resultado debe verse como **un puntaje**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 675. Reto de botones — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 338. Dado espacial: calcular un resultado con pulsación repetida
 
-## 676. Mini juego de suerte — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: calcular un resultado con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **pulsación repetida**, y el resultado debe verse como **una cuenta regresiva**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 677. Turnos de jugadores — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 339. Dado espacial: calcular un resultado con inicio del programa
 
-## 678. Asistencia sencilla — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: calcular un resultado con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **inicio del programa**, y el resultado debe verse como **una cara**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 679. Selector de grupo — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 340. Dado espacial: calcular un resultado con combinación de botones
 
-## 680. Proyecto libre microbit — variante 17
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: calcular un resultado con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **combinación de botones**, y el resultado debe verse como **una letra**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 681. Dado digital — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 341. Dado espacial: reiniciar un marcador con botón A
 
-## 682. Piedra papel o tijera — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: reiniciar un marcador con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **botón A**, y el resultado debe verse como **un valor medido**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 683. Moneda digital — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 342. Dado espacial: reiniciar un marcador con botón B
 
-## 684. Contador de puntos — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: reiniciar un marcador con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **botón B**, y el resultado debe verse como **un resultado aleatorio**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 685. Temporizador — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 343. Dado espacial: reiniciar un marcador con botones A+B
 
-## 686. Termómetro — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: reiniciar un marcador con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **botones A+B**, y el resultado debe verse como **un turno**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 687. Medidor de luz — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 344. Dado espacial: reiniciar un marcador con agitar la placa
 
-## 688. Alarma de movimiento — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: reiniciar un marcador con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **agitar la placa**, y el resultado debe verse como **una señal de inicio**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 689. Nivel de inclinación — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 345. Dado espacial: reiniciar un marcador con inclinar a la izquierda
 
-## 690. Brújula — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: reiniciar un marcador con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una señal de fin**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 691. Animación LED — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 346. Dado espacial: reiniciar un marcador con inclinar a la derecha
 
-## 692. Mensaje desplazable — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: reiniciar un marcador con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un patrón de luces**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 693. Número secreto — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 347. Dado espacial: reiniciar un marcador con poner la placa boca arriba
 
-## 694. Sorteo de números — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: reiniciar un marcador con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una respuesta**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 695. Dado D20 — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 348. Dado espacial: reiniciar un marcador con ponerla boca abajo
 
-## 696. Tabla de multiplicar — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: reiniciar un marcador con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un contador**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 697. Juego de reflejos — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 349. Dado espacial: reiniciar un marcador con acelerómetro
 
-## 698. Semáforo — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: reiniciar un marcador con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **acelerómetro**, y el resultado debe verse como **un estado**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 699. Marcador deportivo — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 350. Dado espacial: reiniciar un marcador con sensor de temperatura
 
-## 700. Podómetro — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: reiniciar un marcador con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **sensor de temperatura**, y el resultado debe verse como **un número en los LED**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 701. Selector aleatorio — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 351. Dado espacial: reiniciar un marcador con nivel de luz
 
-## 702. Ruleta digital — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: reiniciar un marcador con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **nivel de luz**, y el resultado debe verse como **una figura distinta**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 703. Cuenta regresiva — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 352. Dado espacial: reiniciar un marcador con brújula
 
-## 704. Juego de memoria — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: reiniciar un marcador con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **brújula**, y el resultado debe verse como **un mensaje corto**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 705. Votación con botones — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 353. Dado espacial: reiniciar un marcador con toque del logo
 
-## 706. Contador de clics — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: reiniciar un marcador con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **toque del logo**, y el resultado debe verse como **una flecha**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 707. Cambio de imagen — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 354. Dado espacial: reiniciar un marcador con gesto de caída
 
-## 708. Emociones — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: reiniciar un marcador con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **gesto de caída**, y el resultado debe verse como **un puntaje**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 709. Aviso de calor — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 355. Dado espacial: reiniciar un marcador con movimiento fuerte
 
-## 710. Aviso de frío — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: reiniciar un marcador con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **movimiento fuerte**, y el resultado debe verse como **una cuenta regresiva**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 711. Número par o impar — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 356. Dado espacial: reiniciar un marcador con movimiento suave
 
-## 712. Calculadora básica — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: reiniciar un marcador con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **movimiento suave**, y el resultado debe verse como **una cara**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 713. Práctica de sumas — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 357. Dado espacial: reiniciar un marcador con pulsación corta
 
-## 714. Juego de preguntas — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: reiniciar un marcador con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **pulsación corta**, y el resultado debe verse como **una letra**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 715. Reto de botones — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 358. Dado espacial: reiniciar un marcador con pulsación repetida
 
-## 716. Mini juego de suerte — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: reiniciar un marcador con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **pulsación repetida**, y el resultado debe verse como **un símbolo**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 717. Turnos de jugadores — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 359. Dado espacial: reiniciar un marcador con inicio del programa
 
-## 718. Asistencia sencilla — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: reiniciar un marcador con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **inicio del programa**, y el resultado debe verse como **una animación**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 719. Selector de grupo — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 360. Dado espacial: reiniciar un marcador con combinación de botones
 
-## 720. Proyecto libre microbit — variante 18
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: reiniciar un marcador con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **combinación de botones**, y el resultado debe verse como **un aviso**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 721. Dado digital — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 361. Dado espacial: cambiar de estado con botón A
 
-## 722. Piedra papel o tijera — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: cambiar de estado con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **botón A**, y el resultado debe verse como **una señal de inicio**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 723. Moneda digital — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 362. Dado espacial: cambiar de estado con botón B
 
-## 724. Contador de puntos — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: cambiar de estado con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **botón B**, y el resultado debe verse como **una señal de fin**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 725. Temporizador — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 363. Dado espacial: cambiar de estado con botones A+B
 
-## 726. Termómetro — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: cambiar de estado con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **botones A+B**, y el resultado debe verse como **un patrón de luces**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 727. Medidor de luz — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 364. Dado espacial: cambiar de estado con agitar la placa
 
-## 728. Alarma de movimiento — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: cambiar de estado con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **agitar la placa**, y el resultado debe verse como **una respuesta**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 729. Nivel de inclinación — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 365. Dado espacial: cambiar de estado con inclinar a la izquierda
 
-## 730. Brújula — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: cambiar de estado con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un contador**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 731. Animación LED — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 366. Dado espacial: cambiar de estado con inclinar a la derecha
 
-## 732. Mensaje desplazable — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: cambiar de estado con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un estado**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 733. Número secreto — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 367. Dado espacial: cambiar de estado con poner la placa boca arriba
 
-## 734. Sorteo de números — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: cambiar de estado con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un número en los LED**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 735. Dado D20 — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 368. Dado espacial: cambiar de estado con ponerla boca abajo
 
-## 736. Tabla de multiplicar — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: cambiar de estado con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una figura distinta**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 737. Juego de reflejos — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 369. Dado espacial: cambiar de estado con acelerómetro
 
-## 738. Semáforo — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: cambiar de estado con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **acelerómetro**, y el resultado debe verse como **un mensaje corto**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 739. Marcador deportivo — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 370. Dado espacial: cambiar de estado con sensor de temperatura
 
-## 740. Podómetro — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: cambiar de estado con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **sensor de temperatura**, y el resultado debe verse como **una flecha**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 741. Selector aleatorio — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 371. Dado espacial: cambiar de estado con nivel de luz
 
-## 742. Ruleta digital — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: cambiar de estado con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **nivel de luz**, y el resultado debe verse como **un puntaje**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 743. Cuenta regresiva — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 372. Dado espacial: cambiar de estado con brújula
 
-## 744. Juego de memoria — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: cambiar de estado con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **brújula**, y el resultado debe verse como **una cuenta regresiva**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 745. Votación con botones — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 373. Dado espacial: cambiar de estado con toque del logo
 
-## 746. Contador de clics — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: cambiar de estado con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **toque del logo**, y el resultado debe verse como **una cara**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 747. Cambio de imagen — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 374. Dado espacial: cambiar de estado con gesto de caída
 
-## 748. Emociones — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: cambiar de estado con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **gesto de caída**, y el resultado debe verse como **una letra**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 749. Aviso de calor — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 375. Dado espacial: cambiar de estado con movimiento fuerte
 
-## 750. Aviso de frío — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: cambiar de estado con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **movimiento fuerte**, y el resultado debe verse como **un símbolo**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 751. Número par o impar — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 376. Dado espacial: cambiar de estado con movimiento suave
 
-## 752. Calculadora básica — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: cambiar de estado con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **movimiento suave**, y el resultado debe verse como **una animación**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 753. Práctica de sumas — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 377. Dado espacial: cambiar de estado con pulsación corta
 
-## 754. Juego de preguntas — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: cambiar de estado con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **pulsación corta**, y el resultado debe verse como **un aviso**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 755. Reto de botones — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 378. Dado espacial: cambiar de estado con pulsación repetida
 
-## 756. Mini juego de suerte — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: cambiar de estado con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **pulsación repetida**, y el resultado debe verse como **un valor medido**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 757. Turnos de jugadores — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 379. Dado espacial: cambiar de estado con inicio del programa
 
-## 758. Asistencia sencilla — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: cambiar de estado con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **inicio del programa**, y el resultado debe verse como **un resultado aleatorio**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 759. Selector de grupo — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 380. Dado espacial: cambiar de estado con combinación de botones
 
-## 760. Proyecto libre microbit — variante 19
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: cambiar de estado con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **combinación de botones**, y el resultado debe verse como **un turno**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 761. Dado digital — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 381. Dado espacial: mostrar un reto con botón A
 
-## 762. Piedra papel o tijera — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: mostrar un reto con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **botón A**, y el resultado debe verse como **una respuesta**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 763. Moneda digital — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 382. Dado espacial: mostrar un reto con botón B
 
-## 764. Contador de puntos — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: mostrar un reto con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **botón B**, y el resultado debe verse como **un contador**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 765. Temporizador — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 383. Dado espacial: mostrar un reto con botones A+B
 
-## 766. Termómetro — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: mostrar un reto con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **botones A+B**, y el resultado debe verse como **un estado**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 767. Medidor de luz — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 384. Dado espacial: mostrar un reto con agitar la placa
 
-## 768. Alarma de movimiento — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: mostrar un reto con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **agitar la placa**, y el resultado debe verse como **un número en los LED**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 769. Nivel de inclinación — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 385. Dado espacial: mostrar un reto con inclinar a la izquierda
 
-## 770. Brújula — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: mostrar un reto con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una figura distinta**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 771. Animación LED — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 386. Dado espacial: mostrar un reto con inclinar a la derecha
 
-## 772. Mensaje desplazable — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: mostrar un reto con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un mensaje corto**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 773. Número secreto — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 387. Dado espacial: mostrar un reto con poner la placa boca arriba
 
-## 774. Sorteo de números — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: mostrar un reto con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una flecha**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 775. Dado D20 — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 388. Dado espacial: mostrar un reto con ponerla boca abajo
 
-## 776. Tabla de multiplicar — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: mostrar un reto con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un puntaje**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 777. Juego de reflejos — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 389. Dado espacial: mostrar un reto con acelerómetro
 
-## 778. Semáforo — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: mostrar un reto con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **acelerómetro**, y el resultado debe verse como **una cuenta regresiva**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 779. Marcador deportivo — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 390. Dado espacial: mostrar un reto con sensor de temperatura
 
-## 780. Podómetro — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: mostrar un reto con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **sensor de temperatura**, y el resultado debe verse como **una cara**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 781. Selector aleatorio — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 391. Dado espacial: mostrar un reto con nivel de luz
 
-## 782. Ruleta digital — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Dado espacial: mostrar un reto con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **nivel de luz**, y el resultado debe verse como **una letra**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 783. Cuenta regresiva — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 392. Dado espacial: mostrar un reto con brújula
 
-## 784. Juego de memoria — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Dado espacial: mostrar un reto con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **brújula**, y el resultado debe verse como **un símbolo**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 785. Votación con botones — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 393. Dado espacial: mostrar un reto con toque del logo
 
-## 786. Contador de clics — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Dado espacial: mostrar un reto con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **toque del logo**, y el resultado debe verse como **una animación**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 787. Cambio de imagen — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 394. Dado espacial: mostrar un reto con gesto de caída
 
-## 788. Emociones — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Dado espacial: mostrar un reto con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **gesto de caída**, y el resultado debe verse como **un aviso**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 789. Aviso de calor — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 395. Dado espacial: mostrar un reto con movimiento fuerte
 
-## 790. Aviso de frío — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Dado espacial: mostrar un reto con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **movimiento fuerte**, y el resultado debe verse como **un valor medido**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 791. Número par o impar — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 396. Dado espacial: mostrar un reto con movimiento suave
 
-## 792. Calculadora básica — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Dado espacial: mostrar un reto con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **movimiento suave**, y el resultado debe verse como **un resultado aleatorio**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 793. Práctica de sumas — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 397. Dado espacial: mostrar un reto con pulsación corta
 
-## 794. Juego de preguntas — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Dado espacial: mostrar un reto con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **pulsación corta**, y el resultado debe verse como **un turno**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 795. Reto de botones — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 398. Dado espacial: mostrar un reto con pulsación repetida
 
-## 796. Mini juego de suerte — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Dado espacial: mostrar un reto con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **pulsación repetida**, y el resultado debe verse como **una señal de inicio**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 797. Turnos de jugadores — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 399. Dado espacial: mostrar un reto con inicio del programa
 
-## 798. Asistencia sencilla — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Dado espacial: mostrar un reto con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **inicio del programa**, y el resultado debe verse como **una señal de fin**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 799. Selector de grupo — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 400. Dado espacial: mostrar un reto con combinación de botones
 
-## 800. Proyecto libre microbit — variante 20
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Dado espacial: mostrar un reto con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **combinación de botones**, y el resultado debe verse como **un patrón de luces**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 801. Dado digital — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 401. Semáforo escolar: sortear un resultado con botón A
 
-## 802. Piedra papel o tijera — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: sortear un resultado con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botón A**, y el resultado debe verse como **una letra**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 803. Moneda digital — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 402. Semáforo escolar: sortear un resultado con botón B
 
-## 804. Contador de puntos — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: sortear un resultado con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botón B**, y el resultado debe verse como **un símbolo**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 805. Temporizador — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 403. Semáforo escolar: sortear un resultado con botones A+B
 
-## 806. Termómetro — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: sortear un resultado con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botones A+B**, y el resultado debe verse como **una animación**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 807. Medidor de luz — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 404. Semáforo escolar: sortear un resultado con agitar la placa
 
-## 808. Alarma de movimiento — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: sortear un resultado con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **agitar la placa**, y el resultado debe verse como **un aviso**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 809. Nivel de inclinación — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 405. Semáforo escolar: sortear un resultado con inclinar a la izquierda
 
-## 810. Brújula — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: sortear un resultado con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un valor medido**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 811. Animación LED — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 406. Semáforo escolar: sortear un resultado con inclinar a la derecha
 
-## 812. Mensaje desplazable — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: sortear un resultado con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un resultado aleatorio**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 813. Número secreto — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 407. Semáforo escolar: sortear un resultado con poner la placa boca arriba
 
-## 814. Sorteo de números — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: sortear un resultado con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un turno**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 815. Dado D20 — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 408. Semáforo escolar: sortear un resultado con ponerla boca abajo
 
-## 816. Tabla de multiplicar — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: sortear un resultado con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una señal de inicio**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 817. Juego de reflejos — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 409. Semáforo escolar: sortear un resultado con acelerómetro
 
-## 818. Semáforo — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: sortear un resultado con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **acelerómetro**, y el resultado debe verse como **una señal de fin**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 819. Marcador deportivo — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 410. Semáforo escolar: sortear un resultado con sensor de temperatura
 
-## 820. Podómetro — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: sortear un resultado con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **sensor de temperatura**, y el resultado debe verse como **un patrón de luces**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 821. Selector aleatorio — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 411. Semáforo escolar: sortear un resultado con nivel de luz
 
-## 822. Ruleta digital — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: sortear un resultado con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **nivel de luz**, y el resultado debe verse como **una respuesta**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 823. Cuenta regresiva — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 412. Semáforo escolar: sortear un resultado con brújula
 
-## 824. Juego de memoria — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: sortear un resultado con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **brújula**, y el resultado debe verse como **un contador**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 825. Votación con botones — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 413. Semáforo escolar: sortear un resultado con toque del logo
 
-## 826. Contador de clics — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: sortear un resultado con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **toque del logo**, y el resultado debe verse como **un estado**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 827. Cambio de imagen — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 414. Semáforo escolar: sortear un resultado con gesto de caída
 
-## 828. Emociones — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: sortear un resultado con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **gesto de caída**, y el resultado debe verse como **un número en los LED**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 829. Aviso de calor — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 415. Semáforo escolar: sortear un resultado con movimiento fuerte
 
-## 830. Aviso de frío — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: sortear un resultado con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **movimiento fuerte**, y el resultado debe verse como **una figura distinta**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 831. Número par o impar — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 416. Semáforo escolar: sortear un resultado con movimiento suave
 
-## 832. Calculadora básica — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: sortear un resultado con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **movimiento suave**, y el resultado debe verse como **un mensaje corto**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 833. Práctica de sumas — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 417. Semáforo escolar: sortear un resultado con pulsación corta
 
-## 834. Juego de preguntas — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: sortear un resultado con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **pulsación corta**, y el resultado debe verse como **una flecha**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 835. Reto de botones — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 418. Semáforo escolar: sortear un resultado con pulsación repetida
 
-## 836. Mini juego de suerte — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: sortear un resultado con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **pulsación repetida**, y el resultado debe verse como **un puntaje**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 837. Turnos de jugadores — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 419. Semáforo escolar: sortear un resultado con inicio del programa
 
-## 838. Asistencia sencilla — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: sortear un resultado con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inicio del programa**, y el resultado debe verse como **una cuenta regresiva**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 839. Selector de grupo — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 420. Semáforo escolar: sortear un resultado con combinación de botones
 
-## 840. Proyecto libre microbit — variante 21
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: sortear un resultado con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **combinación de botones**, y el resultado debe verse como **una cara**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 841. Dado digital — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 421. Semáforo escolar: contar eventos con botón A
 
-## 842. Piedra papel o tijera — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: contar eventos con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botón A**, y el resultado debe verse como **un aviso**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 843. Moneda digital — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 422. Semáforo escolar: contar eventos con botón B
 
-## 844. Contador de puntos — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: contar eventos con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botón B**, y el resultado debe verse como **un valor medido**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 845. Temporizador — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 423. Semáforo escolar: contar eventos con botones A+B
 
-## 846. Termómetro — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: contar eventos con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botones A+B**, y el resultado debe verse como **un resultado aleatorio**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 847. Medidor de luz — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 424. Semáforo escolar: contar eventos con agitar la placa
 
-## 848. Alarma de movimiento — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: contar eventos con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **agitar la placa**, y el resultado debe verse como **un turno**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 849. Nivel de inclinación — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 425. Semáforo escolar: contar eventos con inclinar a la izquierda
 
-## 850. Brújula — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: contar eventos con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una señal de inicio**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 851. Animación LED — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 426. Semáforo escolar: contar eventos con inclinar a la derecha
 
-## 852. Mensaje desplazable — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: contar eventos con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una señal de fin**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 853. Número secreto — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 427. Semáforo escolar: contar eventos con poner la placa boca arriba
 
-## 854. Sorteo de números — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: contar eventos con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un patrón de luces**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 855. Dado D20 — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 428. Semáforo escolar: contar eventos con ponerla boca abajo
 
-## 856. Tabla de multiplicar — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: contar eventos con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una respuesta**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 857. Juego de reflejos — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 429. Semáforo escolar: contar eventos con acelerómetro
 
-## 858. Semáforo — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: contar eventos con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **acelerómetro**, y el resultado debe verse como **un contador**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 859. Marcador deportivo — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 430. Semáforo escolar: contar eventos con sensor de temperatura
 
-## 860. Podómetro — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: contar eventos con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **sensor de temperatura**, y el resultado debe verse como **un estado**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 861. Selector aleatorio — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 431. Semáforo escolar: contar eventos con nivel de luz
 
-## 862. Ruleta digital — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: contar eventos con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **nivel de luz**, y el resultado debe verse como **un número en los LED**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 863. Cuenta regresiva — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 432. Semáforo escolar: contar eventos con brújula
 
-## 864. Juego de memoria — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: contar eventos con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **brújula**, y el resultado debe verse como **una figura distinta**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 865. Votación con botones — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 433. Semáforo escolar: contar eventos con toque del logo
 
-## 866. Contador de clics — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: contar eventos con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **toque del logo**, y el resultado debe verse como **un mensaje corto**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 867. Cambio de imagen — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 434. Semáforo escolar: contar eventos con gesto de caída
 
-## 868. Emociones — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: contar eventos con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **gesto de caída**, y el resultado debe verse como **una flecha**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 869. Aviso de calor — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 435. Semáforo escolar: contar eventos con movimiento fuerte
 
-## 870. Aviso de frío — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: contar eventos con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **movimiento fuerte**, y el resultado debe verse como **un puntaje**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 871. Número par o impar — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 436. Semáforo escolar: contar eventos con movimiento suave
 
-## 872. Calculadora básica — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: contar eventos con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **movimiento suave**, y el resultado debe verse como **una cuenta regresiva**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 873. Práctica de sumas — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 437. Semáforo escolar: contar eventos con pulsación corta
 
-## 874. Juego de preguntas — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: contar eventos con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **pulsación corta**, y el resultado debe verse como **una cara**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 875. Reto de botones — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 438. Semáforo escolar: contar eventos con pulsación repetida
 
-## 876. Mini juego de suerte — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: contar eventos con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **pulsación repetida**, y el resultado debe verse como **una letra**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 877. Turnos de jugadores — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 439. Semáforo escolar: contar eventos con inicio del programa
 
-## 878. Asistencia sencilla — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: contar eventos con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inicio del programa**, y el resultado debe verse como **un símbolo**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 879. Selector de grupo — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 440. Semáforo escolar: contar eventos con combinación de botones
 
-## 880. Proyecto libre microbit — variante 22
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: contar eventos con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **combinación de botones**, y el resultado debe verse como **una animación**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 881. Dado digital — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 441. Semáforo escolar: medir una condición con botón A
 
-## 882. Piedra papel o tijera — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: medir una condición con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botón A**, y el resultado debe verse como **un turno**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 883. Moneda digital — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 442. Semáforo escolar: medir una condición con botón B
 
-## 884. Contador de puntos — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: medir una condición con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botón B**, y el resultado debe verse como **una señal de inicio**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 885. Temporizador — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 443. Semáforo escolar: medir una condición con botones A+B
 
-## 886. Termómetro — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: medir una condición con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botones A+B**, y el resultado debe verse como **una señal de fin**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 887. Medidor de luz — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 444. Semáforo escolar: medir una condición con agitar la placa
 
-## 888. Alarma de movimiento — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: medir una condición con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **agitar la placa**, y el resultado debe verse como **un patrón de luces**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 889. Nivel de inclinación — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 445. Semáforo escolar: medir una condición con inclinar a la izquierda
 
-## 890. Brújula — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: medir una condición con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una respuesta**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 891. Animación LED — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 446. Semáforo escolar: medir una condición con inclinar a la derecha
 
-## 892. Mensaje desplazable — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: medir una condición con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un contador**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 893. Número secreto — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 447. Semáforo escolar: medir una condición con poner la placa boca arriba
 
-## 894. Sorteo de números — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: medir una condición con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un estado**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 895. Dado D20 — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 448. Semáforo escolar: medir una condición con ponerla boca abajo
 
-## 896. Tabla de multiplicar — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: medir una condición con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un número en los LED**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 897. Juego de reflejos — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 449. Semáforo escolar: medir una condición con acelerómetro
 
-## 898. Semáforo — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: medir una condición con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **acelerómetro**, y el resultado debe verse como **una figura distinta**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 899. Marcador deportivo — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 450. Semáforo escolar: medir una condición con sensor de temperatura
 
-## 900. Podómetro — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: medir una condición con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **sensor de temperatura**, y el resultado debe verse como **un mensaje corto**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 901. Selector aleatorio — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 451. Semáforo escolar: medir una condición con nivel de luz
 
-## 902. Ruleta digital — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: medir una condición con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **nivel de luz**, y el resultado debe verse como **una flecha**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 903. Cuenta regresiva — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 452. Semáforo escolar: medir una condición con brújula
 
-## 904. Juego de memoria — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: medir una condición con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **brújula**, y el resultado debe verse como **un puntaje**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 905. Votación con botones — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 453. Semáforo escolar: medir una condición con toque del logo
 
-## 906. Contador de clics — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: medir una condición con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **toque del logo**, y el resultado debe verse como **una cuenta regresiva**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 907. Cambio de imagen — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 454. Semáforo escolar: medir una condición con gesto de caída
 
-## 908. Emociones — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: medir una condición con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **gesto de caída**, y el resultado debe verse como **una cara**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 909. Aviso de calor — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 455. Semáforo escolar: medir una condición con movimiento fuerte
 
-## 910. Aviso de frío — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: medir una condición con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **movimiento fuerte**, y el resultado debe verse como **una letra**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 911. Número par o impar — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 456. Semáforo escolar: medir una condición con movimiento suave
 
-## 912. Calculadora básica — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: medir una condición con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **movimiento suave**, y el resultado debe verse como **un símbolo**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 913. Práctica de sumas — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 457. Semáforo escolar: medir una condición con pulsación corta
 
-## 914. Juego de preguntas — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: medir una condición con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **pulsación corta**, y el resultado debe verse como **una animación**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 915. Reto de botones — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 458. Semáforo escolar: medir una condición con pulsación repetida
 
-## 916. Mini juego de suerte — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: medir una condición con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **pulsación repetida**, y el resultado debe verse como **un aviso**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 917. Turnos de jugadores — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 459. Semáforo escolar: medir una condición con inicio del programa
 
-## 918. Asistencia sencilla — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: medir una condición con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inicio del programa**, y el resultado debe verse como **un valor medido**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 919. Selector de grupo — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 460. Semáforo escolar: medir una condición con combinación de botones
 
-## 920. Proyecto libre microbit — variante 23
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: medir una condición con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **combinación de botones**, y el resultado debe verse como **un resultado aleatorio**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 921. Dado digital — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 461. Semáforo escolar: mostrar una señal con botón A
 
-## 922. Piedra papel o tijera — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: mostrar una señal con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botón A**, y el resultado debe verse como **un patrón de luces**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 923. Moneda digital — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 462. Semáforo escolar: mostrar una señal con botón B
 
-## 924. Contador de puntos — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: mostrar una señal con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botón B**, y el resultado debe verse como **una respuesta**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 925. Temporizador — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 463. Semáforo escolar: mostrar una señal con botones A+B
 
-## 926. Termómetro — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: mostrar una señal con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botones A+B**, y el resultado debe verse como **un contador**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 927. Medidor de luz — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 464. Semáforo escolar: mostrar una señal con agitar la placa
 
-## 928. Alarma de movimiento — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: mostrar una señal con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **agitar la placa**, y el resultado debe verse como **un estado**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 929. Nivel de inclinación — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 465. Semáforo escolar: mostrar una señal con inclinar a la izquierda
 
-## 930. Brújula — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: mostrar una señal con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un número en los LED**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 931. Animación LED — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 466. Semáforo escolar: mostrar una señal con inclinar a la derecha
 
-## 932. Mensaje desplazable — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: mostrar una señal con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una figura distinta**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 933. Número secreto — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 467. Semáforo escolar: mostrar una señal con poner la placa boca arriba
 
-## 934. Sorteo de números — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: mostrar una señal con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un mensaje corto**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 935. Dado D20 — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 468. Semáforo escolar: mostrar una señal con ponerla boca abajo
 
-## 936. Tabla de multiplicar — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: mostrar una señal con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una flecha**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 937. Juego de reflejos — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 469. Semáforo escolar: mostrar una señal con acelerómetro
 
-## 938. Semáforo — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: mostrar una señal con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **acelerómetro**, y el resultado debe verse como **un puntaje**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 939. Marcador deportivo — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 470. Semáforo escolar: mostrar una señal con sensor de temperatura
 
-## 940. Podómetro — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: mostrar una señal con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **sensor de temperatura**, y el resultado debe verse como **una cuenta regresiva**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 941. Selector aleatorio — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 471. Semáforo escolar: mostrar una señal con nivel de luz
 
-## 942. Ruleta digital — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: mostrar una señal con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **nivel de luz**, y el resultado debe verse como **una cara**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 943. Cuenta regresiva — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 472. Semáforo escolar: mostrar una señal con brújula
 
-## 944. Juego de memoria — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: mostrar una señal con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **brújula**, y el resultado debe verse como **una letra**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 945. Votación con botones — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 473. Semáforo escolar: mostrar una señal con toque del logo
 
-## 946. Contador de clics — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: mostrar una señal con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **toque del logo**, y el resultado debe verse como **un símbolo**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 947. Cambio de imagen — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 474. Semáforo escolar: mostrar una señal con gesto de caída
 
-## 948. Emociones — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: mostrar una señal con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **gesto de caída**, y el resultado debe verse como **una animación**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 949. Aviso de calor — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 475. Semáforo escolar: mostrar una señal con movimiento fuerte
 
-## 950. Aviso de frío — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: mostrar una señal con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **movimiento fuerte**, y el resultado debe verse como **un aviso**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 951. Número par o impar — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 476. Semáforo escolar: mostrar una señal con movimiento suave
 
-## 952. Calculadora básica — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: mostrar una señal con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **movimiento suave**, y el resultado debe verse como **un valor medido**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 953. Práctica de sumas — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 477. Semáforo escolar: mostrar una señal con pulsación corta
 
-## 954. Juego de preguntas — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: mostrar una señal con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **pulsación corta**, y el resultado debe verse como **un resultado aleatorio**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 955. Reto de botones — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 478. Semáforo escolar: mostrar una señal con pulsación repetida
 
-## 956. Mini juego de suerte — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: mostrar una señal con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **pulsación repetida**, y el resultado debe verse como **un turno**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 957. Turnos de jugadores — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 479. Semáforo escolar: mostrar una señal con inicio del programa
 
-## 958. Asistencia sencilla — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: mostrar una señal con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inicio del programa**, y el resultado debe verse como **una señal de inicio**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 959. Selector de grupo — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 480. Semáforo escolar: mostrar una señal con combinación de botones
 
-## 960. Proyecto libre microbit — variante 24
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: mostrar una señal con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **combinación de botones**, y el resultado debe verse como **una señal de fin**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 961. Dado digital — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 481. Semáforo escolar: comparar dos valores con botón A
 
-## 962. Piedra papel o tijera — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Piedra papel o tijera**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: comparar dos valores con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botón A**, y el resultado debe verse como **un estado**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 963. Moneda digital — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Moneda digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 482. Semáforo escolar: comparar dos valores con botón B
 
-## 964. Contador de puntos — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de puntos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: comparar dos valores con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botón B**, y el resultado debe verse como **un número en los LED**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 965. Temporizador — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Temporizador**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 483. Semáforo escolar: comparar dos valores con botones A+B
 
-## 966. Termómetro — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Termómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: comparar dos valores con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botones A+B**, y el resultado debe verse como **una figura distinta**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 967. Medidor de luz — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Medidor de luz**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 484. Semáforo escolar: comparar dos valores con agitar la placa
 
-## 968. Alarma de movimiento — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Alarma de movimiento**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: comparar dos valores con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **agitar la placa**, y el resultado debe verse como **un mensaje corto**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 969. Nivel de inclinación — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Nivel de inclinación**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 485. Semáforo escolar: comparar dos valores con inclinar a la izquierda
 
-## 970. Brújula — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Brújula**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: comparar dos valores con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una flecha**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 971. Animación LED — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Animación LED**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 486. Semáforo escolar: comparar dos valores con inclinar a la derecha
 
-## 972. Mensaje desplazable — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mensaje desplazable**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: comparar dos valores con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un puntaje**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 973. Número secreto — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número secreto**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 487. Semáforo escolar: comparar dos valores con poner la placa boca arriba
 
-## 974. Sorteo de números — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Sorteo de números**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: comparar dos valores con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una cuenta regresiva**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 975. Dado D20 — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Dado D20**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 488. Semáforo escolar: comparar dos valores con ponerla boca abajo
 
-## 976. Tabla de multiplicar — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Tabla de multiplicar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: comparar dos valores con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una cara**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 977. Juego de reflejos — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de reflejos**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 489. Semáforo escolar: comparar dos valores con acelerómetro
 
-## 978. Semáforo — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Semáforo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: comparar dos valores con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **acelerómetro**, y el resultado debe verse como **una letra**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 979. Marcador deportivo — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Marcador deportivo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 490. Semáforo escolar: comparar dos valores con sensor de temperatura
 
-## 980. Podómetro — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Podómetro**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: comparar dos valores con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **sensor de temperatura**, y el resultado debe verse como **un símbolo**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 981. Selector aleatorio — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector aleatorio**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 491. Semáforo escolar: comparar dos valores con nivel de luz
 
-## 982. Ruleta digital — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Ruleta digital**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Diseña un proyecto llamado **Semáforo escolar: comparar dos valores con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **nivel de luz**, y el resultado debe verse como **una animación**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 983. Cuenta regresiva — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cuenta regresiva**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 492. Semáforo escolar: comparar dos valores con brújula
 
-## 984. Juego de memoria — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de memoria**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Crea un proyecto llamado **Semáforo escolar: comparar dos valores con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **brújula**, y el resultado debe verse como **un aviso**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 985. Votación con botones — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Votación con botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 493. Semáforo escolar: comparar dos valores con toque del logo
 
-## 986. Contador de clics — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Contador de clics**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Programa un proyecto llamado **Semáforo escolar: comparar dos valores con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **toque del logo**, y el resultado debe verse como **un valor medido**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 987. Cambio de imagen — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Cambio de imagen**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 494. Semáforo escolar: comparar dos valores con gesto de caída
 
-## 988. Emociones — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Emociones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Construye un proyecto llamado **Semáforo escolar: comparar dos valores con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **gesto de caída**, y el resultado debe verse como **un resultado aleatorio**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 989. Aviso de calor — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de calor**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 495. Semáforo escolar: comparar dos valores con movimiento fuerte
 
-## 990. Aviso de frío — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Aviso de frío**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Prepara un proyecto llamado **Semáforo escolar: comparar dos valores con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **movimiento fuerte**, y el resultado debe verse como **un turno**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 991. Número par o impar — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Número par o impar**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 496. Semáforo escolar: comparar dos valores con movimiento suave
 
-## 992. Calculadora básica — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Calculadora básica**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Desarrolla un proyecto llamado **Semáforo escolar: comparar dos valores con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **movimiento suave**, y el resultado debe verse como **una señal de inicio**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 993. Práctica de sumas — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Práctica de sumas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 497. Semáforo escolar: comparar dos valores con pulsación corta
 
-## 994. Juego de preguntas — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Juego de preguntas**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Haz un proyecto llamado **Semáforo escolar: comparar dos valores con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **pulsación corta**, y el resultado debe verse como **una señal de fin**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 995. Reto de botones — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Reto de botones**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 498. Semáforo escolar: comparar dos valores con pulsación repetida
 
-## 996. Mini juego de suerte — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Mini juego de suerte**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Plantea un proyecto llamado **Semáforo escolar: comparar dos valores con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **pulsación repetida**, y el resultado debe verse como **un patrón de luces**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 997. Turnos de jugadores — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Turnos de jugadores**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 499. Semáforo escolar: comparar dos valores con inicio del programa
 
-## 998. Asistencia sencilla — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Asistencia sencilla**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Escribe un proyecto llamado **Semáforo escolar: comparar dos valores con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inicio del programa**, y el resultado debe verse como **una respuesta**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
-## 999. Selector de grupo — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Selector de grupo**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+## 500. Semáforo escolar: comparar dos valores con combinación de botones
 
-## 1000. Proyecto libre microbit — variante 25
-Crea en MicroPython para BBC micro:bit un proyecto sencillo de **Proyecto libre microbit**. Haz el código corto, claro y fácil de explicar para grado 11. Usa recursos propios de la micro:bit, muestra una salida visible, explica entrada, proceso y salida, e indica cómo probarlo y qué revisar si falla. No inventes resultados de pruebas físicas.
+Arma un proyecto llamado **Semáforo escolar: comparar dos valores con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **combinación de botones**, y el resultado debe verse como **un contador**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 501. Semáforo escolar: guardar un puntaje con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: guardar un puntaje con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botón A**, y el resultado debe verse como **un mensaje corto**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 502. Semáforo escolar: guardar un puntaje con botón B
+
+Crea un proyecto llamado **Semáforo escolar: guardar un puntaje con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botón B**, y el resultado debe verse como **una flecha**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 503. Semáforo escolar: guardar un puntaje con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: guardar un puntaje con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botones A+B**, y el resultado debe verse como **un puntaje**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 504. Semáforo escolar: guardar un puntaje con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: guardar un puntaje con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **agitar la placa**, y el resultado debe verse como **una cuenta regresiva**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 505. Semáforo escolar: guardar un puntaje con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: guardar un puntaje con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una cara**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 506. Semáforo escolar: guardar un puntaje con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: guardar un puntaje con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una letra**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 507. Semáforo escolar: guardar un puntaje con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: guardar un puntaje con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un símbolo**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 508. Semáforo escolar: guardar un puntaje con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: guardar un puntaje con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una animación**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 509. Semáforo escolar: guardar un puntaje con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: guardar un puntaje con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **acelerómetro**, y el resultado debe verse como **un aviso**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 510. Semáforo escolar: guardar un puntaje con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: guardar un puntaje con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **sensor de temperatura**, y el resultado debe verse como **un valor medido**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 511. Semáforo escolar: guardar un puntaje con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: guardar un puntaje con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **nivel de luz**, y el resultado debe verse como **un resultado aleatorio**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 512. Semáforo escolar: guardar un puntaje con brújula
+
+Crea un proyecto llamado **Semáforo escolar: guardar un puntaje con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **brújula**, y el resultado debe verse como **un turno**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 513. Semáforo escolar: guardar un puntaje con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: guardar un puntaje con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **toque del logo**, y el resultado debe verse como **una señal de inicio**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 514. Semáforo escolar: guardar un puntaje con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: guardar un puntaje con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **gesto de caída**, y el resultado debe verse como **una señal de fin**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 515. Semáforo escolar: guardar un puntaje con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: guardar un puntaje con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **movimiento fuerte**, y el resultado debe verse como **un patrón de luces**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 516. Semáforo escolar: guardar un puntaje con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: guardar un puntaje con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **movimiento suave**, y el resultado debe verse como **una respuesta**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 517. Semáforo escolar: guardar un puntaje con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: guardar un puntaje con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **pulsación corta**, y el resultado debe verse como **un contador**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 518. Semáforo escolar: guardar un puntaje con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: guardar un puntaje con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **pulsación repetida**, y el resultado debe verse como **un estado**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 519. Semáforo escolar: guardar un puntaje con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: guardar un puntaje con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inicio del programa**, y el resultado debe verse como **un número en los LED**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 520. Semáforo escolar: guardar un puntaje con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: guardar un puntaje con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **combinación de botones**, y el resultado debe verse como **una figura distinta**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 521. Semáforo escolar: iniciar una cuenta regresiva con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botón A**, y el resultado debe verse como **una cuenta regresiva**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 522. Semáforo escolar: iniciar una cuenta regresiva con botón B
+
+Crea un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botón B**, y el resultado debe verse como **una cara**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 523. Semáforo escolar: iniciar una cuenta regresiva con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botones A+B**, y el resultado debe verse como **una letra**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 524. Semáforo escolar: iniciar una cuenta regresiva con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **agitar la placa**, y el resultado debe verse como **un símbolo**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 525. Semáforo escolar: iniciar una cuenta regresiva con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una animación**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 526. Semáforo escolar: iniciar una cuenta regresiva con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un aviso**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 527. Semáforo escolar: iniciar una cuenta regresiva con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un valor medido**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 528. Semáforo escolar: iniciar una cuenta regresiva con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un resultado aleatorio**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 529. Semáforo escolar: iniciar una cuenta regresiva con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **acelerómetro**, y el resultado debe verse como **un turno**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 530. Semáforo escolar: iniciar una cuenta regresiva con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **sensor de temperatura**, y el resultado debe verse como **una señal de inicio**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 531. Semáforo escolar: iniciar una cuenta regresiva con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **nivel de luz**, y el resultado debe verse como **una señal de fin**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 532. Semáforo escolar: iniciar una cuenta regresiva con brújula
+
+Crea un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **brújula**, y el resultado debe verse como **un patrón de luces**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 533. Semáforo escolar: iniciar una cuenta regresiva con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **toque del logo**, y el resultado debe verse como **una respuesta**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 534. Semáforo escolar: iniciar una cuenta regresiva con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **gesto de caída**, y el resultado debe verse como **un contador**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 535. Semáforo escolar: iniciar una cuenta regresiva con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **movimiento fuerte**, y el resultado debe verse como **un estado**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 536. Semáforo escolar: iniciar una cuenta regresiva con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **movimiento suave**, y el resultado debe verse como **un número en los LED**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 537. Semáforo escolar: iniciar una cuenta regresiva con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **pulsación corta**, y el resultado debe verse como **una figura distinta**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 538. Semáforo escolar: iniciar una cuenta regresiva con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **pulsación repetida**, y el resultado debe verse como **un mensaje corto**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 539. Semáforo escolar: iniciar una cuenta regresiva con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inicio del programa**, y el resultado debe verse como **una flecha**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 540. Semáforo escolar: iniciar una cuenta regresiva con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: iniciar una cuenta regresiva con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **combinación de botones**, y el resultado debe verse como **un puntaje**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 541. Semáforo escolar: cambiar una animación con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: cambiar una animación con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botón A**, y el resultado debe verse como **un símbolo**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 542. Semáforo escolar: cambiar una animación con botón B
+
+Crea un proyecto llamado **Semáforo escolar: cambiar una animación con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botón B**, y el resultado debe verse como **una animación**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 543. Semáforo escolar: cambiar una animación con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: cambiar una animación con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botones A+B**, y el resultado debe verse como **un aviso**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 544. Semáforo escolar: cambiar una animación con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: cambiar una animación con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **agitar la placa**, y el resultado debe verse como **un valor medido**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 545. Semáforo escolar: cambiar una animación con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: cambiar una animación con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un resultado aleatorio**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 546. Semáforo escolar: cambiar una animación con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: cambiar una animación con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un turno**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 547. Semáforo escolar: cambiar una animación con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: cambiar una animación con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una señal de inicio**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 548. Semáforo escolar: cambiar una animación con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: cambiar una animación con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una señal de fin**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 549. Semáforo escolar: cambiar una animación con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: cambiar una animación con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **acelerómetro**, y el resultado debe verse como **un patrón de luces**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 550. Semáforo escolar: cambiar una animación con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: cambiar una animación con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **sensor de temperatura**, y el resultado debe verse como **una respuesta**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 551. Semáforo escolar: cambiar una animación con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: cambiar una animación con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **nivel de luz**, y el resultado debe verse como **un contador**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 552. Semáforo escolar: cambiar una animación con brújula
+
+Crea un proyecto llamado **Semáforo escolar: cambiar una animación con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **brújula**, y el resultado debe verse como **un estado**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 553. Semáforo escolar: cambiar una animación con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: cambiar una animación con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **toque del logo**, y el resultado debe verse como **un número en los LED**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 554. Semáforo escolar: cambiar una animación con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: cambiar una animación con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **gesto de caída**, y el resultado debe verse como **una figura distinta**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 555. Semáforo escolar: cambiar una animación con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: cambiar una animación con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **movimiento fuerte**, y el resultado debe verse como **un mensaje corto**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 556. Semáforo escolar: cambiar una animación con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: cambiar una animación con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **movimiento suave**, y el resultado debe verse como **una flecha**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 557. Semáforo escolar: cambiar una animación con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: cambiar una animación con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **pulsación corta**, y el resultado debe verse como **un puntaje**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 558. Semáforo escolar: cambiar una animación con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: cambiar una animación con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **pulsación repetida**, y el resultado debe verse como **una cuenta regresiva**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 559. Semáforo escolar: cambiar una animación con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: cambiar una animación con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inicio del programa**, y el resultado debe verse como **una cara**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 560. Semáforo escolar: cambiar una animación con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: cambiar una animación con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **combinación de botones**, y el resultado debe verse como **una letra**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 561. Semáforo escolar: elegir una opción con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: elegir una opción con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botón A**, y el resultado debe verse como **un valor medido**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 562. Semáforo escolar: elegir una opción con botón B
+
+Crea un proyecto llamado **Semáforo escolar: elegir una opción con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botón B**, y el resultado debe verse como **un resultado aleatorio**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 563. Semáforo escolar: elegir una opción con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: elegir una opción con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botones A+B**, y el resultado debe verse como **un turno**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 564. Semáforo escolar: elegir una opción con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: elegir una opción con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **agitar la placa**, y el resultado debe verse como **una señal de inicio**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 565. Semáforo escolar: elegir una opción con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: elegir una opción con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una señal de fin**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 566. Semáforo escolar: elegir una opción con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: elegir una opción con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un patrón de luces**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 567. Semáforo escolar: elegir una opción con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: elegir una opción con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una respuesta**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 568. Semáforo escolar: elegir una opción con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: elegir una opción con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un contador**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 569. Semáforo escolar: elegir una opción con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: elegir una opción con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **acelerómetro**, y el resultado debe verse como **un estado**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 570. Semáforo escolar: elegir una opción con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: elegir una opción con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **sensor de temperatura**, y el resultado debe verse como **un número en los LED**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 571. Semáforo escolar: elegir una opción con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: elegir una opción con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **nivel de luz**, y el resultado debe verse como **una figura distinta**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 572. Semáforo escolar: elegir una opción con brújula
+
+Crea un proyecto llamado **Semáforo escolar: elegir una opción con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **brújula**, y el resultado debe verse como **un mensaje corto**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 573. Semáforo escolar: elegir una opción con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: elegir una opción con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **toque del logo**, y el resultado debe verse como **una flecha**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 574. Semáforo escolar: elegir una opción con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: elegir una opción con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **gesto de caída**, y el resultado debe verse como **un puntaje**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 575. Semáforo escolar: elegir una opción con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: elegir una opción con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **movimiento fuerte**, y el resultado debe verse como **una cuenta regresiva**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 576. Semáforo escolar: elegir una opción con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: elegir una opción con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **movimiento suave**, y el resultado debe verse como **una cara**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 577. Semáforo escolar: elegir una opción con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: elegir una opción con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **pulsación corta**, y el resultado debe verse como **una letra**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 578. Semáforo escolar: elegir una opción con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: elegir una opción con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **pulsación repetida**, y el resultado debe verse como **un símbolo**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 579. Semáforo escolar: elegir una opción con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: elegir una opción con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inicio del programa**, y el resultado debe verse como **una animación**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 580. Semáforo escolar: elegir una opción con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: elegir una opción con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **combinación de botones**, y el resultado debe verse como **un aviso**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 581. Semáforo escolar: detectar un movimiento con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: detectar un movimiento con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botón A**, y el resultado debe verse como **una señal de inicio**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 582. Semáforo escolar: detectar un movimiento con botón B
+
+Crea un proyecto llamado **Semáforo escolar: detectar un movimiento con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botón B**, y el resultado debe verse como **una señal de fin**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 583. Semáforo escolar: detectar un movimiento con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: detectar un movimiento con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botones A+B**, y el resultado debe verse como **un patrón de luces**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 584. Semáforo escolar: detectar un movimiento con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: detectar un movimiento con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **agitar la placa**, y el resultado debe verse como **una respuesta**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 585. Semáforo escolar: detectar un movimiento con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: detectar un movimiento con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un contador**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 586. Semáforo escolar: detectar un movimiento con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: detectar un movimiento con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un estado**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 587. Semáforo escolar: detectar un movimiento con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: detectar un movimiento con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un número en los LED**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 588. Semáforo escolar: detectar un movimiento con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: detectar un movimiento con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una figura distinta**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 589. Semáforo escolar: detectar un movimiento con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: detectar un movimiento con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **acelerómetro**, y el resultado debe verse como **un mensaje corto**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 590. Semáforo escolar: detectar un movimiento con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: detectar un movimiento con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **sensor de temperatura**, y el resultado debe verse como **una flecha**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 591. Semáforo escolar: detectar un movimiento con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: detectar un movimiento con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **nivel de luz**, y el resultado debe verse como **un puntaje**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 592. Semáforo escolar: detectar un movimiento con brújula
+
+Crea un proyecto llamado **Semáforo escolar: detectar un movimiento con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **brújula**, y el resultado debe verse como **una cuenta regresiva**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 593. Semáforo escolar: detectar un movimiento con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: detectar un movimiento con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **toque del logo**, y el resultado debe verse como **una cara**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 594. Semáforo escolar: detectar un movimiento con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: detectar un movimiento con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **gesto de caída**, y el resultado debe verse como **una letra**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 595. Semáforo escolar: detectar un movimiento con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: detectar un movimiento con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **movimiento fuerte**, y el resultado debe verse como **un símbolo**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 596. Semáforo escolar: detectar un movimiento con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: detectar un movimiento con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **movimiento suave**, y el resultado debe verse como **una animación**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 597. Semáforo escolar: detectar un movimiento con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: detectar un movimiento con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **pulsación corta**, y el resultado debe verse como **un aviso**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 598. Semáforo escolar: detectar un movimiento con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: detectar un movimiento con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **pulsación repetida**, y el resultado debe verse como **un valor medido**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 599. Semáforo escolar: detectar un movimiento con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: detectar un movimiento con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inicio del programa**, y el resultado debe verse como **un resultado aleatorio**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 600. Semáforo escolar: detectar un movimiento con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: detectar un movimiento con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **combinación de botones**, y el resultado debe verse como **un turno**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 601. Semáforo escolar: responder una pregunta con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: responder una pregunta con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **botón A**, y el resultado debe verse como **una respuesta**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 602. Semáforo escolar: responder una pregunta con botón B
+
+Crea un proyecto llamado **Semáforo escolar: responder una pregunta con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **botón B**, y el resultado debe verse como **un contador**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 603. Semáforo escolar: responder una pregunta con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: responder una pregunta con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **botones A+B**, y el resultado debe verse como **un estado**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 604. Semáforo escolar: responder una pregunta con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: responder una pregunta con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **agitar la placa**, y el resultado debe verse como **un número en los LED**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 605. Semáforo escolar: responder una pregunta con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: responder una pregunta con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una figura distinta**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 606. Semáforo escolar: responder una pregunta con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: responder una pregunta con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un mensaje corto**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 607. Semáforo escolar: responder una pregunta con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: responder una pregunta con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una flecha**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 608. Semáforo escolar: responder una pregunta con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: responder una pregunta con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un puntaje**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 609. Semáforo escolar: responder una pregunta con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: responder una pregunta con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **acelerómetro**, y el resultado debe verse como **una cuenta regresiva**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 610. Semáforo escolar: responder una pregunta con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: responder una pregunta con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **sensor de temperatura**, y el resultado debe verse como **una cara**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 611. Semáforo escolar: responder una pregunta con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: responder una pregunta con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **nivel de luz**, y el resultado debe verse como **una letra**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 612. Semáforo escolar: responder una pregunta con brújula
+
+Crea un proyecto llamado **Semáforo escolar: responder una pregunta con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **brújula**, y el resultado debe verse como **un símbolo**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 613. Semáforo escolar: responder una pregunta con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: responder una pregunta con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **toque del logo**, y el resultado debe verse como **una animación**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 614. Semáforo escolar: responder una pregunta con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: responder una pregunta con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **gesto de caída**, y el resultado debe verse como **un aviso**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 615. Semáforo escolar: responder una pregunta con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: responder una pregunta con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **movimiento fuerte**, y el resultado debe verse como **un valor medido**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 616. Semáforo escolar: responder una pregunta con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: responder una pregunta con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **movimiento suave**, y el resultado debe verse como **un resultado aleatorio**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 617. Semáforo escolar: responder una pregunta con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: responder una pregunta con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **pulsación corta**, y el resultado debe verse como **un turno**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 618. Semáforo escolar: responder una pregunta con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: responder una pregunta con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **pulsación repetida**, y el resultado debe verse como **una señal de inicio**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 619. Semáforo escolar: responder una pregunta con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: responder una pregunta con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **inicio del programa**, y el resultado debe verse como **una señal de fin**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 620. Semáforo escolar: responder una pregunta con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: responder una pregunta con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **responder una pregunta** cuando se use **combinación de botones**, y el resultado debe verse como **un patrón de luces**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 621. Semáforo escolar: controlar un turno con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: controlar un turno con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **botón A**, y el resultado debe verse como **un número en los LED**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 622. Semáforo escolar: controlar un turno con botón B
+
+Crea un proyecto llamado **Semáforo escolar: controlar un turno con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **botón B**, y el resultado debe verse como **una figura distinta**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 623. Semáforo escolar: controlar un turno con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: controlar un turno con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **botones A+B**, y el resultado debe verse como **un mensaje corto**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 624. Semáforo escolar: controlar un turno con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: controlar un turno con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **agitar la placa**, y el resultado debe verse como **una flecha**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 625. Semáforo escolar: controlar un turno con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: controlar un turno con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un puntaje**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 626. Semáforo escolar: controlar un turno con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: controlar un turno con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una cuenta regresiva**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 627. Semáforo escolar: controlar un turno con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: controlar un turno con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una cara**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 628. Semáforo escolar: controlar un turno con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: controlar un turno con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una letra**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 629. Semáforo escolar: controlar un turno con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: controlar un turno con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **acelerómetro**, y el resultado debe verse como **un símbolo**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 630. Semáforo escolar: controlar un turno con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: controlar un turno con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **sensor de temperatura**, y el resultado debe verse como **una animación**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 631. Semáforo escolar: controlar un turno con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: controlar un turno con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **nivel de luz**, y el resultado debe verse como **un aviso**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 632. Semáforo escolar: controlar un turno con brújula
+
+Crea un proyecto llamado **Semáforo escolar: controlar un turno con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **brújula**, y el resultado debe verse como **un valor medido**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 633. Semáforo escolar: controlar un turno con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: controlar un turno con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **toque del logo**, y el resultado debe verse como **un resultado aleatorio**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 634. Semáforo escolar: controlar un turno con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: controlar un turno con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **gesto de caída**, y el resultado debe verse como **un turno**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 635. Semáforo escolar: controlar un turno con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: controlar un turno con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **movimiento fuerte**, y el resultado debe verse como **una señal de inicio**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 636. Semáforo escolar: controlar un turno con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: controlar un turno con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **movimiento suave**, y el resultado debe verse como **una señal de fin**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 637. Semáforo escolar: controlar un turno con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: controlar un turno con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **pulsación corta**, y el resultado debe verse como **un patrón de luces**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 638. Semáforo escolar: controlar un turno con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: controlar un turno con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **pulsación repetida**, y el resultado debe verse como **una respuesta**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 639. Semáforo escolar: controlar un turno con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: controlar un turno con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **inicio del programa**, y el resultado debe verse como **un contador**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 640. Semáforo escolar: controlar un turno con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: controlar un turno con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **controlar un turno** cuando se use **combinación de botones**, y el resultado debe verse como **un estado**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 641. Semáforo escolar: mostrar una dirección con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: mostrar una dirección con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **botón A**, y el resultado debe verse como **una flecha**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 642. Semáforo escolar: mostrar una dirección con botón B
+
+Crea un proyecto llamado **Semáforo escolar: mostrar una dirección con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **botón B**, y el resultado debe verse como **un puntaje**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 643. Semáforo escolar: mostrar una dirección con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: mostrar una dirección con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **botones A+B**, y el resultado debe verse como **una cuenta regresiva**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 644. Semáforo escolar: mostrar una dirección con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: mostrar una dirección con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **agitar la placa**, y el resultado debe verse como **una cara**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 645. Semáforo escolar: mostrar una dirección con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: mostrar una dirección con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una letra**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 646. Semáforo escolar: mostrar una dirección con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: mostrar una dirección con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un símbolo**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 647. Semáforo escolar: mostrar una dirección con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: mostrar una dirección con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una animación**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 648. Semáforo escolar: mostrar una dirección con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: mostrar una dirección con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un aviso**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 649. Semáforo escolar: mostrar una dirección con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: mostrar una dirección con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **acelerómetro**, y el resultado debe verse como **un valor medido**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 650. Semáforo escolar: mostrar una dirección con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: mostrar una dirección con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **sensor de temperatura**, y el resultado debe verse como **un resultado aleatorio**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 651. Semáforo escolar: mostrar una dirección con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: mostrar una dirección con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **nivel de luz**, y el resultado debe verse como **un turno**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 652. Semáforo escolar: mostrar una dirección con brújula
+
+Crea un proyecto llamado **Semáforo escolar: mostrar una dirección con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **brújula**, y el resultado debe verse como **una señal de inicio**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 653. Semáforo escolar: mostrar una dirección con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: mostrar una dirección con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **toque del logo**, y el resultado debe verse como **una señal de fin**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 654. Semáforo escolar: mostrar una dirección con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: mostrar una dirección con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **gesto de caída**, y el resultado debe verse como **un patrón de luces**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 655. Semáforo escolar: mostrar una dirección con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: mostrar una dirección con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **movimiento fuerte**, y el resultado debe verse como **una respuesta**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 656. Semáforo escolar: mostrar una dirección con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: mostrar una dirección con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **movimiento suave**, y el resultado debe verse como **un contador**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 657. Semáforo escolar: mostrar una dirección con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: mostrar una dirección con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **pulsación corta**, y el resultado debe verse como **un estado**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 658. Semáforo escolar: mostrar una dirección con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: mostrar una dirección con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **pulsación repetida**, y el resultado debe verse como **un número en los LED**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 659. Semáforo escolar: mostrar una dirección con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: mostrar una dirección con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **inicio del programa**, y el resultado debe verse como **una figura distinta**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 660. Semáforo escolar: mostrar una dirección con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: mostrar una dirección con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una dirección** cuando se use **combinación de botones**, y el resultado debe verse como **un mensaje corto**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 661. Semáforo escolar: registrar repeticiones con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: registrar repeticiones con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **botón A**, y el resultado debe verse como **una cara**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 662. Semáforo escolar: registrar repeticiones con botón B
+
+Crea un proyecto llamado **Semáforo escolar: registrar repeticiones con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **botón B**, y el resultado debe verse como **una letra**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 663. Semáforo escolar: registrar repeticiones con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: registrar repeticiones con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **botones A+B**, y el resultado debe verse como **un símbolo**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 664. Semáforo escolar: registrar repeticiones con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: registrar repeticiones con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **agitar la placa**, y el resultado debe verse como **una animación**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 665. Semáforo escolar: registrar repeticiones con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: registrar repeticiones con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un aviso**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 666. Semáforo escolar: registrar repeticiones con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: registrar repeticiones con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un valor medido**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 667. Semáforo escolar: registrar repeticiones con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: registrar repeticiones con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un resultado aleatorio**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 668. Semáforo escolar: registrar repeticiones con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: registrar repeticiones con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un turno**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 669. Semáforo escolar: registrar repeticiones con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: registrar repeticiones con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **acelerómetro**, y el resultado debe verse como **una señal de inicio**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 670. Semáforo escolar: registrar repeticiones con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: registrar repeticiones con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **sensor de temperatura**, y el resultado debe verse como **una señal de fin**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 671. Semáforo escolar: registrar repeticiones con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: registrar repeticiones con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **nivel de luz**, y el resultado debe verse como **un patrón de luces**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 672. Semáforo escolar: registrar repeticiones con brújula
+
+Crea un proyecto llamado **Semáforo escolar: registrar repeticiones con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **brújula**, y el resultado debe verse como **una respuesta**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 673. Semáforo escolar: registrar repeticiones con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: registrar repeticiones con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **toque del logo**, y el resultado debe verse como **un contador**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 674. Semáforo escolar: registrar repeticiones con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: registrar repeticiones con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **gesto de caída**, y el resultado debe verse como **un estado**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 675. Semáforo escolar: registrar repeticiones con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: registrar repeticiones con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **movimiento fuerte**, y el resultado debe verse como **un número en los LED**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 676. Semáforo escolar: registrar repeticiones con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: registrar repeticiones con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **movimiento suave**, y el resultado debe verse como **una figura distinta**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 677. Semáforo escolar: registrar repeticiones con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: registrar repeticiones con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **pulsación corta**, y el resultado debe verse como **un mensaje corto**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 678. Semáforo escolar: registrar repeticiones con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: registrar repeticiones con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **pulsación repetida**, y el resultado debe verse como **una flecha**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 679. Semáforo escolar: registrar repeticiones con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: registrar repeticiones con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **inicio del programa**, y el resultado debe verse como **un puntaje**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 680. Semáforo escolar: registrar repeticiones con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: registrar repeticiones con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **registrar repeticiones** cuando se use **combinación de botones**, y el resultado debe verse como **una cuenta regresiva**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 681. Semáforo escolar: activar una alerta con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: activar una alerta con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **botón A**, y el resultado debe verse como **una animación**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 682. Semáforo escolar: activar una alerta con botón B
+
+Crea un proyecto llamado **Semáforo escolar: activar una alerta con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **botón B**, y el resultado debe verse como **un aviso**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 683. Semáforo escolar: activar una alerta con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: activar una alerta con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **botones A+B**, y el resultado debe verse como **un valor medido**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 684. Semáforo escolar: activar una alerta con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: activar una alerta con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **agitar la placa**, y el resultado debe verse como **un resultado aleatorio**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 685. Semáforo escolar: activar una alerta con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: activar una alerta con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un turno**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 686. Semáforo escolar: activar una alerta con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: activar una alerta con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una señal de inicio**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 687. Semáforo escolar: activar una alerta con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: activar una alerta con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una señal de fin**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 688. Semáforo escolar: activar una alerta con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: activar una alerta con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un patrón de luces**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 689. Semáforo escolar: activar una alerta con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: activar una alerta con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **acelerómetro**, y el resultado debe verse como **una respuesta**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 690. Semáforo escolar: activar una alerta con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: activar una alerta con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **sensor de temperatura**, y el resultado debe verse como **un contador**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 691. Semáforo escolar: activar una alerta con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: activar una alerta con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **nivel de luz**, y el resultado debe verse como **un estado**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 692. Semáforo escolar: activar una alerta con brújula
+
+Crea un proyecto llamado **Semáforo escolar: activar una alerta con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **brújula**, y el resultado debe verse como **un número en los LED**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 693. Semáforo escolar: activar una alerta con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: activar una alerta con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **toque del logo**, y el resultado debe verse como **una figura distinta**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 694. Semáforo escolar: activar una alerta con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: activar una alerta con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **gesto de caída**, y el resultado debe verse como **un mensaje corto**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 695. Semáforo escolar: activar una alerta con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: activar una alerta con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **movimiento fuerte**, y el resultado debe verse como **una flecha**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 696. Semáforo escolar: activar una alerta con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: activar una alerta con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **movimiento suave**, y el resultado debe verse como **un puntaje**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 697. Semáforo escolar: activar una alerta con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: activar una alerta con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **pulsación corta**, y el resultado debe verse como **una cuenta regresiva**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 698. Semáforo escolar: activar una alerta con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: activar una alerta con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **pulsación repetida**, y el resultado debe verse como **una cara**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 699. Semáforo escolar: activar una alerta con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: activar una alerta con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **inicio del programa**, y el resultado debe verse como **una letra**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 700. Semáforo escolar: activar una alerta con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: activar una alerta con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **activar una alerta** cuando se use **combinación de botones**, y el resultado debe verse como **un símbolo**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 701. Semáforo escolar: crear una secuencia con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: crear una secuencia con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **botón A**, y el resultado debe verse como **un resultado aleatorio**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 702. Semáforo escolar: crear una secuencia con botón B
+
+Crea un proyecto llamado **Semáforo escolar: crear una secuencia con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **botón B**, y el resultado debe verse como **un turno**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 703. Semáforo escolar: crear una secuencia con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: crear una secuencia con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **botones A+B**, y el resultado debe verse como **una señal de inicio**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 704. Semáforo escolar: crear una secuencia con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: crear una secuencia con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **agitar la placa**, y el resultado debe verse como **una señal de fin**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 705. Semáforo escolar: crear una secuencia con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: crear una secuencia con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un patrón de luces**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 706. Semáforo escolar: crear una secuencia con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: crear una secuencia con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una respuesta**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 707. Semáforo escolar: crear una secuencia con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: crear una secuencia con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un contador**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 708. Semáforo escolar: crear una secuencia con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: crear una secuencia con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un estado**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 709. Semáforo escolar: crear una secuencia con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: crear una secuencia con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **acelerómetro**, y el resultado debe verse como **un número en los LED**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 710. Semáforo escolar: crear una secuencia con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: crear una secuencia con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **sensor de temperatura**, y el resultado debe verse como **una figura distinta**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 711. Semáforo escolar: crear una secuencia con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: crear una secuencia con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **nivel de luz**, y el resultado debe verse como **un mensaje corto**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 712. Semáforo escolar: crear una secuencia con brújula
+
+Crea un proyecto llamado **Semáforo escolar: crear una secuencia con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **brújula**, y el resultado debe verse como **una flecha**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 713. Semáforo escolar: crear una secuencia con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: crear una secuencia con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **toque del logo**, y el resultado debe verse como **un puntaje**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 714. Semáforo escolar: crear una secuencia con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: crear una secuencia con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **gesto de caída**, y el resultado debe verse como **una cuenta regresiva**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 715. Semáforo escolar: crear una secuencia con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: crear una secuencia con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **movimiento fuerte**, y el resultado debe verse como **una cara**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 716. Semáforo escolar: crear una secuencia con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: crear una secuencia con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **movimiento suave**, y el resultado debe verse como **una letra**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 717. Semáforo escolar: crear una secuencia con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: crear una secuencia con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **pulsación corta**, y el resultado debe verse como **un símbolo**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 718. Semáforo escolar: crear una secuencia con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: crear una secuencia con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **pulsación repetida**, y el resultado debe verse como **una animación**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 719. Semáforo escolar: crear una secuencia con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: crear una secuencia con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **inicio del programa**, y el resultado debe verse como **un aviso**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 720. Semáforo escolar: crear una secuencia con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: crear una secuencia con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **crear una secuencia** cuando se use **combinación de botones**, y el resultado debe verse como **un valor medido**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 721. Semáforo escolar: calcular un resultado con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: calcular un resultado con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **botón A**, y el resultado debe verse como **una señal de fin**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 722. Semáforo escolar: calcular un resultado con botón B
+
+Crea un proyecto llamado **Semáforo escolar: calcular un resultado con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **botón B**, y el resultado debe verse como **un patrón de luces**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 723. Semáforo escolar: calcular un resultado con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: calcular un resultado con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **botones A+B**, y el resultado debe verse como **una respuesta**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 724. Semáforo escolar: calcular un resultado con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: calcular un resultado con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **agitar la placa**, y el resultado debe verse como **un contador**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 725. Semáforo escolar: calcular un resultado con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: calcular un resultado con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un estado**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 726. Semáforo escolar: calcular un resultado con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: calcular un resultado con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un número en los LED**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 727. Semáforo escolar: calcular un resultado con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: calcular un resultado con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una figura distinta**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 728. Semáforo escolar: calcular un resultado con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: calcular un resultado con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un mensaje corto**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 729. Semáforo escolar: calcular un resultado con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: calcular un resultado con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **acelerómetro**, y el resultado debe verse como **una flecha**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 730. Semáforo escolar: calcular un resultado con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: calcular un resultado con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **sensor de temperatura**, y el resultado debe verse como **un puntaje**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 731. Semáforo escolar: calcular un resultado con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: calcular un resultado con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **nivel de luz**, y el resultado debe verse como **una cuenta regresiva**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 732. Semáforo escolar: calcular un resultado con brújula
+
+Crea un proyecto llamado **Semáforo escolar: calcular un resultado con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **brújula**, y el resultado debe verse como **una cara**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 733. Semáforo escolar: calcular un resultado con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: calcular un resultado con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **toque del logo**, y el resultado debe verse como **una letra**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 734. Semáforo escolar: calcular un resultado con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: calcular un resultado con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **gesto de caída**, y el resultado debe verse como **un símbolo**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 735. Semáforo escolar: calcular un resultado con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: calcular un resultado con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **movimiento fuerte**, y el resultado debe verse como **una animación**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 736. Semáforo escolar: calcular un resultado con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: calcular un resultado con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **movimiento suave**, y el resultado debe verse como **un aviso**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 737. Semáforo escolar: calcular un resultado con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: calcular un resultado con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **pulsación corta**, y el resultado debe verse como **un valor medido**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 738. Semáforo escolar: calcular un resultado con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: calcular un resultado con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **pulsación repetida**, y el resultado debe verse como **un resultado aleatorio**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 739. Semáforo escolar: calcular un resultado con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: calcular un resultado con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **inicio del programa**, y el resultado debe verse como **un turno**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 740. Semáforo escolar: calcular un resultado con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: calcular un resultado con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **calcular un resultado** cuando se use **combinación de botones**, y el resultado debe verse como **una señal de inicio**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 741. Semáforo escolar: reiniciar un marcador con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: reiniciar un marcador con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **botón A**, y el resultado debe verse como **un contador**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 742. Semáforo escolar: reiniciar un marcador con botón B
+
+Crea un proyecto llamado **Semáforo escolar: reiniciar un marcador con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **botón B**, y el resultado debe verse como **un estado**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 743. Semáforo escolar: reiniciar un marcador con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: reiniciar un marcador con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **botones A+B**, y el resultado debe verse como **un número en los LED**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 744. Semáforo escolar: reiniciar un marcador con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: reiniciar un marcador con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **agitar la placa**, y el resultado debe verse como **una figura distinta**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 745. Semáforo escolar: reiniciar un marcador con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: reiniciar un marcador con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un mensaje corto**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 746. Semáforo escolar: reiniciar un marcador con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: reiniciar un marcador con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una flecha**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 747. Semáforo escolar: reiniciar un marcador con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: reiniciar un marcador con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un puntaje**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 748. Semáforo escolar: reiniciar un marcador con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: reiniciar un marcador con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una cuenta regresiva**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 749. Semáforo escolar: reiniciar un marcador con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: reiniciar un marcador con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **acelerómetro**, y el resultado debe verse como **una cara**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 750. Semáforo escolar: reiniciar un marcador con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: reiniciar un marcador con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **sensor de temperatura**, y el resultado debe verse como **una letra**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 751. Semáforo escolar: reiniciar un marcador con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: reiniciar un marcador con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **nivel de luz**, y el resultado debe verse como **un símbolo**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 752. Semáforo escolar: reiniciar un marcador con brújula
+
+Crea un proyecto llamado **Semáforo escolar: reiniciar un marcador con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **brújula**, y el resultado debe verse como **una animación**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 753. Semáforo escolar: reiniciar un marcador con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: reiniciar un marcador con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **toque del logo**, y el resultado debe verse como **un aviso**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 754. Semáforo escolar: reiniciar un marcador con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: reiniciar un marcador con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **gesto de caída**, y el resultado debe verse como **un valor medido**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 755. Semáforo escolar: reiniciar un marcador con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: reiniciar un marcador con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **movimiento fuerte**, y el resultado debe verse como **un resultado aleatorio**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 756. Semáforo escolar: reiniciar un marcador con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: reiniciar un marcador con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **movimiento suave**, y el resultado debe verse como **un turno**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 757. Semáforo escolar: reiniciar un marcador con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: reiniciar un marcador con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **pulsación corta**, y el resultado debe verse como **una señal de inicio**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 758. Semáforo escolar: reiniciar un marcador con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: reiniciar un marcador con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **pulsación repetida**, y el resultado debe verse como **una señal de fin**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 759. Semáforo escolar: reiniciar un marcador con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: reiniciar un marcador con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **inicio del programa**, y el resultado debe verse como **un patrón de luces**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 760. Semáforo escolar: reiniciar un marcador con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: reiniciar un marcador con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **reiniciar un marcador** cuando se use **combinación de botones**, y el resultado debe verse como **una respuesta**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 761. Semáforo escolar: cambiar de estado con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: cambiar de estado con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **botón A**, y el resultado debe verse como **una figura distinta**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 762. Semáforo escolar: cambiar de estado con botón B
+
+Crea un proyecto llamado **Semáforo escolar: cambiar de estado con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **botón B**, y el resultado debe verse como **un mensaje corto**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 763. Semáforo escolar: cambiar de estado con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: cambiar de estado con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **botones A+B**, y el resultado debe verse como **una flecha**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 764. Semáforo escolar: cambiar de estado con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: cambiar de estado con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **agitar la placa**, y el resultado debe verse como **un puntaje**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 765. Semáforo escolar: cambiar de estado con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: cambiar de estado con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una cuenta regresiva**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 766. Semáforo escolar: cambiar de estado con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: cambiar de estado con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una cara**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 767. Semáforo escolar: cambiar de estado con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: cambiar de estado con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una letra**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 768. Semáforo escolar: cambiar de estado con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: cambiar de estado con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un símbolo**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 769. Semáforo escolar: cambiar de estado con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: cambiar de estado con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **acelerómetro**, y el resultado debe verse como **una animación**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 770. Semáforo escolar: cambiar de estado con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: cambiar de estado con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **sensor de temperatura**, y el resultado debe verse como **un aviso**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 771. Semáforo escolar: cambiar de estado con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: cambiar de estado con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **nivel de luz**, y el resultado debe verse como **un valor medido**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 772. Semáforo escolar: cambiar de estado con brújula
+
+Crea un proyecto llamado **Semáforo escolar: cambiar de estado con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **brújula**, y el resultado debe verse como **un resultado aleatorio**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 773. Semáforo escolar: cambiar de estado con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: cambiar de estado con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **toque del logo**, y el resultado debe verse como **un turno**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 774. Semáforo escolar: cambiar de estado con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: cambiar de estado con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **gesto de caída**, y el resultado debe verse como **una señal de inicio**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 775. Semáforo escolar: cambiar de estado con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: cambiar de estado con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **movimiento fuerte**, y el resultado debe verse como **una señal de fin**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 776. Semáforo escolar: cambiar de estado con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: cambiar de estado con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **movimiento suave**, y el resultado debe verse como **un patrón de luces**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 777. Semáforo escolar: cambiar de estado con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: cambiar de estado con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **pulsación corta**, y el resultado debe verse como **una respuesta**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 778. Semáforo escolar: cambiar de estado con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: cambiar de estado con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **pulsación repetida**, y el resultado debe verse como **un contador**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 779. Semáforo escolar: cambiar de estado con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: cambiar de estado con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **inicio del programa**, y el resultado debe verse como **un estado**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 780. Semáforo escolar: cambiar de estado con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: cambiar de estado con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar de estado** cuando se use **combinación de botones**, y el resultado debe verse como **un número en los LED**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 781. Semáforo escolar: mostrar un reto con botón A
+
+Diseña un proyecto llamado **Semáforo escolar: mostrar un reto con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **botón A**, y el resultado debe verse como **un puntaje**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 782. Semáforo escolar: mostrar un reto con botón B
+
+Crea un proyecto llamado **Semáforo escolar: mostrar un reto con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **botón B**, y el resultado debe verse como **una cuenta regresiva**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 783. Semáforo escolar: mostrar un reto con botones A+B
+
+Programa un proyecto llamado **Semáforo escolar: mostrar un reto con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **botones A+B**, y el resultado debe verse como **una cara**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 784. Semáforo escolar: mostrar un reto con agitar la placa
+
+Construye un proyecto llamado **Semáforo escolar: mostrar un reto con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **agitar la placa**, y el resultado debe verse como **una letra**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 785. Semáforo escolar: mostrar un reto con inclinar a la izquierda
+
+Prepara un proyecto llamado **Semáforo escolar: mostrar un reto con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un símbolo**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 786. Semáforo escolar: mostrar un reto con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Semáforo escolar: mostrar un reto con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una animación**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 787. Semáforo escolar: mostrar un reto con poner la placa boca arriba
+
+Haz un proyecto llamado **Semáforo escolar: mostrar un reto con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un aviso**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 788. Semáforo escolar: mostrar un reto con ponerla boca abajo
+
+Plantea un proyecto llamado **Semáforo escolar: mostrar un reto con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un valor medido**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 789. Semáforo escolar: mostrar un reto con acelerómetro
+
+Escribe un proyecto llamado **Semáforo escolar: mostrar un reto con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **acelerómetro**, y el resultado debe verse como **un resultado aleatorio**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 790. Semáforo escolar: mostrar un reto con sensor de temperatura
+
+Arma un proyecto llamado **Semáforo escolar: mostrar un reto con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **sensor de temperatura**, y el resultado debe verse como **un turno**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 791. Semáforo escolar: mostrar un reto con nivel de luz
+
+Diseña un proyecto llamado **Semáforo escolar: mostrar un reto con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **nivel de luz**, y el resultado debe verse como **una señal de inicio**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 792. Semáforo escolar: mostrar un reto con brújula
+
+Crea un proyecto llamado **Semáforo escolar: mostrar un reto con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **brújula**, y el resultado debe verse como **una señal de fin**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 793. Semáforo escolar: mostrar un reto con toque del logo
+
+Programa un proyecto llamado **Semáforo escolar: mostrar un reto con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **toque del logo**, y el resultado debe verse como **un patrón de luces**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 794. Semáforo escolar: mostrar un reto con gesto de caída
+
+Construye un proyecto llamado **Semáforo escolar: mostrar un reto con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **gesto de caída**, y el resultado debe verse como **una respuesta**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 795. Semáforo escolar: mostrar un reto con movimiento fuerte
+
+Prepara un proyecto llamado **Semáforo escolar: mostrar un reto con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **movimiento fuerte**, y el resultado debe verse como **un contador**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 796. Semáforo escolar: mostrar un reto con movimiento suave
+
+Desarrolla un proyecto llamado **Semáforo escolar: mostrar un reto con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **movimiento suave**, y el resultado debe verse como **un estado**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 797. Semáforo escolar: mostrar un reto con pulsación corta
+
+Haz un proyecto llamado **Semáforo escolar: mostrar un reto con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **pulsación corta**, y el resultado debe verse como **un número en los LED**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 798. Semáforo escolar: mostrar un reto con pulsación repetida
+
+Plantea un proyecto llamado **Semáforo escolar: mostrar un reto con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **pulsación repetida**, y el resultado debe verse como **una figura distinta**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 799. Semáforo escolar: mostrar un reto con inicio del programa
+
+Escribe un proyecto llamado **Semáforo escolar: mostrar un reto con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **inicio del programa**, y el resultado debe verse como **un mensaje corto**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 800. Semáforo escolar: mostrar un reto con combinación de botones
+
+Arma un proyecto llamado **Semáforo escolar: mostrar un reto con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar un reto** cuando se use **combinación de botones**, y el resultado debe verse como **una flecha**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 801. Termómetro de aula: sortear un resultado con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: sortear un resultado con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botón A**, y el resultado debe verse como **una señal de inicio**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 802. Termómetro de aula: sortear un resultado con botón B
+
+Crea un proyecto llamado **Termómetro de aula: sortear un resultado con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botón B**, y el resultado debe verse como **una señal de fin**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 803. Termómetro de aula: sortear un resultado con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: sortear un resultado con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **botones A+B**, y el resultado debe verse como **un patrón de luces**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 804. Termómetro de aula: sortear un resultado con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: sortear un resultado con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **agitar la placa**, y el resultado debe verse como **una respuesta**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 805. Termómetro de aula: sortear un resultado con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: sortear un resultado con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un contador**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 806. Termómetro de aula: sortear un resultado con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: sortear un resultado con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un estado**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 807. Termómetro de aula: sortear un resultado con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: sortear un resultado con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un número en los LED**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 808. Termómetro de aula: sortear un resultado con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: sortear un resultado con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una figura distinta**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 809. Termómetro de aula: sortear un resultado con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: sortear un resultado con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **acelerómetro**, y el resultado debe verse como **un mensaje corto**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 810. Termómetro de aula: sortear un resultado con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: sortear un resultado con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **sensor de temperatura**, y el resultado debe verse como **una flecha**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 811. Termómetro de aula: sortear un resultado con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: sortear un resultado con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **nivel de luz**, y el resultado debe verse como **un puntaje**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 812. Termómetro de aula: sortear un resultado con brújula
+
+Crea un proyecto llamado **Termómetro de aula: sortear un resultado con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **brújula**, y el resultado debe verse como **una cuenta regresiva**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 813. Termómetro de aula: sortear un resultado con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: sortear un resultado con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **toque del logo**, y el resultado debe verse como **una cara**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 814. Termómetro de aula: sortear un resultado con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: sortear un resultado con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **gesto de caída**, y el resultado debe verse como **una letra**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 815. Termómetro de aula: sortear un resultado con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: sortear un resultado con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **movimiento fuerte**, y el resultado debe verse como **un símbolo**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 816. Termómetro de aula: sortear un resultado con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: sortear un resultado con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **movimiento suave**, y el resultado debe verse como **una animación**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 817. Termómetro de aula: sortear un resultado con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: sortear un resultado con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **pulsación corta**, y el resultado debe verse como **un aviso**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 818. Termómetro de aula: sortear un resultado con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: sortear un resultado con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **pulsación repetida**, y el resultado debe verse como **un valor medido**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 819. Termómetro de aula: sortear un resultado con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: sortear un resultado con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **inicio del programa**, y el resultado debe verse como **un resultado aleatorio**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 820. Termómetro de aula: sortear un resultado con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: sortear un resultado con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **sortear un resultado** cuando se use **combinación de botones**, y el resultado debe verse como **un turno**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 821. Termómetro de aula: contar eventos con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: contar eventos con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botón A**, y el resultado debe verse como **una respuesta**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 822. Termómetro de aula: contar eventos con botón B
+
+Crea un proyecto llamado **Termómetro de aula: contar eventos con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botón B**, y el resultado debe verse como **un contador**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 823. Termómetro de aula: contar eventos con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: contar eventos con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **botones A+B**, y el resultado debe verse como **un estado**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 824. Termómetro de aula: contar eventos con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: contar eventos con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **agitar la placa**, y el resultado debe verse como **un número en los LED**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 825. Termómetro de aula: contar eventos con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: contar eventos con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una figura distinta**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 826. Termómetro de aula: contar eventos con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: contar eventos con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un mensaje corto**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 827. Termómetro de aula: contar eventos con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: contar eventos con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una flecha**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 828. Termómetro de aula: contar eventos con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: contar eventos con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un puntaje**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 829. Termómetro de aula: contar eventos con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: contar eventos con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **acelerómetro**, y el resultado debe verse como **una cuenta regresiva**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 830. Termómetro de aula: contar eventos con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: contar eventos con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **sensor de temperatura**, y el resultado debe verse como **una cara**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 831. Termómetro de aula: contar eventos con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: contar eventos con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **nivel de luz**, y el resultado debe verse como **una letra**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 832. Termómetro de aula: contar eventos con brújula
+
+Crea un proyecto llamado **Termómetro de aula: contar eventos con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **brújula**, y el resultado debe verse como **un símbolo**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 833. Termómetro de aula: contar eventos con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: contar eventos con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **toque del logo**, y el resultado debe verse como **una animación**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 834. Termómetro de aula: contar eventos con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: contar eventos con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **gesto de caída**, y el resultado debe verse como **un aviso**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 835. Termómetro de aula: contar eventos con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: contar eventos con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **movimiento fuerte**, y el resultado debe verse como **un valor medido**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 836. Termómetro de aula: contar eventos con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: contar eventos con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **movimiento suave**, y el resultado debe verse como **un resultado aleatorio**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 837. Termómetro de aula: contar eventos con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: contar eventos con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **pulsación corta**, y el resultado debe verse como **un turno**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 838. Termómetro de aula: contar eventos con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: contar eventos con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **pulsación repetida**, y el resultado debe verse como **una señal de inicio**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 839. Termómetro de aula: contar eventos con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: contar eventos con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **inicio del programa**, y el resultado debe verse como **una señal de fin**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 840. Termómetro de aula: contar eventos con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: contar eventos con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **contar eventos** cuando se use **combinación de botones**, y el resultado debe verse como **un patrón de luces**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 841. Termómetro de aula: medir una condición con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: medir una condición con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botón A**, y el resultado debe verse como **un número en los LED**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 842. Termómetro de aula: medir una condición con botón B
+
+Crea un proyecto llamado **Termómetro de aula: medir una condición con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botón B**, y el resultado debe verse como **una figura distinta**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 843. Termómetro de aula: medir una condición con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: medir una condición con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **botones A+B**, y el resultado debe verse como **un mensaje corto**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 844. Termómetro de aula: medir una condición con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: medir una condición con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **agitar la placa**, y el resultado debe verse como **una flecha**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 845. Termómetro de aula: medir una condición con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: medir una condición con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un puntaje**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 846. Termómetro de aula: medir una condición con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: medir una condición con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una cuenta regresiva**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 847. Termómetro de aula: medir una condición con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: medir una condición con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una cara**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 848. Termómetro de aula: medir una condición con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: medir una condición con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una letra**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 849. Termómetro de aula: medir una condición con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: medir una condición con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **acelerómetro**, y el resultado debe verse como **un símbolo**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 850. Termómetro de aula: medir una condición con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: medir una condición con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **sensor de temperatura**, y el resultado debe verse como **una animación**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 851. Termómetro de aula: medir una condición con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: medir una condición con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **nivel de luz**, y el resultado debe verse como **un aviso**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 852. Termómetro de aula: medir una condición con brújula
+
+Crea un proyecto llamado **Termómetro de aula: medir una condición con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **brújula**, y el resultado debe verse como **un valor medido**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 853. Termómetro de aula: medir una condición con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: medir una condición con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **toque del logo**, y el resultado debe verse como **un resultado aleatorio**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 854. Termómetro de aula: medir una condición con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: medir una condición con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **gesto de caída**, y el resultado debe verse como **un turno**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 855. Termómetro de aula: medir una condición con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: medir una condición con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **movimiento fuerte**, y el resultado debe verse como **una señal de inicio**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 856. Termómetro de aula: medir una condición con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: medir una condición con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **movimiento suave**, y el resultado debe verse como **una señal de fin**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 857. Termómetro de aula: medir una condición con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: medir una condición con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **pulsación corta**, y el resultado debe verse como **un patrón de luces**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 858. Termómetro de aula: medir una condición con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: medir una condición con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **pulsación repetida**, y el resultado debe verse como **una respuesta**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 859. Termómetro de aula: medir una condición con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: medir una condición con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **inicio del programa**, y el resultado debe verse como **un contador**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 860. Termómetro de aula: medir una condición con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: medir una condición con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **medir una condición** cuando se use **combinación de botones**, y el resultado debe verse como **un estado**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 861. Termómetro de aula: mostrar una señal con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: mostrar una señal con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botón A**, y el resultado debe verse como **una flecha**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 862. Termómetro de aula: mostrar una señal con botón B
+
+Crea un proyecto llamado **Termómetro de aula: mostrar una señal con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botón B**, y el resultado debe verse como **un puntaje**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 863. Termómetro de aula: mostrar una señal con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: mostrar una señal con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **botones A+B**, y el resultado debe verse como **una cuenta regresiva**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 864. Termómetro de aula: mostrar una señal con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: mostrar una señal con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **agitar la placa**, y el resultado debe verse como **una cara**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 865. Termómetro de aula: mostrar una señal con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: mostrar una señal con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una letra**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 866. Termómetro de aula: mostrar una señal con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: mostrar una señal con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un símbolo**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 867. Termómetro de aula: mostrar una señal con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: mostrar una señal con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una animación**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 868. Termómetro de aula: mostrar una señal con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: mostrar una señal con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un aviso**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 869. Termómetro de aula: mostrar una señal con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: mostrar una señal con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **acelerómetro**, y el resultado debe verse como **un valor medido**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 870. Termómetro de aula: mostrar una señal con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: mostrar una señal con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **sensor de temperatura**, y el resultado debe verse como **un resultado aleatorio**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 871. Termómetro de aula: mostrar una señal con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: mostrar una señal con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **nivel de luz**, y el resultado debe verse como **un turno**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 872. Termómetro de aula: mostrar una señal con brújula
+
+Crea un proyecto llamado **Termómetro de aula: mostrar una señal con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **brújula**, y el resultado debe verse como **una señal de inicio**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 873. Termómetro de aula: mostrar una señal con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: mostrar una señal con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **toque del logo**, y el resultado debe verse como **una señal de fin**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 874. Termómetro de aula: mostrar una señal con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: mostrar una señal con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **gesto de caída**, y el resultado debe verse como **un patrón de luces**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 875. Termómetro de aula: mostrar una señal con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: mostrar una señal con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **movimiento fuerte**, y el resultado debe verse como **una respuesta**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 876. Termómetro de aula: mostrar una señal con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: mostrar una señal con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **movimiento suave**, y el resultado debe verse como **un contador**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 877. Termómetro de aula: mostrar una señal con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: mostrar una señal con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **pulsación corta**, y el resultado debe verse como **un estado**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 878. Termómetro de aula: mostrar una señal con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: mostrar una señal con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **pulsación repetida**, y el resultado debe verse como **un número en los LED**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 879. Termómetro de aula: mostrar una señal con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: mostrar una señal con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **inicio del programa**, y el resultado debe verse como **una figura distinta**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 880. Termómetro de aula: mostrar una señal con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: mostrar una señal con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **mostrar una señal** cuando se use **combinación de botones**, y el resultado debe verse como **un mensaje corto**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 881. Termómetro de aula: comparar dos valores con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: comparar dos valores con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botón A**, y el resultado debe verse como **una cara**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 882. Termómetro de aula: comparar dos valores con botón B
+
+Crea un proyecto llamado **Termómetro de aula: comparar dos valores con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botón B**, y el resultado debe verse como **una letra**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 883. Termómetro de aula: comparar dos valores con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: comparar dos valores con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **botones A+B**, y el resultado debe verse como **un símbolo**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 884. Termómetro de aula: comparar dos valores con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: comparar dos valores con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **agitar la placa**, y el resultado debe verse como **una animación**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 885. Termómetro de aula: comparar dos valores con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: comparar dos valores con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un aviso**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 886. Termómetro de aula: comparar dos valores con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: comparar dos valores con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un valor medido**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 887. Termómetro de aula: comparar dos valores con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: comparar dos valores con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un resultado aleatorio**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 888. Termómetro de aula: comparar dos valores con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: comparar dos valores con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un turno**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 889. Termómetro de aula: comparar dos valores con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: comparar dos valores con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **acelerómetro**, y el resultado debe verse como **una señal de inicio**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 890. Termómetro de aula: comparar dos valores con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: comparar dos valores con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **sensor de temperatura**, y el resultado debe verse como **una señal de fin**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 891. Termómetro de aula: comparar dos valores con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: comparar dos valores con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **nivel de luz**, y el resultado debe verse como **un patrón de luces**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 892. Termómetro de aula: comparar dos valores con brújula
+
+Crea un proyecto llamado **Termómetro de aula: comparar dos valores con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **brújula**, y el resultado debe verse como **una respuesta**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 893. Termómetro de aula: comparar dos valores con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: comparar dos valores con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **toque del logo**, y el resultado debe verse como **un contador**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 894. Termómetro de aula: comparar dos valores con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: comparar dos valores con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **gesto de caída**, y el resultado debe verse como **un estado**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 895. Termómetro de aula: comparar dos valores con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: comparar dos valores con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **movimiento fuerte**, y el resultado debe verse como **un número en los LED**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 896. Termómetro de aula: comparar dos valores con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: comparar dos valores con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **movimiento suave**, y el resultado debe verse como **una figura distinta**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 897. Termómetro de aula: comparar dos valores con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: comparar dos valores con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **pulsación corta**, y el resultado debe verse como **un mensaje corto**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 898. Termómetro de aula: comparar dos valores con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: comparar dos valores con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **pulsación repetida**, y el resultado debe verse como **una flecha**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 899. Termómetro de aula: comparar dos valores con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: comparar dos valores con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **inicio del programa**, y el resultado debe verse como **un puntaje**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 900. Termómetro de aula: comparar dos valores con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: comparar dos valores con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **comparar dos valores** cuando se use **combinación de botones**, y el resultado debe verse como **una cuenta regresiva**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 901. Termómetro de aula: guardar un puntaje con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: guardar un puntaje con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botón A**, y el resultado debe verse como **una animación**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 902. Termómetro de aula: guardar un puntaje con botón B
+
+Crea un proyecto llamado **Termómetro de aula: guardar un puntaje con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botón B**, y el resultado debe verse como **un aviso**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 903. Termómetro de aula: guardar un puntaje con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: guardar un puntaje con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **botones A+B**, y el resultado debe verse como **un valor medido**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 904. Termómetro de aula: guardar un puntaje con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: guardar un puntaje con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **agitar la placa**, y el resultado debe verse como **un resultado aleatorio**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 905. Termómetro de aula: guardar un puntaje con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: guardar un puntaje con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un turno**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 906. Termómetro de aula: guardar un puntaje con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: guardar un puntaje con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una señal de inicio**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 907. Termómetro de aula: guardar un puntaje con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: guardar un puntaje con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una señal de fin**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 908. Termómetro de aula: guardar un puntaje con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: guardar un puntaje con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un patrón de luces**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 909. Termómetro de aula: guardar un puntaje con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: guardar un puntaje con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **acelerómetro**, y el resultado debe verse como **una respuesta**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 910. Termómetro de aula: guardar un puntaje con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: guardar un puntaje con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **sensor de temperatura**, y el resultado debe verse como **un contador**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 911. Termómetro de aula: guardar un puntaje con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: guardar un puntaje con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **nivel de luz**, y el resultado debe verse como **un estado**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 912. Termómetro de aula: guardar un puntaje con brújula
+
+Crea un proyecto llamado **Termómetro de aula: guardar un puntaje con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **brújula**, y el resultado debe verse como **un número en los LED**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 913. Termómetro de aula: guardar un puntaje con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: guardar un puntaje con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **toque del logo**, y el resultado debe verse como **una figura distinta**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 914. Termómetro de aula: guardar un puntaje con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: guardar un puntaje con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **gesto de caída**, y el resultado debe verse como **un mensaje corto**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 915. Termómetro de aula: guardar un puntaje con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: guardar un puntaje con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **movimiento fuerte**, y el resultado debe verse como **una flecha**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 916. Termómetro de aula: guardar un puntaje con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: guardar un puntaje con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **movimiento suave**, y el resultado debe verse como **un puntaje**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 917. Termómetro de aula: guardar un puntaje con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: guardar un puntaje con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **pulsación corta**, y el resultado debe verse como **una cuenta regresiva**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 918. Termómetro de aula: guardar un puntaje con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: guardar un puntaje con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **pulsación repetida**, y el resultado debe verse como **una cara**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 919. Termómetro de aula: guardar un puntaje con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: guardar un puntaje con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **inicio del programa**, y el resultado debe verse como **una letra**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 920. Termómetro de aula: guardar un puntaje con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: guardar un puntaje con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **guardar un puntaje** cuando se use **combinación de botones**, y el resultado debe verse como **un símbolo**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 921. Termómetro de aula: iniciar una cuenta regresiva con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botón A**, y el resultado debe verse como **un resultado aleatorio**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 922. Termómetro de aula: iniciar una cuenta regresiva con botón B
+
+Crea un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botón B**, y el resultado debe verse como **un turno**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 923. Termómetro de aula: iniciar una cuenta regresiva con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **botones A+B**, y el resultado debe verse como **una señal de inicio**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 924. Termómetro de aula: iniciar una cuenta regresiva con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **agitar la placa**, y el resultado debe verse como **una señal de fin**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 925. Termómetro de aula: iniciar una cuenta regresiva con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un patrón de luces**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 926. Termómetro de aula: iniciar una cuenta regresiva con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una respuesta**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 927. Termómetro de aula: iniciar una cuenta regresiva con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un contador**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 928. Termómetro de aula: iniciar una cuenta regresiva con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un estado**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 929. Termómetro de aula: iniciar una cuenta regresiva con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **acelerómetro**, y el resultado debe verse como **un número en los LED**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 930. Termómetro de aula: iniciar una cuenta regresiva con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **sensor de temperatura**, y el resultado debe verse como **una figura distinta**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 931. Termómetro de aula: iniciar una cuenta regresiva con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **nivel de luz**, y el resultado debe verse como **un mensaje corto**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 932. Termómetro de aula: iniciar una cuenta regresiva con brújula
+
+Crea un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **brújula**, y el resultado debe verse como **una flecha**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 933. Termómetro de aula: iniciar una cuenta regresiva con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **toque del logo**, y el resultado debe verse como **un puntaje**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 934. Termómetro de aula: iniciar una cuenta regresiva con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **gesto de caída**, y el resultado debe verse como **una cuenta regresiva**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 935. Termómetro de aula: iniciar una cuenta regresiva con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **movimiento fuerte**, y el resultado debe verse como **una cara**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 936. Termómetro de aula: iniciar una cuenta regresiva con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **movimiento suave**, y el resultado debe verse como **una letra**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 937. Termómetro de aula: iniciar una cuenta regresiva con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **pulsación corta**, y el resultado debe verse como **un símbolo**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 938. Termómetro de aula: iniciar una cuenta regresiva con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **pulsación repetida**, y el resultado debe verse como **una animación**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 939. Termómetro de aula: iniciar una cuenta regresiva con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **inicio del programa**, y el resultado debe verse como **un aviso**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 940. Termómetro de aula: iniciar una cuenta regresiva con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: iniciar una cuenta regresiva con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **iniciar una cuenta regresiva** cuando se use **combinación de botones**, y el resultado debe verse como **un valor medido**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 941. Termómetro de aula: cambiar una animación con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: cambiar una animación con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botón A**, y el resultado debe verse como **una señal de fin**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 942. Termómetro de aula: cambiar una animación con botón B
+
+Crea un proyecto llamado **Termómetro de aula: cambiar una animación con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botón B**, y el resultado debe verse como **un patrón de luces**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 943. Termómetro de aula: cambiar una animación con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: cambiar una animación con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **botones A+B**, y el resultado debe verse como **una respuesta**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 944. Termómetro de aula: cambiar una animación con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: cambiar una animación con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **agitar la placa**, y el resultado debe verse como **un contador**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 945. Termómetro de aula: cambiar una animación con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: cambiar una animación con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un estado**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 946. Termómetro de aula: cambiar una animación con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: cambiar una animación con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inclinar a la derecha**, y el resultado debe verse como **un número en los LED**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 947. Termómetro de aula: cambiar una animación con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: cambiar una animación con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una figura distinta**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 948. Termómetro de aula: cambiar una animación con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: cambiar una animación con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un mensaje corto**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 949. Termómetro de aula: cambiar una animación con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: cambiar una animación con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **acelerómetro**, y el resultado debe verse como **una flecha**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 950. Termómetro de aula: cambiar una animación con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: cambiar una animación con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **sensor de temperatura**, y el resultado debe verse como **un puntaje**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 951. Termómetro de aula: cambiar una animación con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: cambiar una animación con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **nivel de luz**, y el resultado debe verse como **una cuenta regresiva**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 952. Termómetro de aula: cambiar una animación con brújula
+
+Crea un proyecto llamado **Termómetro de aula: cambiar una animación con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **brújula**, y el resultado debe verse como **una cara**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 953. Termómetro de aula: cambiar una animación con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: cambiar una animación con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **toque del logo**, y el resultado debe verse como **una letra**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 954. Termómetro de aula: cambiar una animación con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: cambiar una animación con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **gesto de caída**, y el resultado debe verse como **un símbolo**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 955. Termómetro de aula: cambiar una animación con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: cambiar una animación con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **movimiento fuerte**, y el resultado debe verse como **una animación**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 956. Termómetro de aula: cambiar una animación con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: cambiar una animación con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **movimiento suave**, y el resultado debe verse como **un aviso**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 957. Termómetro de aula: cambiar una animación con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: cambiar una animación con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **pulsación corta**, y el resultado debe verse como **un valor medido**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 958. Termómetro de aula: cambiar una animación con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: cambiar una animación con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **pulsación repetida**, y el resultado debe verse como **un resultado aleatorio**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 959. Termómetro de aula: cambiar una animación con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: cambiar una animación con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **inicio del programa**, y el resultado debe verse como **un turno**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 960. Termómetro de aula: cambiar una animación con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: cambiar una animación con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **cambiar una animación** cuando se use **combinación de botones**, y el resultado debe verse como **una señal de inicio**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 961. Termómetro de aula: elegir una opción con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: elegir una opción con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botón A**, y el resultado debe verse como **un contador**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 962. Termómetro de aula: elegir una opción con botón B
+
+Crea un proyecto llamado **Termómetro de aula: elegir una opción con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botón B**, y el resultado debe verse como **un estado**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 963. Termómetro de aula: elegir una opción con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: elegir una opción con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **botones A+B**, y el resultado debe verse como **un número en los LED**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 964. Termómetro de aula: elegir una opción con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: elegir una opción con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **agitar la placa**, y el resultado debe verse como **una figura distinta**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 965. Termómetro de aula: elegir una opción con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: elegir una opción con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **un mensaje corto**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 966. Termómetro de aula: elegir una opción con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: elegir una opción con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una flecha**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 967. Termómetro de aula: elegir una opción con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: elegir una opción con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **un puntaje**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 968. Termómetro de aula: elegir una opción con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: elegir una opción con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **ponerla boca abajo**, y el resultado debe verse como **una cuenta regresiva**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 969. Termómetro de aula: elegir una opción con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: elegir una opción con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **acelerómetro**, y el resultado debe verse como **una cara**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 970. Termómetro de aula: elegir una opción con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: elegir una opción con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **sensor de temperatura**, y el resultado debe verse como **una letra**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 971. Termómetro de aula: elegir una opción con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: elegir una opción con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **nivel de luz**, y el resultado debe verse como **un símbolo**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 972. Termómetro de aula: elegir una opción con brújula
+
+Crea un proyecto llamado **Termómetro de aula: elegir una opción con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **brújula**, y el resultado debe verse como **una animación**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 973. Termómetro de aula: elegir una opción con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: elegir una opción con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **toque del logo**, y el resultado debe verse como **un aviso**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 974. Termómetro de aula: elegir una opción con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: elegir una opción con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **gesto de caída**, y el resultado debe verse como **un valor medido**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 975. Termómetro de aula: elegir una opción con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: elegir una opción con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **movimiento fuerte**, y el resultado debe verse como **un resultado aleatorio**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 976. Termómetro de aula: elegir una opción con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: elegir una opción con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **movimiento suave**, y el resultado debe verse como **un turno**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 977. Termómetro de aula: elegir una opción con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: elegir una opción con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **pulsación corta**, y el resultado debe verse como **una señal de inicio**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 978. Termómetro de aula: elegir una opción con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: elegir una opción con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **pulsación repetida**, y el resultado debe verse como **una señal de fin**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 979. Termómetro de aula: elegir una opción con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: elegir una opción con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **inicio del programa**, y el resultado debe verse como **un patrón de luces**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 980. Termómetro de aula: elegir una opción con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: elegir una opción con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **elegir una opción** cuando se use **combinación de botones**, y el resultado debe verse como **una respuesta**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 981. Termómetro de aula: detectar un movimiento con botón A
+
+Diseña un proyecto llamado **Termómetro de aula: detectar un movimiento con botón A** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botón A**, y el resultado debe verse como **una figura distinta**. Usa una función con nombre claro y permite repetir la acción varias veces. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 982. Termómetro de aula: detectar un movimiento con botón B
+
+Crea un proyecto llamado **Termómetro de aula: detectar un movimiento con botón B** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botón B**, y el resultado debe verse como **un mensaje corto**. Incluye una forma de reiniciar y muestra un estado inicial. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 983. Termómetro de aula: detectar un movimiento con botones A+B
+
+Programa un proyecto llamado **Termómetro de aula: detectar un movimiento con botones A+B** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **botones A+B**, y el resultado debe verse como **una flecha**. Muestra un estado inicial y usa variables en español. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 984. Termómetro de aula: detectar un movimiento con agitar la placa
+
+Construye un proyecto llamado **Termómetro de aula: detectar un movimiento con agitar la placa** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **agitar la placa**, y el resultado debe verse como **un puntaje**. Incluye una condición sencilla y explica entrada, proceso y salida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 985. Termómetro de aula: detectar un movimiento con inclinar a la izquierda
+
+Prepara un proyecto llamado **Termómetro de aula: detectar un movimiento con inclinar a la izquierda** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inclinar a la izquierda**, y el resultado debe verse como **una cuenta regresiva**. Explica qué ocurre paso a paso y incluye una forma de reiniciar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 986. Termómetro de aula: detectar un movimiento con inclinar a la derecha
+
+Desarrolla un proyecto llamado **Termómetro de aula: detectar un movimiento con inclinar a la derecha** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inclinar a la derecha**, y el resultado debe verse como **una cara**. Evita código innecesario y haz que la respuesta visual sea fácil de reconocer. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 987. Termómetro de aula: detectar un movimiento con poner la placa boca arriba
+
+Haz un proyecto llamado **Termómetro de aula: detectar un movimiento con poner la placa boca arriba** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **poner la placa boca arriba**, y el resultado debe verse como **una letra**. Incluye un ciclo fácil de explicar y incluye tres pruebas concretas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 988. Termómetro de aula: detectar un movimiento con ponerla boca abajo
+
+Plantea un proyecto llamado **Termómetro de aula: detectar un movimiento con ponerla boca abajo** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **ponerla boca abajo**, y el resultado debe verse como **un símbolo**. Incluye tres pruebas concretas y usa una función con nombre claro. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 989. Termómetro de aula: detectar un movimiento con acelerómetro
+
+Escribe un proyecto llamado **Termómetro de aula: detectar un movimiento con acelerómetro** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **acelerómetro**, y el resultado debe verse como **una animación**. Explica entrada, proceso y salida y mantén el código corto. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 990. Termómetro de aula: detectar un movimiento con sensor de temperatura
+
+Arma un proyecto llamado **Termómetro de aula: detectar un movimiento con sensor de temperatura** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **sensor de temperatura**, y el resultado debe verse como **un aviso**. Permite repetir la acción varias veces y incluye un ciclo fácil de explicar. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 991. Termómetro de aula: detectar un movimiento con nivel de luz
+
+Diseña un proyecto llamado **Termómetro de aula: detectar un movimiento con nivel de luz** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **nivel de luz**, y el resultado debe verse como **un valor medido**. Indica un error común y cómo revisarlo y separa la lógica en dos funciones pequeñas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 992. Termómetro de aula: detectar un movimiento con brújula
+
+Crea un proyecto llamado **Termómetro de aula: detectar un movimiento con brújula** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **brújula**, y el resultado debe verse como **un resultado aleatorio**. Comprueba que el resultado tenga un rango válido y evita librerías externas. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 993. Termómetro de aula: detectar un movimiento con toque del logo
+
+Programa un proyecto llamado **Termómetro de aula: detectar un movimiento con toque del logo** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **toque del logo**, y el resultado debe verse como **un turno**. Evita librerías externas y evita código innecesario. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 994. Termómetro de aula: detectar un movimiento con gesto de caída
+
+Construye un proyecto llamado **Termómetro de aula: detectar un movimiento con gesto de caída** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **gesto de caída**, y el resultado debe verse como **una señal de inicio**. Mantén el código corto y agrega comentarios cortos. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 995. Termómetro de aula: detectar un movimiento con movimiento fuerte
+
+Prepara un proyecto llamado **Termómetro de aula: detectar un movimiento con movimiento fuerte** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **movimiento fuerte**, y el resultado debe verse como **una señal de fin**. Haz que la respuesta visual sea fácil de reconocer y comprueba que el resultado tenga un rango válido. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 996. Termómetro de aula: detectar un movimiento con movimiento suave
+
+Desarrolla un proyecto llamado **Termómetro de aula: detectar un movimiento con movimiento suave** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **movimiento suave**, y el resultado debe verse como **un patrón de luces**. Usa variables en español y explica qué ocurre paso a paso. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 997. Termómetro de aula: detectar un movimiento con pulsación corta
+
+Haz un proyecto llamado **Termómetro de aula: detectar un movimiento con pulsación corta** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **pulsación corta**, y el resultado debe verse como **una respuesta**. Usa solamente funciones propias de micro:bit y termina con una prueba física sugerida. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 998. Termómetro de aula: detectar un movimiento con pulsación repetida
+
+Plantea un proyecto llamado **Termómetro de aula: detectar un movimiento con pulsación repetida** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **pulsación repetida**, y el resultado debe verse como **un contador**. Termina con una prueba física sugerida y indica un error común y cómo revisarlo. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 999. Termómetro de aula: detectar un movimiento con inicio del programa
+
+Escribe un proyecto llamado **Termómetro de aula: detectar un movimiento con inicio del programa** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **inicio del programa**, y el resultado debe verse como **un estado**. Agrega comentarios cortos y incluye una condición sencilla. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
+
+## 1000. Termómetro de aula: detectar un movimiento con combinación de botones
+
+Arma un proyecto llamado **Termómetro de aula: detectar un movimiento con combinación de botones** para BBC micro:bit usando MicroPython. La acción principal debe ser **detectar un movimiento** cuando se use **combinación de botones**, y el resultado debe verse como **un número en los LED**. Separa la lógica en dos funciones pequeñas y usa solamente funciones propias de micro:bit. Quiero un código apropiado para grado 11, fácil de leer y de explicar con mis propias palabras. Después del código, explica brevemente cómo funciona y propone una prueba concreta para comprobarlo en la placa.
 
