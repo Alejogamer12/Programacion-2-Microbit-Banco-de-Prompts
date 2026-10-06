@@ -21,7 +21,7 @@ Prueba física realizada por Alejandro Bruges. El programa funcionó correctamen
 
 ## Resultado general
 
-Probé el programa en la micro:bit y todo funcionó bien. Al agitarla, detectó el movimiento y mostró un número del 1 al 6. Lo probé varias veces y respondió correctamente.
+Probé el programa en la micro:bit y todo funcionó bien. Al agitarla, detectó el movimiento y mostró el número 4. Lo probé varias veces y respondió correctamente.
 
 ## Reflexión
 
