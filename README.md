@@ -20,8 +20,6 @@ También quiero aprender a escribir mejores instrucciones para obtener resultado
 
 ## Proyecto principal: Dado Digital D6
 
-Funcionamiento:
-
 1. La micro:bit queda esperando.
 2. El estudiante agita la placa.
 3. El acelerómetro detecta el movimiento.
@@ -33,17 +31,14 @@ Funcionamiento:
 **Proceso:** generar un número entero al azar entre 1 y 6.  
 **Salida:** mostrar el resultado en la matriz LED.
 
-## Archivos
+## Contenido
 
-- `prompts/programacion/microbit-alejandro-bruges-dado-digital.md`: prompt principal documentado.
-- `ejemplos/microbit/alejandro-bruges-dado-digital.py`: programa MicroPython.
-- `BANCO-DE-PROMPTS.md`: ideas adicionales de prompts.
-- `EVIDENCIA.md`: espacio para la imagen ilustrativa y la evidencia física.
+- [Prompt principal del Dado Digital D6](prompts/programacion/microbit-alejandro-bruges-dado-digital.md)
+- [Código MicroPython](ejemplos/microbit/alejandro-bruges-dado-digital.py)
+- [Banco principal de prompts](BANCO-DE-PROMPTS.md)
+- [Banco ampliado de 10.000 prompts](BANCO-DE-10000-PROMPTS.md)
+- [Evidencia](EVIDENCIA.md)
 
 ## Evidencia real de la prueba física
 
 **FALTA AQUÍ LA FOTO**
-
-## Estado
-
-El código y la documentación están preparados. La prueba física debe registrarse con una BBC micro:bit real antes de cerrar el trabajo.
