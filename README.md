@@ -33,8 +33,8 @@ También quiero aprender a escribir mejores instrucciones para obtener resultado
 
 ## Contenido
 
-**Prompt principal del Dado Digital D6**
-**Código MicroPython**
-**Banco principal de prompts**
-**Banco ampliado de 10.000 prompts**
-**Evidencia**
+- [Prompt principal del Dado Digital D6](prompts/programacion/microbit-alejandro-bruges-dado-digital.md)
+- [Código MicroPython](ejemplos/microbit/alejandro-bruges-dado-digital.py)
+- [Banco principal de prompts](BANCO-DE-PROMPTS.md)
+- [Banco ampliado de 10.000 prompts](BANCO-DE-10000-PROMPTS.md)
+- [Evidencia](EVIDENCIA.md)
