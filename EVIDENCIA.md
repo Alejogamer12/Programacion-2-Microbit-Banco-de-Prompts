@@ -2,7 +2,7 @@
 
 ## Prueba del proyecto
 
-La prueba física fue realizada por Alejandro Bruges y el programa funcionó correctamente en la BBC micro:bit.
+La prueba física fue realizada por Alejandro Elías Bruges Blanco y el programa funcionó correctamente en la BBC micro:bit.
 
 ![Imagen del proyecto](Evidencia_Dado_Digital_D6.png)
 
