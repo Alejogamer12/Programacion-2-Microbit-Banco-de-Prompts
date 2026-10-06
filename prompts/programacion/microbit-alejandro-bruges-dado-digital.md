@@ -2,16 +2,17 @@
 
 ## Datos
 
-**Estudiante:** Alejandro Bruges  
-**Grado:** 11  
+**Estudiante:** Alejandro Elías Bruges Blanco  
+**Grado:** 11-7  
 **Asignatura:** Programación 2  
+**Docente:** Ing. Leonardo Arias  
 **Modalidad:** Hardware y Software  
 **Institución:** I.E.D.T. INEM Simón Bolívar  
 **Año escolar:** 2026
 
 ## Prompt
 
-Soy Alejandro Bruges, estudiante de grado 11 de la modalidad Hardware y Software de la I.E.D.T. INEM Simón Bolívar. Estoy cursando Programación 2 durante el año escolar 2026.
+Soy Alejandro Elías Bruges Blanco, estudiante de grado 11-7 de la modalidad Hardware y Software de la I.E.D.T. INEM Simón Bolívar. Estoy cursando Programación 2 durante el año escolar 2026.
 
 Estoy comenzando a aprender programación, así que necesito crear un programa sencillo, corto, ordenado y fácil de entender. No quiero un código complicado. Quiero poder comprender cada parte y después explicarla con mis propias palabras.
 
