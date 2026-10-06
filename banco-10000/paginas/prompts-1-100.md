@@ -1,402 +1,402 @@
 # Prompts 1–100
 
-## 1. sorteo especial de dados y azar — 1
+## 1. Dado Digital D6
 
-Crea **sorteo especial de dados y azar — 1** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Al agitar la micro:bit genera un número entre 1 y 6 y lo muestra en la matriz LED. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **número obtenido**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 2. sorteo especial de semáforos — 2
+## 2. Semáforo peatonal escolar
 
-Crea **sorteo especial de semáforos — 2** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Simula el paso de peatones: A solicita cruce, aparece espera y después cambia la señal visual. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botón A**. Salida principal: **señales de esperar y pasar**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 3. sorteo especial de temperatura — 3
+## 3. Termómetro con alerta de calor
 
-Crea **sorteo especial de temperatura — 3** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Lee la temperatura y avisa con símbolos diferentes cuando el ambiente está normal o caliente. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **sensor de temperatura**. Salida principal: **temperatura y alerta**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 4. sorteo especial de brújula — 4
+## 4. Brújula para búsqueda del tesoro
 
-Crea **sorteo especial de brújula — 4** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Consulta el rumbo y muestra una flecha que ayuda a seguir una dirección objetivo. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **flecha de orientación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 5. sorteo especial de deportes — 5
+## 5. Cronómetro de reflejos
 
-Crea **sorteo especial de deportes — 5** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Espera un tiempo variable, enciende una señal y mide cuánto tarda el jugador en pulsar B. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botón B y tiempo**. Salida principal: **tiempo de reacción**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 6. sorteo especial de reflejos — 6
+## 6. Contador de vueltas deportivas
 
-Crea **sorteo especial de reflejos — 6** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Suma una vuelta con A, permite consultar el total con B y reinicia con A+B. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botones A, B y A+B**. Salida principal: **cantidad de vueltas**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 7. sorteo especial de mascotas digitales — 7
+## 7. Alarma de mochila
 
-Crea **sorteo especial de mascotas digitales — 7** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Detecta un movimiento inesperado y muestra una advertencia hasta que el usuario la desactive. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **acelerómetro**. Salida principal: **alerta visual**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 8. sorteo especial de alarmas — 8
+## 8. Nivel para superficies
 
-Crea **sorteo especial de alarmas — 8** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Interpreta la inclinación de la placa para indicar hacia qué lado debe corregirse una superficie. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **acelerómetro**. Salida principal: **flechas de corrección**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 9. sorteo especial de relojes — 9
+## 9. Juego de memoria de botones
 
-Crea **sorteo especial de relojes — 9** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Presenta una secuencia de A y B que el jugador debe repetir correctamente. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botones A y B**. Salida principal: **nivel o fallo**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 10. sorteo especial de retos — 10
+## 10. Medidor de luz para lectura
 
-Crea **sorteo especial de retos — 10** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Comprueba la luz ambiental y avisa si hay iluminación suficiente para leer. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **sensor de luz**. Salida principal: **estado de iluminación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 11. control de paso de dados y azar — 11
+## 11. Selector de equipos
 
-Crea **control de paso de dados y azar — 11** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Asigna de forma aleatoria a una persona al equipo A o B cuando se pulsa un botón. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botón A**. Salida principal: **equipo asignado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 12. control de paso de semáforos — 12
+## 12. Reloj de estudio por intervalos
 
-Crea **control de paso de semáforos — 12** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Cuenta un periodo de estudio y después indica una pausa antes de comenzar otro ciclo. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **tiempo**. Salida principal: **aviso de estudio o descanso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 13. control de paso de temperatura — 13
+## 13. Marcador de partido
 
-Crea **control de paso de temperatura — 13** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+A suma al equipo local, B al visitante y A+B muestra ambos marcadores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botones**. Salida principal: **marcador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 14. control de paso de brújula — 14
+## 14. Entrenador de tablas
 
-Crea **control de paso de brújula — 14** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Muestra una multiplicación sencilla y permite comprobar una respuesta mediante botones. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botones**. Salida principal: **acierto o error**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 15. control de paso de deportes — 15
+## 15. Detector de caída
 
-Crea **control de paso de deportes — 15** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Reconoce el gesto de caída y deja una señal visible de que ocurrió el evento. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **acelerómetro**. Salida principal: **aviso de caída**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 16. control de paso de reflejos — 16
+## 16. Ruleta de tareas del salón
 
-Crea **control de paso de reflejos — 16** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Escoge una tarea distinta de una lista numerada para repartir responsabilidades. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **número de tarea**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 17. control de paso de mascotas digitales — 17
+## 17. Mascota digital
 
-Crea **control de paso de mascotas digitales — 17** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **resultado aleatorio** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Mantiene un estado de ánimo que cambia según las acciones realizadas con botones y movimiento. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botones y gestos**. Salida principal: **cara de estado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 18. control de paso de alarmas — 18
+## 18. Contador de asistencia
 
-Crea **control de paso de alarmas — 18** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Registra entradas con A, resta correcciones con B y muestra el total con A+B. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **botones**. Salida principal: **total registrado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 19. control de paso de relojes — 19
+## 19. Indicador de norte
 
-Crea **control de paso de relojes — 19** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Calcula el rumbo con la brújula y guía al usuario hasta apuntar aproximadamente al norte. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **dirección**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 20. control de paso de retos — 20
+## 20. Temporizador de exposición
 
-Crea **control de paso de retos — 20** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Realiza una cuenta de tiempo y avisa visualmente cuando al expositor le queda poco tiempo. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **tiempo**. Salida principal: **cuenta y aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 21. comparador térmico de dados y azar — 21
+## 21. Bitácora de biblioteca: registrar turnos
 
-Crea **comparador térmico de dados y azar — 21** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 22. comparador térmico de semáforos — 22
+## 22. Estación de huerta escolar: registrar turnos
 
-Crea **comparador térmico de semáforos — 22** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 23. comparador térmico de temperatura — 23
+## 23. Asistente de laboratorio: registrar turnos
 
-Crea **comparador térmico de temperatura — 23** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 24. comparador térmico de brújula — 24
+## 24. Control de cancha: registrar turnos
 
-Crea **comparador térmico de brújula — 24** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 25. comparador térmico de deportes — 25
+## 25. Reto de salón: registrar turnos
 
-Crea **comparador térmico de deportes — 25** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 26. comparador térmico de reflejos — 26
+## 26. Monitor de feria científica: registrar turnos
 
-Crea **comparador térmico de reflejos — 26** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 27. comparador térmico de mascotas digitales — 27
+## 27. Guía de sendero: registrar turnos
 
-Crea **comparador térmico de mascotas digitales — 27** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 28. comparador térmico de alarmas — 28
+## 28. Panel de casa: registrar turnos
 
-Crea **comparador térmico de alarmas — 28** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 29. comparador térmico de relojes — 29
+## 29. Bitácora de museo: registrar turnos
 
-Crea **comparador térmico de relojes — 29** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 30. comparador térmico de retos — 30
+## 30. Estación de taller: registrar turnos
 
-Crea **comparador térmico de retos — 30** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea registrar turnos. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 31. buscador de rumbo de dados y azar — 31
+## 31. Asistente de biblioteca: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de dados y azar — 31** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 32. buscador de rumbo de semáforos — 32
+## 32. Control de huerta escolar: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de semáforos — 32** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 33. buscador de rumbo de temperatura — 33
+## 33. Reto de laboratorio: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de temperatura — 33** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 34. buscador de rumbo de brújula — 34
+## 34. Monitor de cancha: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de brújula — 34** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **señal de paso** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 35. buscador de rumbo de deportes — 35
+## 35. Guía de salón: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de deportes — 35** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 36. buscador de rumbo de reflejos — 36
+## 36. Panel de feria científica: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de reflejos — 36** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 37. buscador de rumbo de mascotas digitales — 37
+## 37. Bitácora de sendero: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de mascotas digitales — 37** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 38. buscador de rumbo de alarmas — 38
+## 38. Estación de casa: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de alarmas — 38** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 39. buscador de rumbo de relojes — 39
+## 39. Asistente de museo: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de relojes — 39** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 40. buscador de rumbo de retos — 40
+## 40. Control de taller: controlar una cuenta regresiva
 
-Crea **buscador de rumbo de retos — 40** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea controlar una cuenta regresiva. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 41. marcador de entrenamiento de dados y azar — 41
+## 41. Reto de biblioteca: clasificar resultados
 
-Crea **marcador de entrenamiento de dados y azar — 41** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 42. marcador de entrenamiento de semáforos — 42
+## 42. Monitor de huerta escolar: clasificar resultados
 
-Crea **marcador de entrenamiento de semáforos — 42** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 43. marcador de entrenamiento de temperatura — 43
+## 43. Guía de laboratorio: clasificar resultados
 
-Crea **marcador de entrenamiento de temperatura — 43** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 44. marcador de entrenamiento de brújula — 44
+## 44. Panel de cancha: clasificar resultados
 
-Crea **marcador de entrenamiento de brújula — 44** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 45. marcador de entrenamiento de deportes — 45
+## 45. Bitácora de salón: clasificar resultados
 
-Crea **marcador de entrenamiento de deportes — 45** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 46. marcador de entrenamiento de reflejos — 46
+## 46. Estación de feria científica: clasificar resultados
 
-Crea **marcador de entrenamiento de reflejos — 46** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 47. marcador de entrenamiento de mascotas digitales — 47
+## 47. Asistente de sendero: clasificar resultados
 
-Crea **marcador de entrenamiento de mascotas digitales — 47** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 48. marcador de entrenamiento de alarmas — 48
+## 48. Control de casa: clasificar resultados
 
-Crea **marcador de entrenamiento de alarmas — 48** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 49. marcador de entrenamiento de relojes — 49
+## 49. Reto de museo: clasificar resultados
 
-Crea **marcador de entrenamiento de relojes — 49** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 50. marcador de entrenamiento de retos — 50
+## 50. Monitor de taller: clasificar resultados
 
-Crea **marcador de entrenamiento de retos — 50** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea clasificar resultados. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 51. prueba de reacción de dados y azar — 51
+## 51. Guía de biblioteca: seguir una secuencia
 
-Crea **prueba de reacción de dados y azar — 51** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **aviso térmico** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 52. prueba de reacción de semáforos — 52
+## 52. Panel de huerta escolar: seguir una secuencia
 
-Crea **prueba de reacción de semáforos — 52** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 53. prueba de reacción de temperatura — 53
+## 53. Bitácora de laboratorio: seguir una secuencia
 
-Crea **prueba de reacción de temperatura — 53** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 54. prueba de reacción de brújula — 54
+## 54. Estación de cancha: seguir una secuencia
 
-Crea **prueba de reacción de brújula — 54** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 55. prueba de reacción de deportes — 55
+## 55. Asistente de salón: seguir una secuencia
 
-Crea **prueba de reacción de deportes — 55** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 56. prueba de reacción de reflejos — 56
+## 56. Control de feria científica: seguir una secuencia
 
-Crea **prueba de reacción de reflejos — 56** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 57. prueba de reacción de mascotas digitales — 57
+## 57. Reto de sendero: seguir una secuencia
 
-Crea **prueba de reacción de mascotas digitales — 57** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 58. prueba de reacción de alarmas — 58
+## 58. Monitor de casa: seguir una secuencia
 
-Crea **prueba de reacción de alarmas — 58** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 59. prueba de reacción de relojes — 59
+## 59. Guía de museo: seguir una secuencia
 
-Crea **prueba de reacción de relojes — 59** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 60. prueba de reacción de retos — 60
+## 60. Panel de taller: seguir una secuencia
 
-Crea **prueba de reacción de retos — 60** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea seguir una secuencia. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 61. cuidador virtual de dados y azar — 61
+## 61. Bitácora de biblioteca: comparar dos valores
 
-Crea **cuidador virtual de dados y azar — 61** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 62. cuidador virtual de semáforos — 62
+## 62. Estación de huerta escolar: comparar dos valores
 
-Crea **cuidador virtual de semáforos — 62** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 63. cuidador virtual de temperatura — 63
+## 63. Asistente de laboratorio: comparar dos valores
 
-Crea **cuidador virtual de temperatura — 63** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 64. cuidador virtual de brújula — 64
+## 64. Control de cancha: comparar dos valores
 
-Crea **cuidador virtual de brújula — 64** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 65. cuidador virtual de deportes — 65
+## 65. Reto de salón: comparar dos valores
 
-Crea **cuidador virtual de deportes — 65** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 66. cuidador virtual de reflejos — 66
+## 66. Monitor de feria científica: comparar dos valores
 
-Crea **cuidador virtual de reflejos — 66** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 67. cuidador virtual de mascotas digitales — 67
+## 67. Guía de sendero: comparar dos valores
 
-Crea **cuidador virtual de mascotas digitales — 67** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 68. cuidador virtual de alarmas — 68
+## 68. Panel de casa: comparar dos valores
 
-Crea **cuidador virtual de alarmas — 68** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **flecha** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 69. cuidador virtual de relojes — 69
+## 69. Bitácora de museo: comparar dos valores
 
-Crea **cuidador virtual de relojes — 69** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 70. cuidador virtual de retos — 70
+## 70. Estación de taller: comparar dos valores
 
-Crea **cuidador virtual de retos — 70** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea comparar dos valores. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 71. vigilante de movimiento de dados y azar — 71
+## 71. Asistente de biblioteca: avisar un cambio
 
-Crea **vigilante de movimiento de dados y azar — 71** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 72. vigilante de movimiento de semáforos — 72
+## 72. Control de huerta escolar: avisar un cambio
 
-Crea **vigilante de movimiento de semáforos — 72** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 73. vigilante de movimiento de temperatura — 73
+## 73. Reto de laboratorio: avisar un cambio
 
-Crea **vigilante de movimiento de temperatura — 73** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 74. vigilante de movimiento de brújula — 74
+## 74. Monitor de cancha: avisar un cambio
 
-Crea **vigilante de movimiento de brújula — 74** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 75. vigilante de movimiento de deportes — 75
+## 75. Guía de salón: avisar un cambio
 
-Crea **vigilante de movimiento de deportes — 75** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 76. vigilante de movimiento de reflejos — 76
+## 76. Panel de feria científica: avisar un cambio
 
-Crea **vigilante de movimiento de reflejos — 76** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 77. vigilante de movimiento de mascotas digitales — 77
+## 77. Bitácora de sendero: avisar un cambio
 
-Crea **vigilante de movimiento de mascotas digitales — 77** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 78. vigilante de movimiento de alarmas — 78
+## 78. Estación de casa: avisar un cambio
 
-Crea **vigilante de movimiento de alarmas — 78** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 79. vigilante de movimiento de relojes — 79
+## 79. Asistente de museo: avisar un cambio
 
-Crea **vigilante de movimiento de relojes — 79** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 80. vigilante de movimiento de retos — 80
+## 80. Control de taller: avisar un cambio
 
-Crea **vigilante de movimiento de retos — 80** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea avisar un cambio. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 81. temporizador personal de dados y azar — 81
+## 81. Reto de biblioteca: guardar un puntaje
 
-Crea **temporizador personal de dados y azar — 81** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 82. temporizador personal de semáforos — 82
+## 82. Monitor de huerta escolar: guardar un puntaje
 
-Crea **temporizador personal de semáforos — 82** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 83. temporizador personal de temperatura — 83
+## 83. Guía de laboratorio: guardar un puntaje
 
-Crea **temporizador personal de temperatura — 83** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 84. temporizador personal de brújula — 84
+## 84. Panel de cancha: guardar un puntaje
 
-Crea **temporizador personal de brújula — 84** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 85. temporizador personal de deportes — 85
+## 85. Bitácora de salón: guardar un puntaje
 
-Crea **temporizador personal de deportes — 85** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **puntaje** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 86. temporizador personal de reflejos — 86
+## 86. Estación de feria científica: guardar un puntaje
 
-Crea **temporizador personal de reflejos — 86** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 87. temporizador personal de mascotas digitales — 87
+## 87. Asistente de sendero: guardar un puntaje
 
-Crea **temporizador personal de mascotas digitales — 87** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 88. temporizador personal de alarmas — 88
+## 88. Control de casa: guardar un puntaje
 
-Crea **temporizador personal de alarmas — 88** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 89. temporizador personal de relojes — 89
+## 89. Reto de museo: guardar un puntaje
 
-Crea **temporizador personal de relojes — 89** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 90. temporizador personal de retos — 90
+## 90. Monitor de taller: guardar un puntaje
 
-Crea **temporizador personal de retos — 90** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea guardar un puntaje. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 91. desafío interactivo de dados y azar — 91
+## 91. Guía de biblioteca: elegir una opción
 
-Crea **desafío interactivo de dados y azar — 91** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **dados y azar** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para biblioteca cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A**. Salida principal: **contador**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 92. desafío interactivo de semáforos — 92
+## 92. Panel de huerta escolar: elegir una opción
 
-Crea **desafío interactivo de semáforos — 92** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **semáforos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para huerta escolar cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **agitar**. Salida principal: **aviso**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 93. desafío interactivo de temperatura — 93
+## 93. Bitácora de laboratorio: elegir una opción
 
-Crea **desafío interactivo de temperatura — 93** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **temperatura** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para laboratorio cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **luz**. Salida principal: **icono**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 94. desafío interactivo de brújula — 94
+## 94. Estación de cancha: elegir una opción
 
-Crea **desafío interactivo de brújula — 94** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **brújula** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para cancha cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **logo táctil**. Salida principal: **animación**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 95. desafío interactivo de deportes — 95
+## 95. Asistente de salón: elegir una opción
 
-Crea **desafío interactivo de deportes — 95** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **deportes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para salón cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **A+B**. Salida principal: **secuencia**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 96. desafío interactivo de reflejos — 96
+## 96. Control de feria científica: elegir una opción
 
-Crea **desafío interactivo de reflejos — 96** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **reflejos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para feria científica cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **temperatura**. Salida principal: **puntaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 97. desafío interactivo de mascotas digitales — 97
+## 97. Reto de sendero: elegir una opción
 
-Crea **desafío interactivo de mascotas digitales — 97** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **mascotas digitales** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para sendero cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **movimiento**. Salida principal: **flecha**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 98. desafío interactivo de alarmas — 98
+## 98. Monitor de casa: elegir una opción
 
-Crea **desafío interactivo de alarmas — 98** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **alarmas** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para casa cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **B**. Salida principal: **resultado**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 99. desafío interactivo de relojes — 99
+## 99. Guía de museo: elegir una opción
 
-Crea **desafío interactivo de relojes — 99** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **relojes** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para museo cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **inclinar**. Salida principal: **medición**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
-## 100. desafío interactivo de retos — 100
+## 100. Panel de taller: elegir una opción
 
-Crea **desafío interactivo de retos — 100** en MicroPython para BBC micro:bit. Dale una finalidad concreta relacionada con **retos** y una mecánica distinta para este proyecto. Usa **shake** como entrada y entrega **tiempo de reacción** en la matriz LED. Define reglas propias, función principal, condición y repetición cuando corresponda. Explica objetivo, funcionamiento, entrada, proceso, salida, resultado esperado y una prueba física. El código debe ser corto y entendible para grado 11.
+Crea una aplicación para taller cuya tarea principal sea elegir una opción. La interacción debe adaptarse a esa situación y no copiar la lógica de los proyectos anteriores. Programa la solución en MicroPython para BBC micro:bit. Entrada principal: **brújula**. Salida principal: **mensaje**. Explica el objetivo, el funcionamiento, el proceso, el resultado esperado y una prueba física concreta. Usa funciones y estructuras básicas que realmente necesite este proyecto.
 
