@@ -1,8 +1,4 @@
-# Evidencias - Dado Digital D6
-
-## Imagen ilustrativa
-
-Imagen ilustrativa del proyecto Dado Digital D6 con una BBC micro:bit.
+# Evidencia - Dado Digital D6
 
 ## Evidencia real de la prueba física
 
@@ -10,16 +6,18 @@ Imagen ilustrativa del proyecto Dado Digital D6 con una BBC micro:bit.
 
 ## Registro de prueba
 
+Este espacio se completa con los resultados obtenidos durante la prueba física real.
+
 | Qué probé | Resultado | Cambio realizado |
 |---|---|---|
-| Carga del programa | PENDIENTE | PENDIENTE |
-| Inicio | PENDIENTE | PENDIENTE |
-| Movimiento al agitar | PENDIENTE | PENDIENTE |
-| Número en pantalla | PENDIENTE | PENDIENTE |
-| Rango del 1 al 6 | PENDIENTE | PENDIENTE |
-| Varios lanzamientos | PENDIENTE | PENDIENTE |
-| Reinicio | PENDIENTE | PENDIENTE |
-| Prueba final | PENDIENTE | PENDIENTE |
+| Carga del programa |  |  |
+| Inicio |  |  |
+| Movimiento al agitar |  |  |
+| Número en pantalla |  |  |
+| Rango del 1 al 6 |  |  |
+| Varios lanzamientos |  |  |
+| Reinicio |  |  |
+| Prueba final |  |  |
 
 ## Reflexión
 
