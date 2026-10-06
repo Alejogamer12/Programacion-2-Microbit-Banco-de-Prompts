@@ -1,10 +1,16 @@
 # Evidencia - Dado Digital D6
 
-## Evidencia real de la prueba física
+## Prueba del proyecto
 
-Prueba física realizada por Alejandro Bruges. El programa funcionó correctamente en la BBC micro:bit.
+La prueba física fue realizada por Alejandro Bruges y el programa funcionó correctamente en la BBC micro:bit.
 
-![Evidencia real de la prueba física](Mano%20sosteniendo%20micro_bit%20con%20LED%20cuatro%20%281%29.png)
+![Imagen del proyecto](Evidencia_Dado_Digital_D6.png)
+
+## Evidencia del código y simulador
+
+En el Python Editor oficial se probó el programa usando la opción de agitar. El simulador respondió correctamente y mostró el número 4.
+
+![Código y simulador funcionando](Evidencia_Codigo_y_Simulador_Dado_D6.jpg)
 
 ## Registro de prueba
 
