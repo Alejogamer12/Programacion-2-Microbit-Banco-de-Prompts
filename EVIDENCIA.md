@@ -25,28 +25,28 @@ Probé el programa en la micro:bit y todo funcionó bien. Al agitarla, detectó 
 
 ### 1. ¿Qué parte ayudó a crear la IA?
 
-La IA me ayudó a organizar el prompt y a tener una base para hacer el código. Después revisé el programa para entender cómo funcionaba antes de probarlo.
+La parte en la que me ayudó la IA fue a organizar mejor el prompt y a tener una idea de cómo podía hacer el código del dado digital.
 
 ### 2. ¿Qué partes revisé y entendí yo?
 
-Revisé el código y entendí que el acelerómetro detecta cuando agito la micro:bit, la función hace el lanzamiento y el programa genera un número del 1 al 6 para mostrarlo en la pantalla.
+Las partes que revisé y entendí yo fueron cómo el acelerómetro detecta cuando agito la micro:bit, cómo se genera el número del 1 al 6 y cómo después aparece en la pantalla.
 
 ### 3. ¿La primera versión funcionó?
 
-Sí. La primera versión funcionó correctamente cuando la probé en la micro:bit.
+Sí, la primera versión me funcionó bien. La probé varias veces y la micro:bit respondió como esperaba.
 
 ### 4. ¿Tuve que corregir algo?
 
-No tuve que hacer cambios en el código porque durante las pruebas funcionó como esperaba.
+No tuve que corregir nada porque cuando hice las pruebas el programa funcionó bien y no me presentó ningún problema.
 
 ### 5. ¿Qué aprendí al probar el programa?
 
-Aprendí que no basta con tener el código escrito. También hay que probarlo en la micro:bit para comprobar que realmente responde bien cuando la agito y que muestra los resultados correctamente.
+Lo que aprendí fue que no es solamente hacer el código y ya. También hay que probarlo en la micro:bit para saber si de verdad funciona como uno espera.
 
 ### 6. ¿Qué diferencia encontré entre tener el código escrito y verlo funcionando realmente?
 
-Cuando solamente tenía el código podía entender lo que debía hacer, pero al probarlo pude comprobar directamente que la micro:bit detectaba el movimiento y mostraba los números como estaba planeado.
+La diferencia que encontré fue que al principio solamente tenía el código y sabía lo que debía hacer, pero cuando lo probé pude ver realmente cómo la micro:bit detectaba el movimiento y mostraba los números.
 
 ### 7. ¿Qué podría mejorar del prompt?
 
-Podría explicar todavía mejor los pasos de la prueba y dejar más claro desde el principio cómo quiero que funcione el programa. Así la respuesta puede salir más organizada y fácil de entender.
+Lo que podría mejorar del prompt sería explicar algunas cosas con más claridad desde el principio, para que el código salga más organizado y sea más fácil de entender.
