@@ -39,6 +39,5 @@ También quiero aprender a escribir mejores instrucciones para obtener resultado
 - [Banco ampliado de 10.000 prompts](BANCO-DE-10000-PROMPTS.md)
 - [Evidencia](EVIDENCIA.md)
 
-## Evidencia real de la prueba física
 
-**FALTA AQUÍ LA FOTO**
+## Evidencia real de la prueba física
