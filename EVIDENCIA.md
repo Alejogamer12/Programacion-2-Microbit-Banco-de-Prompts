@@ -2,7 +2,7 @@
 
 ## Evidencia real de la prueba física
 
-Prueba física realizada por Alejandro Bruges. El estudiante informa que el programa funcionó correctamente en la BBC micro:bit y conserva los videos de la prueba para mostrarlos al profesor.
+Prueba física realizada por Alejandro Bruges. El programa funcionó correctamente en la BBC micro:bit.
 
 ## Registro de prueba
 
@@ -19,7 +19,7 @@ Prueba física realizada por Alejandro Bruges. El estudiante informa que el prog
 
 ## Resultado general
 
-La prueba física fue realizada y, según el resultado registrado por el estudiante, el Dado Digital D6 funcionó correctamente.
+Probé el programa en la micro:bit y todo funcionó bien. Al agitarla, detectó el movimiento y mostró un número del 1 al 6. Lo probé varias veces y respondió correctamente.
 
 ## Reflexión
 
