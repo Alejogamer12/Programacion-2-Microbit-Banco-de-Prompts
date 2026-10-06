@@ -1,8 +1,9 @@
 # Entrega del proyecto - Dado Digital D6
 
-**Estudiante:** Alejandro Bruges  
-**Grado:** 11  
+**Estudiante:** Alejandro Elías Bruges Blanco  
+**Grado:** 11-7  
 **Asignatura:** Programación 2  
+**Docente:** Ing. Leonardo Arias  
 **Año escolar:** 2026
 
 Este archivo deja registrada la entrega del proyecto Dado Digital D6 mediante un Pull Request.
